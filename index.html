@@ -2,21 +2,36 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <!-- 1) Insert the global icon reference so all pages share the 📦 emoji -->
+    <!-- Shared global icon for all pages -->
     <link
       rel="icon"
       type="image/svg+xml"
       href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='512'%20height='512'%3E%3Ctext%20x='50%25'%20y='50%25'%20dominant-baseline='middle'%20text-anchor='middle'%20font-size='200'%3E%F0%9F%93%A6%3C/text%3E%3C/svg%3E"
     />
 
+    <!-- Mobile-friendly meta tag -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- 2) Provide a default page title for SEO or fallback -->
-    <title>HoboTown</title>
+
+    <!-- SEO: Title, Description, and Social Media Tags -->
+    <title>HoboTown | Explore the HoboVerse 📦</title>
+    <meta name="description" content="Explore the vibrant world of HoboTown, HoboLand, and Critterz. Join the Hoboverse community today!" />
+    <meta property="og:title" content="HoboTown | Explore the HoboVerse 📦" />
+    <meta property="og:description" content="Discover the amazing world of HoboTown NFTs with HoboHQ and more." />
+    <meta property="og:image" content="/assets/hobotown-preview.png" />
+    <meta property="og:url" content="https://hobotown.wtf" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Preconnect for performance -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Add fonts if needed -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
     <script type="module" crossorigin src="/assets/index-DCrdQOvJ.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-9yROkU05.css">
   </head>
   <body>
-    <!-- 3) Your React app attaches to #root, as usual -->
+    <!-- React app mounts to #root -->
     <div id="root"></div>
   </body>
 </html>
