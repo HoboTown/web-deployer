@@ -1,0 +1,32 @@
+{
+  "dna": "0756947fe734b8fae92443b9209b06369ae5c04e403dc633ae91749ccae36ff5",
+  "name": "hobotown #431",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/431.png",
+  "imageHash": "b4b53b9fd54e1c2d4cced7fd1d31ce8b2697e0188a06765d44c5004ffd27c4ba",
+  "edition": 431,
+  "date": 1654146227067,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,28 @@
+{
+  "dna": "8545453372ee9e73df69849825e02767d584b98459d0b54427b7cd1a85a63ed4",
+  "name": "hobotown #199",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/199.png",
+  "imageHash": "a369e83320b0c304ae8aab63fdff86bcce8331ec0361c6b1f128bdbb4409c9aa",
+  "edition": 199,
+  "date": 1654145967644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

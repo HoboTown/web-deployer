@@ -1,0 +1,32 @@
+{
+  "dna": "0fc39d6c8b888f777a3b1cd282ba6742b2420e23899bd64dd04b780131a493b3",
+  "name": "hobotown #5460",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5460.png",
+  "imageHash": "174448cd4d7942e6e1cb03fc6864944e9daf39af4379aa0b87af0249892be101",
+  "edition": 5460,
+  "date": 1654150042339,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

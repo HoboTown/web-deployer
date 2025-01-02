@@ -1,0 +1,32 @@
+{
+  "dna": "c2aeaa22b11af65b18e275cbc5f58c76c10d119dd3087cc38419c95ace2f770c",
+  "name": "hobotown #3682",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3682.png",
+  "imageHash": "03738dd09ac1f332e5031ad9ad7c5e6c5f6111d709d3b5a1de0175cc2af057e6",
+  "edition": 3682,
+  "date": 1654148975966,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

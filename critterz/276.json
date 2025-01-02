@@ -1,0 +1,39 @@
+{
+  "name": "critterz #276",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/276.png",
+  "dna": "aa6363e06261429f976bc0c49762f3728ef07bc1",
+  "edition": 276,
+  "date": 1675145552208,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "dawgz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pinky"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

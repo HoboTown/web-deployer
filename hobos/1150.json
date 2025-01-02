@@ -1,0 +1,32 @@
+{
+  "dna": "2351f3ec6ad2e49d05db282d2c611ece469774818daad64aa4f2a2cb32cc03e5",
+  "name": "hobotown #1150",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1150.png",
+  "imageHash": "7e6265a3a700053c8c4f1a7a5676f94b19ce5b10cb42565cd14dbac21d277822",
+  "edition": 1150,
+  "date": 1654146837590,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

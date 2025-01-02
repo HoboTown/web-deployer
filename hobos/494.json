@@ -1,0 +1,32 @@
+{
+  "dna": "1bd56bc5308c4f869642ea63c126e736e84ad0db0163c82e3973528362ff1b14",
+  "name": "hobotown #494",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/494.png",
+  "imageHash": "180a071f1e347d2dec4115a9f005148b793618c91a005fe6ae5704cf61c69997",
+  "edition": 494,
+  "date": 1654146285840,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

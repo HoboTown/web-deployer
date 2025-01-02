@@ -1,0 +1,36 @@
+{
+  "dna": "3257c7433ee28bcf91df8869b2cead3f1a6c3432cab49d2c005578f0140e2e1c",
+  "name": "hobotown #1712",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1712.png",
+  "imageHash": "e9778721ebf6878e23f787ca3d118eb2a43648972eab75ba4e9a417761172081",
+  "edition": 1712,
+  "date": 1654147352493,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

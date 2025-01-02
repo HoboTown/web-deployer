@@ -1,0 +1,32 @@
+{
+  "dna": "d9ad62c25bfc7fa88a7c757dc173b2cf962c79bd29baf7750d61fc816983fd9f",
+  "name": "hobotown #2703",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2703.png",
+  "imageHash": "6159ff7e5692dce98401af57bea11c52f75cf9cbd57828b5504bd95097d28740",
+  "edition": 2703,
+  "date": 1654148319045,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

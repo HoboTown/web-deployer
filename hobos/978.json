@@ -1,0 +1,32 @@
+{
+  "dna": "b16cd2a36080d1d6d2e2e5e658b111bd349b0eac2c07e1a89134fdbb274524e4",
+  "name": "hobotown #978",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/978.png",
+  "imageHash": "43d04d1ae583b19f72a3e03a489629623beb5ddb1766dc05b3b1de8abd5db692",
+  "edition": 978,
+  "date": 1654146668300,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

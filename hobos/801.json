@@ -1,0 +1,32 @@
+{
+  "dna": "e4b759157c3d9b6acccc3b6d97e11674fb4249b18d5c4a2973546bdce0506d0a",
+  "name": "hobotown #801",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/801.png",
+  "imageHash": "e0e0ac3ef96600fad30b343c3afa0532569b1b3493be56d1d8e481200c335f8d",
+  "edition": 801,
+  "date": 1654146539147,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

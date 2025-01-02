@@ -1,0 +1,39 @@
+{
+  "name": "critterz #841",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/841.png",
+  "dna": "41a196e4d00787d895e4e5896a7ece6c8abe2399",
+  "edition": 841,
+  "date": 1675145653063,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "dawgz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleep"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

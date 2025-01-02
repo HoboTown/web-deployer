@@ -1,0 +1,32 @@
+{
+  "dna": "034f8e6730aac5c6dd5fc1ea44de7db0a1c792e759e12340334871f392ce512d",
+  "name": "hobotown #6040",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6040.png",
+  "imageHash": "7cac9f7576778b4a1b57b0343cb6d8b97d16a973b9a8fcbd9674a1b6c08205f6",
+  "edition": 6040,
+  "date": 1654150324871,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

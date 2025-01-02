@@ -1,0 +1,28 @@
+{
+  "dna": "eb45ca0a99c055553e9c3998f8bdd5a2aabfe22b6c35d0361bb6676fea3a0885",
+  "name": "hobotown #1530",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1530.png",
+  "imageHash": "e8943fc433d10c3bb699ea9312c964a6bc5b67a343609dc1d6edea6d12bd7a81",
+  "edition": 1530,
+  "date": 1654147179153,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "1f2ee8cdfe07acff9d12456c810c391f3f21b5e8ae12b94877a861b4d8729fe8",
+  "name": "hobotown #1357",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1357.png",
+  "imageHash": "1f4107d85c928eefc3ed16c4b81ad4394d0fc70b13d4a2e70308df01dd25b3cb",
+  "edition": 1357,
+  "date": 1654147034414,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "critterz #687",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/687.png",
+  "dna": "52eb1e8f8c48c328bde23069a194cc5c4021d338",
+  "edition": 687,
+  "date": 1675145622715,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "dawgz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Beggin"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

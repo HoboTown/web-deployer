@@ -1,0 +1,32 @@
+{
+  "dna": "0db8a26273f96b96548fda4d0d8e0676e78af04c2a725864dd73bc0688e93e00",
+  "name": "hobotown #5236",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5236.png",
+  "imageHash": "5a5048e8edd8337387e067ca0976ec9547d248021fb865ac0e189c1cdca6638c",
+  "edition": 5236,
+  "date": 1654149930097,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

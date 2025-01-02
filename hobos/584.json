@@ -1,0 +1,32 @@
+{
+  "dna": "44b426174e83b4df6b13f313fb8996a5f26d703942a800045d3bfc0b92f3ba70",
+  "name": "hobotown #584",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/584.png",
+  "imageHash": "14ebf62b4076940388484494f02231c1920257786f2f8a5fc0d078c3b618e98c",
+  "edition": 584,
+  "date": 1654146355770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

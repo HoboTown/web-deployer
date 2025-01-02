@@ -1,0 +1,39 @@
+{
+  "name": "critterz #1315",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/1315.png",
+  "dna": "9a96aec7db60fff12c96e05dbba04cbf7fb2b17c",
+  "edition": 1315,
+  "date": 1675144958083,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ratz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Seafoam"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Worried"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

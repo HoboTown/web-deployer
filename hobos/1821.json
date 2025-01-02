@@ -1,0 +1,32 @@
+{
+  "dna": "2213caebee79b6035b85a2f16731a24a6c6bd7666c6a83928a2b58c31daddd76",
+  "name": "hobotown #1821",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1821.png",
+  "imageHash": "c6e2eb593d84deae207a1a259c076ee524c039b69a7a82bef1d6427762fce130",
+  "edition": 1821,
+  "date": 1654147462895,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "2d74ecbb01753fe441a2715665d90288f2b19b9b42c94250f2c92620d095b267",
+  "name": "hobotown #969",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/969.png",
+  "imageHash": "d1602f4373796de98a54349336244f1a69b6fddede055d9899961a76a3944f2c",
+  "edition": 969,
+  "date": 1654146662047,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

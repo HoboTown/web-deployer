@@ -1,0 +1,43 @@
+{
+  "name": "critterz #180",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/180.png",
+  "dna": "8ddaebfebc141bc0dc1db88cdd7db6ffe0e4c474",
+  "edition": 180,
+  "date": 1675146096689,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Patched Tabby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Olive Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Worried"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Olive"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Sparse"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drool"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

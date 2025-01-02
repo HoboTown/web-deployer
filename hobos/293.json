@@ -1,0 +1,32 @@
+{
+  "dna": "4cdca652d59db9122ceb984a130d6ed5069373c94834202339676357189588b3",
+  "name": "hobotown #293",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/293.png",
+  "imageHash": "c041dfa49f2d9e1597a0242d026a1a0162684079055d796dd3867a1fcba919dc",
+  "edition": 293,
+  "date": 1654146089009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

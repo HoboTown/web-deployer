@@ -1,0 +1,36 @@
+{
+  "dna": "886d7c68d959d090f522bd3e98b7bb4dc8b6f400af9fc8e1b62266921894ef70",
+  "name": "hobotown #2007",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2007.png",
+  "imageHash": "e630790f8bce2118718c5a55af4503d1491c50cd5a9199ab3d93514f7bc746b0",
+  "edition": 2007,
+  "date": 1654147650510,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

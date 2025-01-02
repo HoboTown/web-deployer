@@ -1,0 +1,32 @@
+{
+  "dna": "c0bb3ad9c70954c1140a2968b1d5f6df79e78a1015304d55248c00327bfffaa1",
+  "name": "hobotown #6370",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6370.png",
+  "imageHash": "928fff4eebefd4f08800f5ee8e53636a6fa256cab0b32b1f295b31c73b00c8d2",
+  "edition": 6370,
+  "date": 1654150526425,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

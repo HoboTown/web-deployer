@@ -1,0 +1,43 @@
+{
+  "name": "critterz #997",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/997.png",
+  "dna": "00441deec0e8d729e0306d2d2976b904bf1baad1",
+  "edition": 997,
+  "date": 1675146199497,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tortie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Headband"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stoned"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Red with Fish"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Full"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

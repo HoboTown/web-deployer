@@ -1,0 +1,39 @@
+{
+  "name": "critterz #758",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/758.png",
+  "dna": "039d7433ff903f2d0276d0758a23c7d7285d6c05",
+  "edition": 758,
+  "date": 1675144924760,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ratz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eye"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Chompers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

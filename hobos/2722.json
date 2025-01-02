@@ -1,0 +1,36 @@
+{
+  "dna": "cd28f9c08dad275aaf40b402ffaf5620bd6d5642f778d003b547b2a09ba02adb",
+  "name": "hobotown #2722",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2722.png",
+  "imageHash": "2a0fb97f677fca459d294193b11be9b296596181d5fe0862436cdb052bfa226a",
+  "edition": 2722,
+  "date": 1654148332908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

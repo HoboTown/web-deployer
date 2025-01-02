@@ -1,0 +1,32 @@
+{
+  "dna": "db8183e1e36e616e408ade17c1a0af3e5a1189fc4836359911ba1da143e6e5fc",
+  "name": "hobotown #1160",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1160.png",
+  "imageHash": "87035e6e1f7038992b20a29abe0c967a5caf19c96b7c2dd5b53f1c850a7b55bb",
+  "edition": 1160,
+  "date": 1654146847177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Tattooed Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

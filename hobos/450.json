@@ -1,0 +1,36 @@
+{
+  "dna": "6b6755c15e0d5b23240f882fa22a7bc8c598dc9223d5cd90a1f7c8e507340eea",
+  "name": "hobotown #450",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/450.png",
+  "imageHash": "0cc77b923128bca97d3d05078536f40cd8e17bcd17acfd2b8346f5358d7e01ab",
+  "edition": 450,
+  "date": 1654146242026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

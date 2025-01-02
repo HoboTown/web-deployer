@@ -1,0 +1,32 @@
+{
+  "dna": "8297c8f71df727383fefdd6e739ecbcd42075dede951af9536874216c0aff7be",
+  "name": "hobotown #1932",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1932.png",
+  "imageHash": "9c2166b82b76e4d16be1d9763592d50e53b2f93a58149c4787d7de47c0fb7d47",
+  "edition": 1932,
+  "date": 1654147569708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

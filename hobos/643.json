@@ -1,0 +1,32 @@
+{
+  "dna": "bbe4ab8d4e698e99b522c5ade546d89e4a80503b33439972031347d469b8a0af",
+  "name": "hobotown #643",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/643.png",
+  "imageHash": "ee4603dd0cedc9b45b3538cf30be7c633a559f44593eb04b7e1f854526aefe43",
+  "edition": 643,
+  "date": 1654146413988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

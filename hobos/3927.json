@@ -1,0 +1,32 @@
+{
+  "dna": "11d5e9ead42a022aac82e76cba0b32fa2ba69e38cc8b21f1588b88949da515a1",
+  "name": "hobotown #3927",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3927.png",
+  "imageHash": "0044d89eeeb012a65ee088bad7565c7f1ae90b3f08378f70c455eac2aa30c252",
+  "edition": 3927,
+  "date": 1654149123916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

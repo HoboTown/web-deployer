@@ -1,0 +1,32 @@
+{
+  "dna": "ed061fccec828ba4c455d9fcd9adf7b032c7e4b439d5b06abe416ac6939ac014",
+  "name": "hobotown #1823",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1823.png",
+  "imageHash": "467681ac54b5faedea5360dd005ffc63e59be01dab5d0253b770f68f73dac079",
+  "edition": 1823,
+  "date": 1654147464742,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "ddeda94ab7ec6bcad9c4608b098e54494b0af2717702a82010995a27eefdd1dd",
+  "name": "hobotown #6642",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6642.png",
+  "imageHash": "195ad6105c01cf69cd46f2d80552a1c822079664e6d72793658b92927b4b7449",
+  "edition": 6642,
+  "date": 1654150680827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "64ecbbd95b4cc5c6ce76976d65350ee9349b35e6782e1e3e0beecd017b0f7fba",
+  "name": "hobotown #3545",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3545.png",
+  "imageHash": "e6035c4c1143f0ebf54ffde6297fa5b4f64d47f7ded88867f6ffab82a3c1f51e",
+  "edition": 3545,
+  "date": 1654148892645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

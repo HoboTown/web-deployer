@@ -1,0 +1,32 @@
+{
+  "dna": "dc31c15ecb6613ee5f7c74114efddd00602fdd38c5b02a536ccccbc540c46179",
+  "name": "hobotown #3287",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3287.png",
+  "imageHash": "4f2671d1ccb5190d45bd8e19c88319b63cfa0658371a98b32c1ed9d8f0c4db67",
+  "edition": 3287,
+  "date": 1654148736362,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

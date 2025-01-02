@@ -1,0 +1,36 @@
+{
+  "dna": "8d04ab095056301647bcc8053fc33794310960990f09fe4c2ec335fbcbe57426",
+  "name": "hobotown #3945",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3945.png",
+  "imageHash": "cc371abb2ae81ced8ab6619b451c19bff50ecebd7ab3c7df375911596138f489",
+  "edition": 3945,
+  "date": 1654149134424,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

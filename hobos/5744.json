@@ -1,0 +1,28 @@
+{
+  "dna": "c1368275dfd6006ae1ff1ab0af26386eb85ef00efb8025c369bcdd4a2567d2f7",
+  "name": "hobotown #5744",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5744.png",
+  "imageHash": "6cc46961cda4a07ec4c2f363f37312708a16534d4b916fe28939c0c73227e4ed",
+  "edition": 5744,
+  "date": 1654150184211,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

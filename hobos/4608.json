@@ -1,0 +1,32 @@
+{
+  "dna": "545a1f9e1ae7ed9bd1fca4c7ac4f83449cc38c67c2d43d7f7f416094f90a8865",
+  "name": "hobotown #4608",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4608.png",
+  "imageHash": "e43a342304d1199066102b9d6183d3d77adb31bc6bccb787d031e777ef467954",
+  "edition": 4608,
+  "date": 1654149538944,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

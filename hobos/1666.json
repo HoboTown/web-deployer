@@ -1,0 +1,36 @@
+{
+  "dna": "13e28962b6bc26e5705949cbbae0f7f18bc962c7046dc68402dc33481d4c4e49",
+  "name": "hobotown #1666",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1666.png",
+  "imageHash": "addc11bb82db66b236f65712a52dc0f426f03d7c8a9c3a6de3b6f16cd34bb9a7",
+  "edition": 1666,
+  "date": 1654147307908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

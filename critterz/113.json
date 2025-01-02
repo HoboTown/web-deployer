@@ -1,0 +1,43 @@
+{
+  "name": "critterz #113",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/113.png",
+  "dna": "066e70ff368ff570750856a41473da97d4c628da",
+  "edition": 113,
+  "date": 1675146088774,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chartreux"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Olive Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Grey with Fish"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

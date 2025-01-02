@@ -1,0 +1,43 @@
+{
+  "name": "critterz #883",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/883.png",
+  "dna": "01bac4665c2b8cbdb67f0450b9c579cff4aae603",
+  "edition": 883,
+  "date": 1675146186056,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

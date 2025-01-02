@@ -1,0 +1,32 @@
+{
+  "dna": "3d76d77e8773236aef4ac2e129b721636801abbc5aff7fef7a0d903588bec95d",
+  "name": "hobotown #3242",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3242.png",
+  "imageHash": "8d5b0a210a9ad91d643f19c487ae55fdfe8037d004b6172dc0b21c36d3bdfb15",
+  "edition": 3242,
+  "date": 1654148706503,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

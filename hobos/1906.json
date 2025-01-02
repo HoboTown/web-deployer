@@ -1,0 +1,36 @@
+{
+  "dna": "812113f7350b5195a2796a3886bc130d97474d15dbe24b23fe3ec2a4f797bada",
+  "name": "hobotown #1906",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1906.png",
+  "imageHash": "6e4f70a2c339bae834a42fdf51c317a7dce742bbcbaff79611c9f84cfe535c69",
+  "edition": 1906,
+  "date": 1654147543688,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

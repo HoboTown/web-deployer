@@ -1,0 +1,32 @@
+{
+  "dna": "e2ab1ddfd0091048ffa9b24ee25be61f94dce0ab5452691749cd6f5b0fdc770e",
+  "name": "hobotown #790",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/790.png",
+  "imageHash": "ea4cf9060fd6cbba5de72799f7e21b3295c91e517970b3cb8b2c4b6ed95248c4",
+  "edition": 790,
+  "date": 1654146533025,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

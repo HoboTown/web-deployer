@@ -1,0 +1,32 @@
+{
+  "dna": "955af374136e67abda050f1832ba2d5b98526f672c22e0911a808397cb5884d4",
+  "name": "hobotown #2956",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2956.png",
+  "imageHash": "92a956a1cac9ba7dbafb0eaa12058d88825d8d728bc28a42685445de83d9d06c",
+  "edition": 2956,
+  "date": 1654148505676,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

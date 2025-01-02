@@ -1,0 +1,32 @@
+{
+  "dna": "882bd9fc064ac14210e9c3c8e4a05df442309008f12ae429fcbc9242768cfb55",
+  "name": "hobotown #2394",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2394.png",
+  "imageHash": "58bd14b3676b583cdc4388e924e6eb7ec8354c37b1d4b938e5e8d26a4286d361",
+  "edition": 2394,
+  "date": 1654148091100,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "critterz #543",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/543.png",
+  "dna": "60eab2024fbdef4f56ea5a7997e27ba57482bf28",
+  "edition": 543,
+  "date": 1675144909079,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ratz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cold"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Concerned"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teef"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

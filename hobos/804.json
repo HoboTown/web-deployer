@@ -1,0 +1,36 @@
+{
+  "dna": "26bc32bd083f9c6550b0c42377ccf70091c336dd8a7e2dc4b0bc99c0c3c4e5d1",
+  "name": "hobotown #804",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/804.png",
+  "imageHash": "e5b098abe355df1a0ce94093f4dc71fc396c19f66be4e3946727979dc96d7ad1",
+  "edition": 804,
+  "date": 1654146540894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

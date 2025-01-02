@@ -1,0 +1,32 @@
+{
+  "dna": "116eaa3ecd981873758b953132586e358f756dd2cd1577469cf94fb3bfdcb94d",
+  "name": "hobotown #5875",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5875.png",
+  "imageHash": "e9a48d92038c34705281d2faece61b3442ff39c2988a91e2156c8c95fb28e30f",
+  "edition": 5875,
+  "date": 1654150244760,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

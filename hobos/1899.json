@@ -1,0 +1,32 @@
+{
+  "dna": "e60886e9f2f434834d0c669383a27d7a69fa7676cb7b041701cdb52adc37de36",
+  "name": "hobotown #1899",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1899.png",
+  "imageHash": "15b6009749ab9366d8ce1efcdc258cde0f2cd64281e7c2db6b47cbbfd5b012ca",
+  "edition": 1899,
+  "date": 1654147537203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

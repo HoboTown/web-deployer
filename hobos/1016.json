@@ -1,0 +1,32 @@
+{
+  "dna": "2d4dff3900c276d5bf0aa08503facc3fe9b171e4958f59086ad606b4794f1636",
+  "name": "hobotown #1016",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1016.png",
+  "imageHash": "58911477daa441d5e868a7a84dd4928664676d39f55cbb77ebf7f0ee2935732c",
+  "edition": 1016,
+  "date": 1654146696306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "3489c88a9529aa2a6d98c761b0659e591b0526c879f6aabc2ab798e554e6b493",
+  "name": "hobotown #4325",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4325.png",
+  "imageHash": "51dd319b2eda2283397670810889950041067b3237de3af1957a8bf01f3596c9",
+  "edition": 4325,
+  "date": 1654149356184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

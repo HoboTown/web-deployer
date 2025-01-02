@@ -1,0 +1,32 @@
+{
+  "dna": "8611b5cb5da25216c77e0bdb86d4fd58060597bc8310280201f87703431ef577",
+  "name": "hobotown #264",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/264.png",
+  "imageHash": "94ead0d69d8712d6341f22635dd4e2b5e25b58553fe824df65c3e5fdb4aec232",
+  "edition": 264,
+  "date": 1654146046562,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

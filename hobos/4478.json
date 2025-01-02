@@ -1,0 +1,32 @@
+{
+  "dna": "c3df6e67f54888be544aa86d532aa85cad45206ed0c604159eecd7738713ae20",
+  "name": "hobotown #4478",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4478.png",
+  "imageHash": "9ea57d3bdaecdc71cac0da2e7af9c0dfd6c3c0243badcc3fec068789cd208c45",
+  "edition": 4478,
+  "date": 1654149464919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

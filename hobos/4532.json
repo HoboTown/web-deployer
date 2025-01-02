@@ -1,0 +1,32 @@
+{
+  "dna": "959236cc51e6cd2248e27ad58ccdd2086ad26e4cb1c94283a25d1aae3f6766dc",
+  "name": "hobotown #4532",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4532.png",
+  "imageHash": "e9498fba593f4e2a673f88cc3e0358860fdd74c25fbe18971d83ac2acf790ba4",
+  "edition": 4532,
+  "date": 1654149495682,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

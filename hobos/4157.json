@@ -1,0 +1,36 @@
+{
+  "dna": "7751401b9f50408d93aba895eb8c1de31ebfbaf3b98929c0cce5e56e71ea40b9",
+  "name": "hobotown #4157",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4157.png",
+  "imageHash": "0a09e6e4a838f206a673e83bab2ff85717b7e7c5b4de085f695a80f19662387e",
+  "edition": 4157,
+  "date": 1654149255272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

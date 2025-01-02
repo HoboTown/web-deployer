@@ -1,0 +1,36 @@
+{
+  "dna": "f7a366727cc9e8a00be2e35e189d2f2e37afc687f0e88a0214adb92e32291f06",
+  "name": "hobotown #3537",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3537.png",
+  "imageHash": "1797871d63784c5f790519f01016c3da36959e5cc396053f99a73c0bbc891982",
+  "edition": 3537,
+  "date": 1654148887758,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

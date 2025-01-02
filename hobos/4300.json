@@ -1,0 +1,32 @@
+{
+  "dna": "88e92f40fa49e900219590ce7d1d5d81c79497969a99fb07c3bfd18765b9c430",
+  "name": "hobotown #4300",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4300.png",
+  "imageHash": "09c4bd201acecedcc2680eff427cf25bb0a19fa8d0b2a3572b3c5bec7fb0d3d1",
+  "edition": 4300,
+  "date": 1654149341607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

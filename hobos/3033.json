@@ -1,0 +1,36 @@
+{
+  "dna": "e3dbf90d3d66d96118356959711fd8421466cec517d5dd6fa33e0dae145ddcec",
+  "name": "hobotown #3033",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3033.png",
+  "imageHash": "08caef2cf901c87070eab0e1baa1890cd1c04feac63782ce19477f5e10e6ecd8",
+  "edition": 3033,
+  "date": 1654148557086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

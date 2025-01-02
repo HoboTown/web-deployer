@@ -1,0 +1,32 @@
+{
+  "dna": "bbfdf322db1d8be4ea9f4527c87c895ee3a3a568ccfeb21a92ee272960649490",
+  "name": "hobotown #5784",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5784.png",
+  "imageHash": "c5759d5cbf00bdae632ed34baeaf0ae78d466565352978dd381e9fdce7d7fe31",
+  "edition": 5784,
+  "date": 1654150203472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

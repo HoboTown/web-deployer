@@ -1,0 +1,36 @@
+{
+  "dna": "c46fef2731f2e0b24292148cf123af0d85d228b3aa5358dad991fab371d357d8",
+  "name": "hobotown #2680",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2680.png",
+  "imageHash": "4ce6494708ddc327a3c9e92f3293d87946dc3d0ba15a2d1f1aa55104c929b449",
+  "edition": 2680,
+  "date": 1654148302689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "9f89ac1ee50beaf2fb3cc3a8021957ca06352cbcd9cca6132c37062d97862be4",
+  "name": "hobotown #1481",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1481.png",
+  "imageHash": "a95a9499a539375b8f361d64a5ec5bd1823e41bcc7da81ee721d3414858987fb",
+  "edition": 1481,
+  "date": 1654147138694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

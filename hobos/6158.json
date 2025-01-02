@@ -1,0 +1,32 @@
+{
+  "dna": "b05033f4f6873f6521b45bec2d633273e4f65590bc315ea8f3e63d2658b95fc8",
+  "name": "hobotown #6158",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6158.png",
+  "imageHash": "e12405eb0c1157f94ca04b1d42886b85f6d69efd5b8c71bb998841149bddf405",
+  "edition": 6158,
+  "date": 1654150403244,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

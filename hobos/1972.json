@@ -1,0 +1,32 @@
+{
+  "dna": "5ba855594f9696d84b0dd9ec6334dff9d25ca4166f78fd50cebc24d51ad805df",
+  "name": "hobotown #1972",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1972.png",
+  "imageHash": "c1ea1c28cff2d58f7bc3e51cd94579394a07b9225e8eab3b6cc9dc8f7e2af14a",
+  "edition": 1972,
+  "date": 1654147616198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

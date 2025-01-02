@@ -1,0 +1,36 @@
+{
+  "dna": "bea5f521f81a90a4b0c02141ce3645f0487efe030125dd356e6374f21ecac801",
+  "name": "hobotown #1552",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1552.png",
+  "imageHash": "36b2457edc6484f88696b00656cde3ec22d4c69d507c424d7bd3f8f56ad1a711",
+  "edition": 1552,
+  "date": 1654147198901,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

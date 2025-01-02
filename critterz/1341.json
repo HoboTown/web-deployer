@@ -1,0 +1,39 @@
+{
+  "name": "critterz #1341",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/1341.png",
+  "dna": "18e0ee0a5c39d0c223105e492ef35589dc23ba40",
+  "edition": 1341,
+  "date": 1675145747363,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "dawgz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Olive Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Beggin"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Spiked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bone"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "57f03dc2801c3e1e78263781df975b08986d997a1d1d18150a0ca0ee2f089d7d",
+  "name": "hobotown #1231",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1231.png",
+  "imageHash": "c5ac065e3ca8170ca8d921186841a73b55cf8a96d7a2162e016d041d490e1ea4",
+  "edition": 1231,
+  "date": 1654146912465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

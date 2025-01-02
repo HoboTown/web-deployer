@@ -1,0 +1,32 @@
+{
+  "dna": "106da41e78f4d17621a86063492d0dfe5be78ebec38fc54785fb351b017d30fc",
+  "name": "hobotown #867",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/867.png",
+  "imageHash": "087231389983f7c73b785511725e8647a2b395504090720d60c1bfdf1d889f26",
+  "edition": 867,
+  "date": 1654146587633,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

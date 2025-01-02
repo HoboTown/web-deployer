@@ -1,0 +1,32 @@
+{
+  "dna": "9908378dca3b9c8f63bc73c8003873e4fa8a93574928d919b64fc9fb4d3d2dce",
+  "name": "hobotown #3940",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3940.png",
+  "imageHash": "e2d7d3be179e5c31c4fcb76b408afefd77792309e55df66ad0aba4c142f89cc2",
+  "edition": 3940,
+  "date": 1654149131544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

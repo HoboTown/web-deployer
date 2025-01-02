@@ -1,0 +1,36 @@
+{
+  "dna": "b96e9410052aae31145f0fc3f55cde1fa283432e7fbf0c2408b433d6d2ee633f",
+  "name": "hobotown #322",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/322.png",
+  "imageHash": "2d7a26ca93f1afacd45b179f54869783f110ccb4e89354c19e52080d21886f00",
+  "edition": 322,
+  "date": 1654146116197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

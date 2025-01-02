@@ -1,0 +1,36 @@
+{
+  "dna": "5f87608411aff9455b14d0a86f8466c154e26e8a9677131d0ebf1be7f92a1aa7",
+  "name": "hobotown #4165",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4165.png",
+  "imageHash": "5e6e5905df24fd7a09643817b8e284011b4879731ae7f133c5d2b0f51edd867f",
+  "edition": 4165,
+  "date": 1654149260001,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

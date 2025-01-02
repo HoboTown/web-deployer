@@ -1,0 +1,32 @@
+{
+  "dna": "392448c5c3cb4b98f9099efaf77729daef510621e8c09f9dca36b209f1e5976e",
+  "name": "hobotown #1992",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1992.png",
+  "imageHash": "e25579dcf0f2ee82a86d8f0c5aa32d2c9007f459cf48a07408bb4b77022e02de",
+  "edition": 1992,
+  "date": 1654147636785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

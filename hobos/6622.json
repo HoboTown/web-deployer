@@ -1,0 +1,36 @@
+{
+  "dna": "190fab6ed1feb75aba782fede6de33a47df0c1adff56fb2cabce8932e37ce5f0",
+  "name": "hobotown #6622",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6622.png",
+  "imageHash": "1c3eef3e290436dc70d7e117816fe3b5706f112105bd780117dfb8e6cb716e42",
+  "edition": 6622,
+  "date": 1654150670579,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "e4d9d3000877e14f52fec347f47aea61bb59e371d8e930499cebb7e1371008bb",
+  "name": "hobotown #6587",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6587.png",
+  "imageHash": "fc9325e8010b4d775fa196b9ce4cf40b667946ed83656ca51572af9f7d83c3a5",
+  "edition": 6587,
+  "date": 1654150652568,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

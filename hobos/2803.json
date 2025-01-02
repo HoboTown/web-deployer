@@ -1,0 +1,32 @@
+{
+  "dna": "805e694df4aef21deaf555206164fd16c34451a4f9f7298cb39c8f7ef5833bcb",
+  "name": "hobotown #2803",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2803.png",
+  "imageHash": "98092fcc615f5a90ee691370d8e9ae7a943e281321cbd5abb0a78fcf0af09195",
+  "edition": 2803,
+  "date": 1654148392564,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

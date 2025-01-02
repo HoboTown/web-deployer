@@ -1,0 +1,32 @@
+{
+  "dna": "90963f878555913e19ed5a9fd384bfe393164eddb7b293c5dc53583986277bf0",
+  "name": "hobotown #4674",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4674.png",
+  "imageHash": "31572f1ef274a31d797490916c7c54a37acd4b7767bdc44fed2005ec07fad5b0",
+  "edition": 4674,
+  "date": 1654149577591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "e599e9161b31d61fbc56ffd9f854c6ee9e204b60ec6d8f3c0d9ce819fc24186c",
+  "name": "hobotown #1599",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1599.png",
+  "imageHash": "43dbeb795bc200e427c595c54f37b419ce721e5488d1fb953ecbb8009c3525f5",
+  "edition": 1599,
+  "date": 1654147240967,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "a2711f9305d65373e1e6c3622132dee30842c11a647c7ae29ce76d8462bea270",
+  "name": "hobotown #1966",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1966.png",
+  "imageHash": "2f56b4ffbf5f7288c7dab91043d193d13647e9986bf1a16e5f62483291307d8d",
+  "edition": 1966,
+  "date": 1654147608373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

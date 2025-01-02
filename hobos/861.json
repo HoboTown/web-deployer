@@ -1,0 +1,36 @@
+{
+  "dna": "603f8a18df24f45f8294bbef82b76d07f71f2fb7465ae0a786cedf0dfaf06eef",
+  "name": "hobotown #861",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/861.png",
+  "imageHash": "6b61ebc1ad5c539a993d172dc34674e77d8351c974dce67874934f772f587563",
+  "edition": 861,
+  "date": 1654146582836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

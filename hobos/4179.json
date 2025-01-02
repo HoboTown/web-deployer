@@ -1,0 +1,28 @@
+{
+  "dna": "6a83c9e72e13bfb8f775f6b049d40624d9ded353357ce600a60cfcbee450400f",
+  "name": "hobotown #4179",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4179.png",
+  "imageHash": "e6687fa39b57b86c7d6fd3200863e97be7518193d664067b58cc402cc5b71cb5",
+  "edition": 4179,
+  "date": 1654149268848,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

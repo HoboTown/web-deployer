@@ -1,0 +1,32 @@
+{
+  "dna": "0404c95fc7c120f1990f72f4d42ce7864019cf6533bde8c65455e6388c2d43d8",
+  "name": "hobotown #2",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2.png",
+  "imageHash": "dae3d8f0520bd415dc6f403ead0da98005cf2204bf015d2ce1eb04d7907b5493",
+  "edition": 2,
+  "date": 1654145784428,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

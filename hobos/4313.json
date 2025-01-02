@@ -1,0 +1,32 @@
+{
+  "dna": "198d69a36fe8b78b7ed15005fd4fb18121d0292570d75840ba8b5637e47cd5db",
+  "name": "hobotown #4313",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4313.png",
+  "imageHash": "713c11c1c7fb93ee3bb8c5b0ffa53c3e6fcd1d03cfc172353bbd32bc82cf5ab2",
+  "edition": 4313,
+  "date": 1654149348997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "8c09525cc591b022a2c1303a837f257d2bb6644338d43550dea1ff1a7b792b5c",
+  "name": "hobotown #4037",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4037.png",
+  "imageHash": "a7c8c12334cba916271d1e674b7382d3dd3f8426a5c37deb359ae4acf6d60d17",
+  "edition": 4037,
+  "date": 1654149187064,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

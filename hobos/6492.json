@@ -1,0 +1,32 @@
+{
+  "dna": "46b23fac897505d309f1b1d5009c11ac1d447a9929550a60eae506378fe096be",
+  "name": "hobotown #6492",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6492.png",
+  "imageHash": "95f73e11832d60759f551edbbd45de271d085ab4187d156cfa1b09e8857d8afc",
+  "edition": 6492,
+  "date": 1654150602331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

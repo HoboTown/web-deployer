@@ -1,0 +1,36 @@
+{
+  "dna": "59a1ff60ec532c604208b98b66c027d821c02d0b8b2a3cf377801f5d5a9531b8",
+  "name": "hobotown #688",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/688.png",
+  "imageHash": "f36ece1f2ecd156dd2ebf7789627be888e160b6cfbae128d4290d21fa07af1fa",
+  "edition": 688,
+  "date": 1654146460466,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "7a1ade0f39d1a7efa8b4865e5b997a65484d66569fe4b28e4aed45e8ff7daaf7",
+  "name": "hobotown #701",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/701.png",
+  "imageHash": "c99e611a2719d17131fbb08a87aa53cf6b265dcc1e55b40881182692c5903f70",
+  "edition": 701,
+  "date": 1654146471218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "00a835aa546926e65ea10fe2a84ddd0f5979c83123348806e8803505bedc7dd6",
+  "name": "hobotown #1091",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1091.png",
+  "imageHash": "d2bd4242f1dfa58fd60a06341acf3af7998a64fa242dd19d666b3268886f8835",
+  "edition": 1091,
+  "date": 1654146769922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

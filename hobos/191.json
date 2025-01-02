@@ -1,0 +1,32 @@
+{
+  "dna": "f3ecd685667a9aa726419964ac167a6d9f1462fc641c8c5a49c92c6e6747cd90",
+  "name": "hobotown #191",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/191.png",
+  "imageHash": "e5756373adbfc7efecc38ed6db0f9914c1859bca7f5c555bad8a44201fe1ca2d",
+  "edition": 191,
+  "date": 1654145960556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

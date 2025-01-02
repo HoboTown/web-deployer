@@ -1,0 +1,32 @@
+{
+  "dna": "cd724f64b221458f6b942156501fa3ed4f00434ca7e9b9b3fe8a36150cda381c",
+  "name": "hobotown #6022",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6022.png",
+  "imageHash": "b1ec877b098870136e6a4782fb6ff0858093d1f7b5c4758172b573d45b5b6ed8",
+  "edition": 6022,
+  "date": 1654150315487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "4a224ea8b6168922a81e543a9b06e126e08ecdff77bc7ed47e927dc27c550f40",
+  "name": "hobotown #3717",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3717.png",
+  "imageHash": "ba60c6b87bdca393225189f2815d6537462743869339c2231ad1ddc052ee2091",
+  "edition": 3717,
+  "date": 1654149001450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

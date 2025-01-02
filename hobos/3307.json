@@ -1,0 +1,36 @@
+{
+  "dna": "7b29294c999ba4249ffc48e64f47b07265a15e6e6e1e76384a7c8a1deb356ded",
+  "name": "hobotown #3307",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3307.png",
+  "imageHash": "bbe23c2c7c9fd142b4140132c9de739647933ab3c2b41c4ac1a10675e99eee04",
+  "edition": 3307,
+  "date": 1654148748844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

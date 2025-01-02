@@ -1,0 +1,32 @@
+{
+  "dna": "014c6bf589d24d96a4d1865ae6c39fcc3b147835fcdcef1ea9367c5f3d7eecd5",
+  "name": "hobotown #3541",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3541.png",
+  "imageHash": "4533b02713ed4ab815309aa6a05bf46ccb2aa0ad1af884ccabd1452bedc99689",
+  "edition": 3541,
+  "date": 1654148890222,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "84c50897d7d198dc82a8d925828d7f45782cb838e2672e1ba808ebc31732ec15",
+  "name": "hobotown #4829",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4829.png",
+  "imageHash": "6a2a37a1a1119cfaa2b96779d4a1aa6159e279e4607c5bb4a801938610649e83",
+  "edition": 4829,
+  "date": 1654149674536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

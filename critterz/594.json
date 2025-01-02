@@ -1,0 +1,43 @@
+{
+  "name": "critterz #594",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/594.png",
+  "dna": "12be47e954e33a4186486e40b7f72189e1f82df9",
+  "edition": 594,
+  "date": 1675146154526,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Burnt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Ocicat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pondering"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Grey and Green"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drool"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "18c9f3ed3086fe8228a290755b77460a2cc9d3ca9e20058404e1b60427d5a36c",
+  "name": "hobotown #2362",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2362.png",
+  "imageHash": "6e4f6c1864769fd6297c92f28970290a3432e18d2754bc0160f86cd37b6c95af",
+  "edition": 2362,
+  "date": 1654148049106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

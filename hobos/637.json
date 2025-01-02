@@ -1,0 +1,32 @@
+{
+  "dna": "70ca0c92e29bed5ee8996c864b150841bf3d84d1c144f75ab83a34e676bbae79",
+  "name": "hobotown #637",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/637.png",
+  "imageHash": "38975b11897fa260e31fb981741f241028032770e0b78d168ad0634ad63d7a2d",
+  "edition": 637,
+  "date": 1654146408121,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

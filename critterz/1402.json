@@ -1,0 +1,39 @@
+{
+  "name": "critterz #1402",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/1402.png",
+  "dna": "fa28147a2e79eb01ffa26c9e851ebcb5deb2969c",
+  "edition": 1402,
+  "date": 1675144963962,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ratz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Spotted"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eye"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Chompers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

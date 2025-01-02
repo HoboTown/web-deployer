@@ -1,0 +1,32 @@
+{
+  "dna": "a1bfc82303af9bb264f9491c487a7121802f855282736f5ff97d05e078bbf328",
+  "name": "hobotown #2753",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2753.png",
+  "imageHash": "c4db2f7810fec1c75a18fa27c143617272326f5ed25ce1aad5f6ee73a48924fc",
+  "edition": 2753,
+  "date": 1654148354973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "b474874747f5f22e0dd891c6aad3b502506985a781cf55af7f03639d3cd2d22d",
+  "name": "hobotown #3851",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3851.png",
+  "imageHash": "cea278fa4fc2da9eed4e1ab00318a8474f56edbf8d1d93c7fc8575047b7c853b",
+  "edition": 3851,
+  "date": 1654149080219,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

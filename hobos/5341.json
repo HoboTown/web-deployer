@@ -1,0 +1,32 @@
+{
+  "dna": "547eb4447d4e7d7e2672babcdc38876f07cc7d573c7ed5bfdae2731ed5f8b48b",
+  "name": "hobotown #5341",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5341.png",
+  "imageHash": "6ecc91f260ae2881f3196e2dd0e11f57757163bef1f91164b4c4014e8f5ef04c",
+  "edition": 5341,
+  "date": 1654149987901,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

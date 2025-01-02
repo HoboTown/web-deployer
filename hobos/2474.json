@@ -1,0 +1,32 @@
+{
+  "dna": "126eb2ef7ee06a4a7ada7c92d816167159e4b0a33cba0561d2bdfd49c458a494",
+  "name": "hobotown #2474",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2474.png",
+  "imageHash": "f92ce04740e9977c098fbc318cb005594d66a8b5822995820dd9ec74413aa92a",
+  "edition": 2474,
+  "date": 1654148157578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

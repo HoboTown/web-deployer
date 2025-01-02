@@ -1,0 +1,36 @@
+{
+  "dna": "39cc9c7f12bb0a54335680079eed5d06081e7729ea7ecca81ea712d0524f16c9",
+  "name": "hobotown #997",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/997.png",
+  "imageHash": "55dabbe9727c3ac3668039b2700c860cf5fc6cfaa1386f1ebd91e60bf6cc7758",
+  "edition": 997,
+  "date": 1654146682172,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

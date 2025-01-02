@@ -1,0 +1,43 @@
+{
+  "name": "critterz #50",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/50.png",
+  "dna": "a0444baa28c8c854ad3f8f101607c862027d47f3",
+  "edition": 50,
+  "date": 1675146081149,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Burnt"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Patched Tabby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Olive Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Open Yellow"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Full"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

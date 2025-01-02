@@ -1,0 +1,32 @@
+{
+  "dna": "fc278aa14ec55ddbeb34dee428138e0dd9f06a2c58830437a5c590938c2d9cc4",
+  "name": "hobotown #2515",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2515.png",
+  "imageHash": "a05df36c8e044f90d8188028350909aad2435b0011dd78d697c2dbadf6b0ee8e",
+  "edition": 2515,
+  "date": 1654148187505,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

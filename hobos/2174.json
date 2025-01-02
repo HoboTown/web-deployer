@@ -1,0 +1,32 @@
+{
+  "dna": "cd56878592f92f58539f68fc772b72f116d6b9056d9a28d9ae2360837af9a730",
+  "name": "hobotown #2174",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2174.png",
+  "imageHash": "542d48857d1cc0935fe678831e17b0e35a5c02d69157db50a9c756391689f43c",
+  "edition": 2174,
+  "date": 1654147833823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

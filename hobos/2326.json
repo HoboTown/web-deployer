@@ -1,0 +1,28 @@
+{
+  "dna": "a804cd6c54c373abab8839aa020b9a1f544cc7e189f434f6da24cee2f3af397c",
+  "name": "hobotown #2326",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2326.png",
+  "imageHash": "a29e202f64e8d8425651d3273193efaaf4d3c19e8a78840b8bf1be1716cd0019",
+  "edition": 2326,
+  "date": 1654148011007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

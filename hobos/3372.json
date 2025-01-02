@@ -1,0 +1,32 @@
+{
+  "dna": "7fee33459f44f85cf8a06ce87e67c46ff054cd329c6971096f71da29cc4badd9",
+  "name": "hobotown #3372",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3372.png",
+  "imageHash": "9582e8c7c4272277bceb0dfcde4940f50d3b30a0a66a16d92af487909b5ee116",
+  "edition": 3372,
+  "date": 1654148785116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

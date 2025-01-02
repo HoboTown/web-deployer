@@ -1,0 +1,43 @@
+{
+  "name": "critterz #1493",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/1493.png",
+  "dna": "d0c7f3f34211b0e8e26a1d124e10b3a1af5d53f5",
+  "edition": 1493,
+  "date": 1675146258514,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tortie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Olive Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wide Open Yellow"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Grey and Green"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Sparse"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

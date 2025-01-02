@@ -1,0 +1,32 @@
+{
+  "dna": "eae530105647e077334fa7280880d6e4ad8d116ea4bd7fdf2d9bf0369f33b835",
+  "name": "hobotown #2788",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2788.png",
+  "imageHash": "d241f99063580ec85d217e789acd7be6a3574724a0b017f87323ceceed31f28f",
+  "edition": 2788,
+  "date": 1654148381010,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

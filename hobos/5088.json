@@ -1,0 +1,32 @@
+{
+  "dna": "b74fa12bf065778cf5ecc653066e0138a406445fb819c96dab84c0254fe0d559",
+  "name": "hobotown #5088",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5088.png",
+  "imageHash": "b489b3956304743dc76c60ecef9eac287062c0f3e2a2fc68e451564896ff73f4",
+  "edition": 5088,
+  "date": 1654149842876,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

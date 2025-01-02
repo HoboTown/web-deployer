@@ -1,0 +1,36 @@
+{
+  "dna": "8b0bdd6e4d35ef577ec426d385284123889338400d67e285968b549cd338e142",
+  "name": "hobotown #2282",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2282.png",
+  "imageHash": "aa66a4bdcceb5528eccbe5201b5e7c7f4ec0186ad2b3dbcfed65171999c142d5",
+  "edition": 2282,
+  "date": 1654147967230,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

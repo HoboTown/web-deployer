@@ -1,0 +1,32 @@
+{
+  "dna": "82803c71bc389f8f77fe3abb11f978b409bc6f0edf904adc04911aafde333587",
+  "name": "hobotown #3046",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3046.png",
+  "imageHash": "1d0ff04fa0f6b14c5f7e4c785715d33149b9eed540f94733e8ef90fc3ffc7068",
+  "edition": 3046,
+  "date": 1654148566116,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

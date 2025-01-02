@@ -1,0 +1,32 @@
+{
+  "dna": "d676f7d49484fe8734c41c97e037b6441b501cb29c5c528f2722df5ad561eb02",
+  "name": "hobotown #2202",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2202.png",
+  "imageHash": "212756d2a19e3500585c3e938f610f075e2051126b54b248ba01f4a489d8e68f",
+  "edition": 2202,
+  "date": 1654147874989,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

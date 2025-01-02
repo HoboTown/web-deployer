@@ -1,0 +1,32 @@
+{
+  "dna": "7a3801cd9533f167dbf9536ea0e50aa42253ff53335ca25521676a4d0cfd4bc6",
+  "name": "hobotown #192",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/192.png",
+  "imageHash": "8e909eecb1bdf9769662dc3eb91aaf9175f2d45a930a7497b2d4b575cdb65204",
+  "edition": 192,
+  "date": 1654145961388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

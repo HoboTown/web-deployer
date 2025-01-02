@@ -1,0 +1,32 @@
+{
+  "dna": "bce575d82a9a525d1e5b8f92fa77a0d4c29c5d03ad15105154e92dc4c7e40a5e",
+  "name": "hobotown #5865",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5865.png",
+  "imageHash": "d15cdbada1c1429ecf6ff589cf8cc3e879c935eaa79919a830978f9767111d8e",
+  "edition": 5865,
+  "date": 1654150240361,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

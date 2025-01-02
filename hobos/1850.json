@@ -1,0 +1,32 @@
+{
+  "dna": "1e4f7fac21a944293b33ff133ae24c01816872023f84a9819a2996cf9721df1a",
+  "name": "hobotown #1850",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1850.png",
+  "imageHash": "0303b77be645be45f607300225036bcf659d9691396b11ff488ec2371d276f06",
+  "edition": 1850,
+  "date": 1654147490269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

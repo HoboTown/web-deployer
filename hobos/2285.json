@@ -1,0 +1,32 @@
+{
+  "dna": "2e45e98aad4a360d45d5dd34dad35950b3d51ddba2650b114fc20f17297128fb",
+  "name": "hobotown #2285",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2285.png",
+  "imageHash": "d64735bb5902c37b1866bcf1aedc1d101175fa304bba69fd57841be0fa8bfc46",
+  "edition": 2285,
+  "date": 1654147972914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

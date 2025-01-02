@@ -1,0 +1,36 @@
+{
+  "dna": "5fceecd66d721a1e9e2c9b39dead124e9ae3350c4977361734952c2b51451d6c",
+  "name": "hobotown #2404",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2404.png",
+  "imageHash": "099e05cc3aa96d532a7bec3011b6a8e874e0766293a4b4a44d11324a181e2b72",
+  "edition": 2404,
+  "date": 1654148100571,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yelling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

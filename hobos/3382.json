@@ -1,0 +1,36 @@
+{
+  "dna": "4d6fb20bc1fc2c0897fc4207866e67b4155a0bb1b8cdb88dd73271bd8162e5cb",
+  "name": "hobotown #3382",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3382.png",
+  "imageHash": "4f60c3203e5efad615f8b2d95edcabfed98b9df0e1195d76f842fd80735d100d",
+  "edition": 3382,
+  "date": 1654148790613,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

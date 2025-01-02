@@ -1,0 +1,36 @@
+{
+  "dna": "af96a548c0e66acf2b642bcc69fcc5a5ce29d971dfc732dbdb6f025fbc91666a",
+  "name": "hobotown #1997",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1997.png",
+  "imageHash": "41ef9411e1124fda447606082207f7fc28474fb9672244d46fd01c2393ddd225",
+  "edition": 1997,
+  "date": 1654147641499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

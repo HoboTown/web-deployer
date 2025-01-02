@@ -1,0 +1,36 @@
+{
+  "dna": "e2216e8c5f844b9f5082f53e762243d2621f97c479c1638c02f0ff3450964cc8",
+  "name": "hobotown #5387",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5387.png",
+  "imageHash": "00a1ef9d70e3004ccdce4bd88a8114774a71808276b9189f743dcfef15194fee",
+  "edition": 5387,
+  "date": 1654150008546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

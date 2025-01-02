@@ -1,0 +1,36 @@
+{
+  "dna": "cceab8dd45dbb72a544602a74913e5bfab21817727a2ad6c966265c36eabebf8",
+  "name": "hobotown #984",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/984.png",
+  "imageHash": "cbb6c4f3e6494aef68d3f5024189c88fdffb0391e24d02341acf3d5e87ca44c8",
+  "edition": 984,
+  "date": 1654146672954,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Orange Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

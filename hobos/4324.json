@@ -1,0 +1,32 @@
+{
+  "dna": "afca4c31ed75dcff265071ce9f6ef49f0e0e92be1c01193b12fd1fdcbbe34729",
+  "name": "hobotown #4324",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4324.png",
+  "imageHash": "462be47cbbaa3601d84150d13a5c7d6e5331f2ede1fb3e4040907da8540db53f",
+  "edition": 4324,
+  "date": 1654149355581,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

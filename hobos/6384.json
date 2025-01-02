@@ -1,0 +1,32 @@
+{
+  "dna": "3344f59bf3f7b2ceb57a7c0f6861b985ed423ce3031b80f1707971f7ddf8dde2",
+  "name": "hobotown #6384",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6384.png",
+  "imageHash": "f0ebb2029f4432f1bf6a7133b6f465135e339391a5b9695ab5d638c7c5e39068",
+  "edition": 6384,
+  "date": 1654150536320,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

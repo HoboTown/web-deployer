@@ -1,0 +1,36 @@
+{
+  "dna": "008b90ac55b8c4e9002a91544734107da620042a47341fa9b3596131bb3eb8ca",
+  "name": "hobotown #32",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/32.png",
+  "imageHash": "c8d645b47428b54a8c80272d49337c6b0b8ebaef634772e033ed53dd89a4d0ab",
+  "edition": 32,
+  "date": 1654145812186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

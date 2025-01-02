@@ -1,0 +1,32 @@
+{
+  "dna": "9aa5d9ed4ae82aee466c33e08fe5a33a5fdb2843b7c9114eb9dbae67cec870e2",
+  "name": "hobotown #186",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/186.png",
+  "imageHash": "8e8ef32c7b00f73eefd9d8ca4c31a0f4770dff922a3d87bf258f2e2cc9e5a410",
+  "edition": 186,
+  "date": 1654145955417,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

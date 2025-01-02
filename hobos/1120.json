@@ -1,0 +1,32 @@
+{
+  "dna": "016a49664d40da28052bbf080f324bae46f3bc9250a49d8a895b4ccb1c8ee61e",
+  "name": "hobotown #1120",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1120.png",
+  "imageHash": "02918312a11a15395698934d41b9987496985e3f4265732fe51451e97e9002e3",
+  "edition": 1120,
+  "date": 1654146804830,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

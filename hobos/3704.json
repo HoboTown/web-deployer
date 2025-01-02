@@ -1,0 +1,32 @@
+{
+  "dna": "ef122eb9a1519c8f4be21dbcb3f846f7593735d4660c80da7d8df9cedd47e775",
+  "name": "hobotown #3704",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3704.png",
+  "imageHash": "4e90ac0ff8ee2de99cb5d8bb192802cfac855e8be28670aef4e716b98127284c",
+  "edition": 3704,
+  "date": 1654148991949,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

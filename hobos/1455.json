@@ -1,0 +1,32 @@
+{
+  "dna": "cdc883ca117eae4141d512ab0b678ff430dcec44ea3797871f601a22900f76ab",
+  "name": "hobotown #1455",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1455.png",
+  "imageHash": "6cc8362c860904d9b6980cca39a499e2c328ad8e485a443e7c4159709a7006b7",
+  "edition": 1455,
+  "date": 1654147116371,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

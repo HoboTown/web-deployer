@@ -1,0 +1,32 @@
+{
+  "dna": "fc9b144435d6b66d078e9906e8149edaa21baeca478acc27c6d321b37756e66d",
+  "name": "hobotown #419",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/419.png",
+  "imageHash": "067bc84245b652a4b7d93b1bb34e7140a2801715891e364e401f0510d55199f8",
+  "edition": 419,
+  "date": 1654146216893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

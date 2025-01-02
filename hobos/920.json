@@ -1,0 +1,36 @@
+{
+  "dna": "299ed70ea3da9b038f5121165cfd9e6a2cbc026364ae0384f4f81159cf429654",
+  "name": "hobotown #920",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/920.png",
+  "imageHash": "d43d741bd8b76a17d3ae5800c3b779b21c86fb84d6f06ed1fd30053d601d9f38",
+  "edition": 920,
+  "date": 1654146627177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

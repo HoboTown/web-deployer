@@ -1,0 +1,32 @@
+{
+  "dna": "60fdb88df299f46a9dd0e592a4ba211cb136329ff844c9d3f8dc4708b28a9c0d",
+  "name": "hobotown #6411",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6411.png",
+  "imageHash": "ce342ceb6da3d972b29c1e44d7cd55cf6610265a07158af982e8ea242ea929c2",
+  "edition": 6411,
+  "date": 1654150553174,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

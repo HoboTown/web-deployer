@@ -1,0 +1,32 @@
+{
+  "dna": "317a54dd6445617361d7806cd16a746bc2f70e9165469b312cdc9d415f61a57d",
+  "name": "hobotown #4091",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4091.png",
+  "imageHash": "cfd3e59c042bb73d70cdba34ddf2f725faff8ed90d0f450cd21d00fab4facdec",
+  "edition": 4091,
+  "date": 1654149217151,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

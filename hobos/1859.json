@@ -1,0 +1,32 @@
+{
+  "dna": "ce8c4e2bf61628bc62fbe978e7e2c1fc239d6bba0e0ae2e94aa7b5be52b196a3",
+  "name": "hobotown #1859",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1859.png",
+  "imageHash": "cb8d3d8fb42ab8db8b9479a0b2fe042faea100941be48f880e02eb2ebd103c90",
+  "edition": 1859,
+  "date": 1654147499544,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

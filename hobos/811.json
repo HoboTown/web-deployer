@@ -1,0 +1,32 @@
+{
+  "dna": "65675a6deb37a9b3555182b694b001b91b8b5c6dba9f14726a063a29b6327479",
+  "name": "hobotown #811",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/811.png",
+  "imageHash": "07dc49d1830f818d77851378c04a2b1990a33618524c5a808b19be5884b2992f",
+  "edition": 811,
+  "date": 1654146544905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

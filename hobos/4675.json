@@ -1,0 +1,32 @@
+{
+  "dna": "3086f6c7f435b60f6944380498c39b912cad6379724e63c5ba526b112aa24f38",
+  "name": "hobotown #4675",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4675.png",
+  "imageHash": "814e9917d98751d889f4c9335de103545ff110e0cb48d1b6e5682e8df2753498",
+  "edition": 4675,
+  "date": 1654149578159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan wiith Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "f73c3034f50c29ae197c651c6b660854036b29d83b64cb74a45afbe3fa8e0da7",
+  "name": "hobotown #4531",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4531.png",
+  "imageHash": "1b88c4eea31bd338ffafcf7488b3ad9d4cd65aa0ce389c03540232e01642d3d6",
+  "edition": 4531,
+  "date": 1654149495149,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

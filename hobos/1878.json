@@ -1,0 +1,32 @@
+{
+  "dna": "ff8cee67d7f1c0fcd8a304d2f394665a085dd186ec23b8c368749d15cdb93c0e",
+  "name": "hobotown #1878",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1878.png",
+  "imageHash": "8ec02c007d7d1730763736f6c1c4c7a8e5c198931c234247e0c2bf30bbd0e8c3",
+  "edition": 1878,
+  "date": 1654147517545,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "e89b204ba3762a849d2b6020783d3fc1bec9fa547fb48d26300a5702640f6cb5",
+  "name": "hobotown #2359",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2359.png",
+  "imageHash": "f816642ca27ef8eab9e74f3ea1c80cf7f6e7c303e210ecf61cf47653c035b276",
+  "edition": 2359,
+  "date": 1654148046038,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

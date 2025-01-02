@@ -1,0 +1,32 @@
+{
+  "dna": "44c40452d33336ecc27f37b9a8d42b71a8ebda153b072940aa9d0a98b6e4d088",
+  "name": "hobotown #534",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/534.png",
+  "imageHash": "9dc02fe27d8480f0bff619a915d3882338de540188f8fadb4ce018be315a30bf",
+  "edition": 534,
+  "date": 1654146318194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

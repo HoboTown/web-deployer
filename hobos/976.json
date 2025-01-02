@@ -1,0 +1,32 @@
+{
+  "dna": "9d4929d19c8ad7fcfcd42529c337f5fb4aee05034d85b6e0157b757565a95ff0",
+  "name": "hobotown #976",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/976.png",
+  "imageHash": "4d57149f43481742d93a00e65205aafa1e1cd3ef953864c0aaafd77cfbb41cf8",
+  "edition": 976,
+  "date": 1654146666941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "ab9006e33ab5b2d51b0ee04e5430a89a471896a10eb4e80fef8e4f0293564d2c",
+  "name": "hobotown #1989",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1989.png",
+  "imageHash": "112786f46509128d677e9bc3d3a7bbd5809d1e7f2286ce3c0fc2a0ea7ee278ef",
+  "edition": 1989,
+  "date": 1654147633717,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

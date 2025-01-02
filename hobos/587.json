@@ -1,0 +1,32 @@
+{
+  "dna": "6040a7a4528adec358160a9fc9b6612c2826c659e4ace736ffece20fcc8e3221",
+  "name": "hobotown #587",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/587.png",
+  "imageHash": "9539f2eff13acc6e8c4a80492478882376c974907184ac9d322b17cb97e04c67",
+  "edition": 587,
+  "date": 1654146358092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

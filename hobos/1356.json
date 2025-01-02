@@ -1,0 +1,32 @@
+{
+  "dna": "c84b9c89b10c30e881848a823be64050e407cdb09998f20cee49e8941847dba4",
+  "name": "hobotown #1356",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1356.png",
+  "imageHash": "f350185dfd7145bb269a894cf3f5dc44d4aa5c49ababbfd9b9aac2a6b5be4db3",
+  "edition": 1356,
+  "date": 1654147033576,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

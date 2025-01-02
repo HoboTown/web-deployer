@@ -1,0 +1,32 @@
+{
+  "dna": "66aadaf4f5bfdbf4772e47f2eb8e3869592288450d5b907ef7721fbf0d545698",
+  "name": "hobotown #4961",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4961.png",
+  "imageHash": "5602236735ad0eac2bf398540e6373686ac3020316a3eeb23f43540c93fac2af",
+  "edition": 4961,
+  "date": 1654149763474,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "critterz #485",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/485.png",
+  "dna": "0564789eca42edcb378d2c227ac9064ec6d5b3e2",
+  "edition": 485,
+  "date": 1675146140684,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "catz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Chartreux"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pondering"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Grey with Fish"
+    },
+    {
+      "trait_type": "Whiskers",
+      "value": "Full"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

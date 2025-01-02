@@ -1,0 +1,32 @@
+{
+  "dna": "d3d0c8579487b8cac26403278142d7b99386a95ec317dc7366c00e6d18886197",
+  "name": "hobotown #5063",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5063.png",
+  "imageHash": "f78256d17f7cd180d9a26f60492ca8c0f37016ae8089852497dbfb4783f0fed3",
+  "edition": 5063,
+  "date": 1654149828844,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

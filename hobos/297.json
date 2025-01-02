@@ -1,0 +1,32 @@
+{
+  "dna": "9daf993f4278d867e4dab9f55c30ca059cb98b2cb3eb65950d4c7a56b8558905",
+  "name": "hobotown #297",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/297.png",
+  "imageHash": "ff14381cfebbc14c76045bde8b52876f23745a7e1e13e9f1dc2ec1be7ca40816",
+  "edition": 297,
+  "date": 1654146093257,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

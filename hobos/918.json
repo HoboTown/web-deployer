@@ -1,0 +1,32 @@
+{
+  "dna": "cc00eda2686c4d2fbee126636e3aa795d1ac7ab152c4df1d19c7b8b125a31048",
+  "name": "hobotown #918",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/918.png",
+  "imageHash": "9020cf39a9c092dec0f4d2520480b73026483d8c018d94f5a001c7ac2ce2bd09",
+  "edition": 918,
+  "date": 1654146625776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

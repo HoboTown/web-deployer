@@ -1,0 +1,32 @@
+{
+  "dna": "622259cad1dd25f8b83a2ac9fa38afac3473af227cdffbfc20e72f29d8f12420",
+  "name": "hobotown #2888",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2888.png",
+  "imageHash": "a74d670eeb0363bf0bc209480fbda5026bce99c4a4a294e2644f08578d8d608d",
+  "edition": 2888,
+  "date": 1654148457607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

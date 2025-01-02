@@ -1,0 +1,32 @@
+{
+  "dna": "82ee5016dd0c09cc1abec7b80daa683939fea27d740de162c2ebd71f31e7a315",
+  "name": "hobotown #6692",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6692.png",
+  "imageHash": "b32ad2861fd134d90d6c7ab5b3fb6c073be4dfa3c09d76aca665fb0dadb7477a",
+  "edition": 6692,
+  "date": 1654150709888,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

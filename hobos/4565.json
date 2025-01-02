@@ -1,0 +1,32 @@
+{
+  "dna": "96b48412025ffd687227d9ec68f8a18c8c3235e8833320b5ead25c4a2ae36a2f",
+  "name": "hobotown #4565",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4565.png",
+  "imageHash": "5f060bf6e94440fecf4b4bb0a23aa825a8f677e24a2d17eb49d9c2ce78ca9991",
+  "edition": 4565,
+  "date": 1654149514587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

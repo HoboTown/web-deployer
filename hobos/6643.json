@@ -1,0 +1,32 @@
+{
+  "dna": "51577e0270751c9697621647a43571b699ca05614e26feec20cc53b653b6fc41",
+  "name": "hobotown #6643",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6643.png",
+  "imageHash": "134b277e6fe208e9774515c2fa978b9fb4750d566f166644a71c22484cf676cb",
+  "edition": 6643,
+  "date": 1654150681361,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

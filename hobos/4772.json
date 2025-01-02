@@ -1,0 +1,36 @@
+{
+  "dna": "074da9823dc901b6cc069320c5199b8fab01d1e4b97c856f309f7035e8c7efbc",
+  "name": "hobotown #4772",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4772.png",
+  "imageHash": "0ec5daf21d812bdce6a1fce05173ece831d471a13c5fabe918cf56f33886b532",
+  "edition": 4772,
+  "date": 1654149636421,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

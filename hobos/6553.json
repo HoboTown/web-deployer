@@ -1,0 +1,32 @@
+{
+  "dna": "77f9e0c8338307e8ed7f53588653307dfe46404fe27f6f45677a4766f10aef07",
+  "name": "hobotown #6553",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6553.png",
+  "imageHash": "568c51674adc4a2a7bb352de78cd6629fa50f790b635330847af28eef9bfdf00",
+  "edition": 6553,
+  "date": 1654150634914,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

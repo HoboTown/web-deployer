@@ -1,0 +1,39 @@
+{
+  "name": "critterz #909",
+  "description": "we dun caught dem critterz... yez we did!",
+  "image": "ipfs://bafybeiccex6ypsstpcwftawttq6zy33iqdnyuj2joslzsqibhbxnkcl5ha/909.png",
+  "dna": "9430354b91db1422faae22ad6e639e4faa1a2a5d",
+  "edition": 909,
+  "date": 1675144932720,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "ratz"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Concrete"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White and Brown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Side Eye"
+    },
+    {
+      "trait_type": "Collar",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Broken Chompers"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "13f633dbc450749789738a45dedaf8617240d4285d385badc2ea2c1a6d6ac3e3",
+  "name": "hobotown #1156",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1156.png",
+  "imageHash": "c04d3087afdf0b37e3fc3140fc9d385e57d1a327fe2553da4feeac201be0f48f",
+  "edition": 1156,
+  "date": 1654146843100,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

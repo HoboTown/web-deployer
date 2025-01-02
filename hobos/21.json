@@ -1,0 +1,36 @@
+{
+  "dna": "a387370b46ebd1f38294f3c66ef36701a82990605a438dbc63e5d172ebe86d87",
+  "name": "hobotown #21",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/21.png",
+  "imageHash": "1cf1534c84716d0fd2b887fd43923c3851f6fdf458e419860711e9d9b0ec8a47",
+  "edition": 21,
+  "date": 1654145802142,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

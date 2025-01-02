@@ -1,0 +1,32 @@
+{
+  "dna": "3bc8fb60f083d1cc949acc1d8ca2469d6be681d5c069e9ce7a7377f97f3b85ba",
+  "name": "hobotown #5515",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5515.png",
+  "imageHash": "4a3b5980b1fa4153e9413dd39ed454dd9c006dc8f281ebe56ce29ff8f83d8896",
+  "edition": 5515,
+  "date": 1654150071047,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

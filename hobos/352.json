@@ -1,0 +1,32 @@
+{
+  "dna": "0000df0181e9b3e1d0c314c692356e1c45d89f648c31cacac36d3a77fdb09bc2",
+  "name": "hobotown #352",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/352.png",
+  "imageHash": "971cc32b3f8da4925b99b8c15694973b270b2c183cbb5f693809b9aac2b13de3",
+  "edition": 352,
+  "date": 1654146141478,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

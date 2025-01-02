@@ -1,0 +1,36 @@
+{
+  "dna": "3b2cd6397aab91085f5deb4d56c54d016c6af95eee373047c913264886a558c4",
+  "name": "hobotown #906",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/906.png",
+  "imageHash": "f7d17e22460a6adeab1587ec3168d75a63b378128a52784ebc43203cdf6523a1",
+  "edition": 906,
+  "date": 1654146617265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "d9b51f48d58a1a6c0311a293f6f8fb5d5ea06fba9ad081a2a7aa6e0f9e0d6c69",
+  "name": "hobotown #3582",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3582.png",
+  "imageHash": "e5d7c1e74bc5a046fef3529e863f51b4fe69d987a0e80314b144378925ed8d54",
+  "edition": 3582,
+  "date": 1654148914549,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

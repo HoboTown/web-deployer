@@ -1,0 +1,32 @@
+{
+  "dna": "73b2b1acffb49ad53045a8c3d3c96ec12686b3a2b84789cb9b1483db85d762a5",
+  "name": "hobotown #5108",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5108.png",
+  "imageHash": "51ec15b4d69032b67d2341e0d139ad2295c10b04c33645008b49e7c135354e53",
+  "edition": 5108,
+  "date": 1654149854194,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

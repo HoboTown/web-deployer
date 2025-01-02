@@ -1,0 +1,16 @@
+{
+  "dna": "efefc005307ac4d9469ac42f566f471d7589c47de2808ebd6d7c9b06bba1a177",
+  "name": "hobotown #832",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/832.png",
+  "imageHash": "83bd380192d553681516e593d5be610df9647b632145bb9fa2ab67b5bcfbedc7",
+  "edition": 832,
+  "date": 1654145782452,
+  "attributes": [
+    {
+      "trait_type": "Super Speshul",
+      "value": "Hobo Robo"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

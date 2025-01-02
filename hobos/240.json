@@ -1,0 +1,32 @@
+{
+  "dna": "ae126c4f1c3a80a3dd2f318bdd3c60646841cfbc5872d5570af1a7997e00a097",
+  "name": "hobotown #240",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/240.png",
+  "imageHash": "d9ec79856d2669535cc4bc6de9885f985d4baf55ffff218e55fa0bff647316c4",
+  "edition": 240,
+  "date": 1654146009746,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "5f477066a1e3f6e8d2a76e8716ba3c5991c8f64e9040933cbb9dab19507eed54",
+  "name": "hobotown #656",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/656.png",
+  "imageHash": "480f95015d40cc96b7a71c64eb1bb793d9df4d5adb001592e40e5b98d2ec936d",
+  "edition": 656,
+  "date": 1654146427055,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yelling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

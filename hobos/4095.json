@@ -1,0 +1,32 @@
+{
+  "dna": "3c7860e6ec710e08d59f0cd567c541bae6d61cda179f3cf26ec5492886e38c7d",
+  "name": "hobotown #4095",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4095.png",
+  "imageHash": "01628c2af0a3bfd3a7987b77dccd0e7b6cd01042e13a237202fab084bda4dcb4",
+  "edition": 4095,
+  "date": 1654149219388,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

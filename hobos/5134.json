@@ -1,0 +1,32 @@
+{
+  "dna": "fe77682dd419ace8131ba18011972d56d4819b8cf6af64cf20a8ce3486c8b30f",
+  "name": "hobotown #5134",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5134.png",
+  "imageHash": "ef57215f30e90fd74778e5a26803b490dfd534aadad280401e60136f7d1a1867",
+  "edition": 5134,
+  "date": 1654149869182,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

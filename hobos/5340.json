@@ -1,0 +1,32 @@
+{
+  "dna": "65dd1ecd7377ab50bfa12aac34a057a791d5d2049b3e7ff5708f9fb7cac9fc24",
+  "name": "hobotown #5340",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5340.png",
+  "imageHash": "c50c553ae77d6bf7f1a53fab1d8c1db46a5bc757eca078b7a65d0cedeebc5663",
+  "edition": 5340,
+  "date": 1654149987477,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "32bfec94d2a3300e740ceee3e4cd2dc5bc518cfb2da19ae566a763e729e622c4",
+  "name": "hobotown #110",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/110.png",
+  "imageHash": "c5406db55fec0d3dccb23fbbcd3df5836f707757b89ac5b6a59c7605fec1bd13",
+  "edition": 110,
+  "date": 1654145879595,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

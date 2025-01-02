@@ -1,0 +1,36 @@
+{
+  "dna": "ff0808e1e889ca1e1882f2ff21fbf22b1203b43509b8f1f50f9cc9960d165376",
+  "name": "hobotown #2179",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2179.png",
+  "imageHash": "985809907489b9725e1b913e6ed13934f9d9b8319307422e6c906c0a8eee2e27",
+  "edition": 2179,
+  "date": 1654147841369,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Orange Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

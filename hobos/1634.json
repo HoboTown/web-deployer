@@ -1,0 +1,32 @@
+{
+  "dna": "67c2ac3b43f15dbc3d6b182437bfd193b2fbe2b487238f85b79e93602cb3eddc",
+  "name": "hobotown #1634",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1634.png",
+  "imageHash": "9487178c1728b6318b4843129c5440cb37851f0314c3853c78bb5f0cef101e0d",
+  "edition": 1634,
+  "date": 1654147276750,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "cf7e4d6d4705679f580926a9a605cd68041e5a95117bf9cf4d63a2bc62bc591a",
+  "name": "hobotown #1953",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1953.png",
+  "imageHash": "f35da83001c47361d473d21f8f2691d98923bd8d9c89b440ac4560abe9fd2273",
+  "edition": 1953,
+  "date": 1654147594774,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

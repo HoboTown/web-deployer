@@ -1,0 +1,36 @@
+{
+  "dna": "1a35810797686675ea5beefc4289867295f282c5e5322d0ed48662a2542b919a",
+  "name": "hobotown #2470",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2470.png",
+  "imageHash": "423c4c0f0c5454adc281c69c89d63b889d2aba184da59d27d0023d943735a4fa",
+  "edition": 2470,
+  "date": 1654148154612,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

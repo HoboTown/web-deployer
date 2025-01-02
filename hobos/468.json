@@ -1,0 +1,32 @@
+{
+  "dna": "7cc634ad95904f89857598df8087af75052714e0e42758610381c25ca4cfeeff",
+  "name": "hobotown #468",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/468.png",
+  "imageHash": "060b787124be6786b3570cfa413f2c9417a680866ea8c35176cc63088e262034",
+  "edition": 468,
+  "date": 1654146259026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,28 @@
+{
+  "dna": "48e44f19fee97edfef25584b1c902ab4ce4c5f99386089366e0e3c7f9aa7571f",
+  "name": "hobotown #6859",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6859.png",
+  "imageHash": "7ffa6e8d77f72c2056211c7043b25ade3c271d0ed4e73ae5560008b7985ac594",
+  "edition": 6859,
+  "date": 1654150798588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

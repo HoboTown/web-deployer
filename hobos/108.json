@@ -1,0 +1,32 @@
+{
+  "dna": "9fecc27f1a005c214dcf267dad76db65c1a124a61f712e48915f6d976dcd35b5",
+  "name": "hobotown #108",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/108.png",
+  "imageHash": "11b2b92feb2b5e02ff338d719777be1745b74a1e3b89f84df5b5a5223aab8bc9",
+  "edition": 108,
+  "date": 1654145877790,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

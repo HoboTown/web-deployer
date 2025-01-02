@@ -1,0 +1,32 @@
+{
+  "dna": "9d31f093766a6dad05294e104e8b417292155f4f651c0c95445f48493b096401",
+  "name": "hobotown #5003",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5003.png",
+  "imageHash": "e5b1bd07dfa78867d6a74f901eff3166e3bf4d6fda55aeab5d89e6b866d3a0b7",
+  "edition": 5003,
+  "date": 1654149790665,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

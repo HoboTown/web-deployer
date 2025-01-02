@@ -1,0 +1,36 @@
+{
+  "dna": "37ed4c3e3ebd9a31c98b46ec329f896d331253070dea8d0540afa0a7a5ddbb94",
+  "name": "hobotown #4221",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4221.png",
+  "imageHash": "a9b5140fac93324c214b62c7f412e700c2845c4c60005f2237642eedc438fb42",
+  "edition": 4221,
+  "date": 1654149296110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

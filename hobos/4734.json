@@ -1,0 +1,32 @@
+{
+  "dna": "2134481497d3434465579dee3f14f2ebafb1fc9fc0bf86dd1e019bdd8f8c3567",
+  "name": "hobotown #4734",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4734.png",
+  "imageHash": "d51540cb48c87ec460411925a52f748421d24764e3346d6b28d165c61e99a9c4",
+  "edition": 4734,
+  "date": 1654149612348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

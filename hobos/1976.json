@@ -1,0 +1,36 @@
+{
+  "dna": "b17aed4993010a8a831df35b15ca5e6f4140f858833a64d4b8347922cad7c649",
+  "name": "hobotown #1976",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1976.png",
+  "imageHash": "ea7f10162eac9bc5c19f247f3084e058b20b9c8220eb29f530ae3c02180b8244",
+  "edition": 1976,
+  "date": 1654147621226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

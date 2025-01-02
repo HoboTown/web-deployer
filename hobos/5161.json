@@ -1,0 +1,32 @@
+{
+  "dna": "2c5a6dd1edd6a464859068213e90e4567e7dc8917d52a98a8e5632cc04a50e89",
+  "name": "hobotown #5161",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5161.png",
+  "imageHash": "b2b4c4a31bb38243ef9f8899f6e0a70432a49a6cc6806dc3d93119b19d6e205b",
+  "edition": 5161,
+  "date": 1654149885261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

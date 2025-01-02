@@ -1,0 +1,32 @@
+{
+  "dna": "a9288c2f879251d7011feffb80970c2b0f02927fb9aeb71b9cf30994ff1d4b1a",
+  "name": "hobotown #3403",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3403.png",
+  "imageHash": "09e9e1c168a08710a2da188e40d46ea243f5242672ab82f8b6091bc31776e0a6",
+  "edition": 3403,
+  "date": 1654148802151,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

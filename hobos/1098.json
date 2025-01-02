@@ -1,0 +1,32 @@
+{
+  "dna": "f73bdf82f03afa741b3c3f2d0f1cce162c3996b1ac9823eac6b1d693e9bd7b8f",
+  "name": "hobotown #1098",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1098.png",
+  "imageHash": "b1c2c9688b9106a77a2e6e3a8abad4938f4289f114b5ec086d53213f6a3a1c61",
+  "edition": 1098,
+  "date": 1654146780427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

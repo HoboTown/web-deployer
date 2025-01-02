@@ -1,0 +1,36 @@
+{
+  "dna": "095a5ec9ac1d3476c8f65075ca9815fdb9b084627193b153acd0ced60f267e2e",
+  "name": "hobotown #4212",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4212.png",
+  "imageHash": "a52a2fab5fbeac41efba90ddcf1b31a4b0d7a081df069a889b5e17a5c771e5f8",
+  "edition": 4212,
+  "date": 1654149290556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

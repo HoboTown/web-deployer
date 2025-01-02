@@ -1,0 +1,32 @@
+{
+  "dna": "0aa0023d53a48568530091e8932c5471a4b70cbdc791a4cc009379e81ca4cdd5",
+  "name": "hobotown #3392",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3392.png",
+  "imageHash": "5283e55fd91f30c1b2bdac27efe80c561ee17bc49cdd59fa7695ec8a1e151556",
+  "edition": 3392,
+  "date": 1654148796144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

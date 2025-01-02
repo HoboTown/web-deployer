@@ -1,0 +1,32 @@
+{
+  "dna": "8b23d219eb618e2af924902d1c90fdce13a9d41a13653194dcfc4fbb7922cd5b",
+  "name": "hobotown #1840",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1840.png",
+  "imageHash": "0058532298c569af3f47ae11adc23a7918b92b1575e511cddeba7dd42ab72a72",
+  "edition": 1840,
+  "date": 1654147480231,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

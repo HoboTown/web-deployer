@@ -1,0 +1,32 @@
+{
+  "dna": "8b413f5929ad0c660e6ab73a03da616937207ce625670745fd7230998ae99ba9",
+  "name": "hobotown #2507",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2507.png",
+  "imageHash": "3a8c5205649dd5f205c1500211b92adcc209f103b5717405114c5e8d1d8aa1c4",
+  "edition": 2507,
+  "date": 1654148181672,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

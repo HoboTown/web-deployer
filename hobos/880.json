@@ -1,0 +1,32 @@
+{
+  "dna": "ea522f0bf3368a23b9d4dccbbe4193256f19fad5ec883602ef9cba3c0c194229",
+  "name": "hobotown #880",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/880.png",
+  "imageHash": "8e1ea2b30445fbbb5541787cb247a921abaef6647d8258c1108ce4ef58df0c6f",
+  "edition": 880,
+  "date": 1654146597753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "2448efe19fb0eaae04292d85061f1c7bbdaceb842af3c00431dc06cbbcccae61",
+  "name": "hobotown #6799",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6799.png",
+  "imageHash": "f3865fcf1ada420de915acd4e643b5d287db4c1b55e5412ca5d7760ed9c9471f",
+  "edition": 6799,
+  "date": 1654150767753,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

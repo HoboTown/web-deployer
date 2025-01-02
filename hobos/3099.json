@@ -1,0 +1,32 @@
+{
+  "dna": "79acb043ea7ab1cdf3bc5f84784a52422a593b21252e68552edaabc5763ffecb",
+  "name": "hobotown #3099",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3099.png",
+  "imageHash": "2a5f39affbdc7421cf65d43104788646fe84d46baaaafa80fb4303ca338e910a",
+  "edition": 3099,
+  "date": 1654148605487,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

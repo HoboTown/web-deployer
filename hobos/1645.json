@@ -1,0 +1,32 @@
+{
+  "dna": "2d25dbcbcafebf1cc990a47d8a87380ff0258bb10d9d1cec0ff6d95b2368ce69",
+  "name": "hobotown #1645",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1645.png",
+  "imageHash": "ec3ab82d4e5177eaa5897b3268639ccce589c7717938f88ea1507cea92ac2fde",
+  "edition": 1645,
+  "date": 1654147287377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yelling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

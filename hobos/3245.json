@@ -1,0 +1,32 @@
+{
+  "dna": "211bbcbf2d233560fd8e732fcc703b3c9980e27f7ea147b8da9d403b4ffdbee0",
+  "name": "hobotown #3245",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3245.png",
+  "imageHash": "38714bf75b4613f6c7586d0df5bf7466f426da11b869fd02c70341857e7a6335",
+  "edition": 3245,
+  "date": 1654148708199,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

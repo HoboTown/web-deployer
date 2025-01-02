@@ -1,0 +1,36 @@
+{
+  "dna": "8c52bab7072239681edba3c70c922ef79388ec084889a163e47d8976a4723689",
+  "name": "hobotown #1532",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1532.png",
+  "imageHash": "273cdfca8c5803f5045f911824a03339e32e8de6a741e7b4848300d7e3fe00d9",
+  "edition": 1532,
+  "date": 1654147180908,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

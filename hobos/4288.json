@@ -1,0 +1,32 @@
+{
+  "dna": "6c1cd9d95ad2ef0df559bf2b299cea01b098dd64be46d8f73e7bbbb7bc5089fc",
+  "name": "hobotown #4288",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4288.png",
+  "imageHash": "8da8c85b97ab33f75f0e3c75c5ddc91aa82c13b591233d72a23853dec738ce5d",
+  "edition": 4288,
+  "date": 1654149334646,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

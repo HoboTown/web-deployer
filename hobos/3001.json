@@ -1,0 +1,32 @@
+{
+  "dna": "d192a906ef50e4df81564634fdb225b5a70bc7081c867edb001e524d14cba60d",
+  "name": "hobotown #3001",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3001.png",
+  "imageHash": "09ef47688e83ecb0a333fa8bf9c1bd343e4715660024986d4c2345dba361b86e",
+  "edition": 3001,
+  "date": 1654148535264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "751246144b44145b9236e6800c23af4d48e8579d4418f85547eac9d8fe2728fc",
+  "name": "hobotown #1426",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1426.png",
+  "imageHash": "7dd45abcb954a0d020b731c409a0ba4398bb195b7e52141b2be1a54a31691895",
+  "edition": 1426,
+  "date": 1654147092783,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

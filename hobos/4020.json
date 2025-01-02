@@ -1,0 +1,32 @@
+{
+  "dna": "a731a03bab0a286360c6f46674b28fff4301d6e254f46b389024ce50e2e8caf0",
+  "name": "hobotown #4020",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4020.png",
+  "imageHash": "1c9153e160d24255e1b7cafaf32122d9740a0cf44273913c4c034b23b98047c6",
+  "edition": 4020,
+  "date": 1654149177383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

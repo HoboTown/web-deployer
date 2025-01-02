@@ -1,0 +1,32 @@
+{
+  "dna": "18356e350338c8b488222a6ca8ebb15c51f47de443ce1d37a8831ae2c5fc39eb",
+  "name": "hobotown #985",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/985.png",
+  "imageHash": "2ad1c0928aa11d61f7dc8d771e574161368456ba67260d5a91cc05d61cd78417",
+  "edition": 985,
+  "date": 1654146673640,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "ad59f0ac5079abdfe32d8183c9882397105ee4b918c51467441ff28038a68de9",
+  "name": "hobotown #2659",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2659.png",
+  "imageHash": "105f7f1558f601cf3c87f4195044c9746fd664e34d65948a418046cf01841aa5",
+  "edition": 2659,
+  "date": 1654148288546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "58d1933441a2449f34fa48354ddeb278d612b8035ca37f799b020f9f99296a5c",
+  "name": "hobotown #1973",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1973.png",
+  "imageHash": "2014e95a33da8a761549dc1f9973641f496679c2758acb057e2e6f503ff6a45e",
+  "edition": 1973,
+  "date": 1654147617495,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

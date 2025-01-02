@@ -1,0 +1,36 @@
+{
+  "dna": "6fcf4bf6124e1852de1a19b89062eb9b38da3eacea400b956bbec16871890bb6",
+  "name": "hobotown #2030",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2030.png",
+  "imageHash": "8a92591b7298bc8bfa4414026eaf5bbad53f1d08c664256a0f2ff050d93a5caf",
+  "edition": 2030,
+  "date": 1654147671527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

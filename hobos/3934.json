@@ -1,0 +1,32 @@
+{
+  "dna": "39abafecf08d26046feaf42b0a37efe28f753f1004fa93280a60c4ac9f62f716",
+  "name": "hobotown #3934",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3934.png",
+  "imageHash": "60104eab363eaecd122ad76561c454a204c667dc7c07592335878b12ca83db47",
+  "edition": 3934,
+  "date": 1654149128056,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

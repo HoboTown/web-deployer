@@ -1,0 +1,36 @@
+{
+  "dna": "50d12e0458467c7ebc85a32a3b2384bdcc78275939f96e65a02aeec66853554d",
+  "name": "hobotown #663",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/663.png",
+  "imageHash": "f45f0ac0504c493b3443f24371d6ce2e6967e9e4697b972610bbc26f51245812",
+  "edition": 663,
+  "date": 1654146434223,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

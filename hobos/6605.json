@@ -1,0 +1,32 @@
+{
+  "dna": "e0139a62fd1ca3598f43c1a45b0c3cc376394cce7790087038678c490ede29cd",
+  "name": "hobotown #6605",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6605.png",
+  "imageHash": "5aa47ccedf7ef3ad4cda1ff9e0c5e1fab720a8868f23aee92f07d658de0aff88",
+  "edition": 6605,
+  "date": 1654150661796,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

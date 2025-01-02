@@ -1,0 +1,36 @@
+{
+  "dna": "694d56bc88b1ba5431f824ed35daf1767b1aac10e7c59017b37ca8029295586f",
+  "name": "hobotown #84",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/84.png",
+  "imageHash": "390a14b8a87696e0db1617e59a4328617244c2c0396acc3266c181864daf5cdd",
+  "edition": 84,
+  "date": 1654145856438,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

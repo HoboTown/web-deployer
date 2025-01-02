@@ -1,0 +1,36 @@
+{
+  "dna": "705aac54cff53dfe70f07c86107481f315ed866f3e90f753ebcffd241cf8af04",
+  "name": "hobotown #2544",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2544.png",
+  "imageHash": "05bc5863da72e9f4c403235991d881bca573952368766305be4b928a701b301e",
+  "edition": 2544,
+  "date": 1654148208497,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "51de1e741a8fc72e0624304bc6c39e8b7c31ef51360ad4f11b7560ae766a7687",
+  "name": "hobotown #1112",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1112.png",
+  "imageHash": "288573471cca07f528fb0f3818ec6653635fcf90110d0e7b5b21b4bfd54b2e87",
+  "edition": 1112,
+  "date": 1654146797237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

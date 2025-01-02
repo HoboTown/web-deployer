@@ -1,0 +1,32 @@
+{
+  "dna": "bc0851b6253e76c89a50d4ea9c8bd6100277c1d58c2eb271be9f2ce0e163966d",
+  "name": "hobotown #5824",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5824.png",
+  "imageHash": "c56171623da972b75986a5dbc773a61a1fc4920846aba756d5547cc4dc97adb9",
+  "edition": 5824,
+  "date": 1654150221723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

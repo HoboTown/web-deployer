@@ -1,0 +1,36 @@
+{
+  "dna": "7c5206c8f2500bc5e8d53dc5d880bd57e357b4316c0d622250d98a0122859dc0",
+  "name": "hobotown #6818",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6818.png",
+  "imageHash": "b6e04dc3ebf14b2cfc59b30d967d7e83ebdec7b30f035e8e5bacd73b0b7971c0",
+  "edition": 6818,
+  "date": 1654150777502,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

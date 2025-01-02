@@ -1,0 +1,36 @@
+{
+  "dna": "ca472b11fbe15e820cd9758ce8dd490218e88b457ea43cd29db15eabbeebe828",
+  "name": "hobotown #3875",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3875.png",
+  "imageHash": "c2749a5a767a86cef276f10f9251abbefdab0277cd272fac66bc57b6aff27fba",
+  "edition": 3875,
+  "date": 1654149093847,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

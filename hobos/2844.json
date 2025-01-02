@@ -1,0 +1,32 @@
+{
+  "dna": "3df0f478f56f18d50a0090a8124ddfabac7e098ba6a24846126bc7ea41b0be61",
+  "name": "hobotown #2844",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2844.png",
+  "imageHash": "d3429206d79ab0b585d2f10c3735ba98567c0f285426f11843c344d15838775f",
+  "edition": 2844,
+  "date": 1654148424675,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

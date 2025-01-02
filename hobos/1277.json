@@ -1,0 +1,32 @@
+{
+  "dna": "adec00544b284d826303dc7b2149adca4a8fd6fc744cb0109061b160600ee1da",
+  "name": "hobotown #1277",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1277.png",
+  "imageHash": "19a805af0d488de5933b4c5823ca1d533b6f13b30eb2148a08a3a0de59279eaf",
+  "edition": 1277,
+  "date": 1654146958638,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

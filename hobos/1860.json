@@ -1,0 +1,36 @@
+{
+  "dna": "8adc5e334617d36f838cc19d9f3b35d6f25ea7bbfd48c25358ac769cd8cc7bf8",
+  "name": "hobotown #1860",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1860.png",
+  "imageHash": "f95c7358c48cf22df9c1953dfb429a6f0860376c5a045c69ba222556a7b9183f",
+  "edition": 1860,
+  "date": 1654147500481,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

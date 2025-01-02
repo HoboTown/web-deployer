@@ -1,0 +1,32 @@
+{
+  "dna": "b51c6534096b08fc52583f6823210dcc883ab05bb766117c878dce330003ca87",
+  "name": "hobotown #5992",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5992.png",
+  "imageHash": "4c9060531ddc821c8c1bceaa840ec37e0c6d52fbbabf4282c953456ae544e3ab",
+  "edition": 5992,
+  "date": 1654150298894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "fd48b89dd0eb2182d4e7d28b38c01250ddfdb71875a88e1d2e2b6b1540672dd1",
+  "name": "hobotown #447",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/447.png",
+  "imageHash": "b7a5fae7bb800e11cdfbf935caecd3e251322d9dc5b2162eb94c545a589d44d0",
+  "edition": 447,
+  "date": 1654146239553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

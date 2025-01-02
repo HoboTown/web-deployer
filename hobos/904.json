@@ -1,0 +1,32 @@
+{
+  "dna": "899e6ae0c5073446f8953a2bb696a8da77c0ef958d6e1126bf7003f195f69d11",
+  "name": "hobotown #904",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/904.png",
+  "imageHash": "dfabc426666ff287eab3d64b762d64c73a0d2147c67888b1fcd1806b5d20e4d8",
+  "edition": 904,
+  "date": 1654146615868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

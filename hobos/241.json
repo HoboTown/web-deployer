@@ -1,0 +1,32 @@
+{
+  "dna": "989b4eaa1b8d1affbe82c54b8abf80428e8be1eb0262dc03d626a37b0167d114",
+  "name": "hobotown #241",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/241.png",
+  "imageHash": "0cea91c22819d36ff94de45e6ac8a7afb76c9b336e5c1b95a502313a3b3f1926",
+  "edition": 241,
+  "date": 1654146010922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

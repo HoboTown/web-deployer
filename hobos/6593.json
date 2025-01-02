@@ -1,0 +1,32 @@
+{
+  "dna": "882f8664afd7243f3ab7df1e7da1942d46f8b389160efa824d6b0a42c556d9d6",
+  "name": "hobotown #6593",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6593.png",
+  "imageHash": "759f89a035f93bad52ae2acd716662864e961c9df6dcbca0839f4ecf248b9f18",
+  "edition": 6593,
+  "date": 1654150655732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

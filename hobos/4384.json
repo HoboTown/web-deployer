@@ -1,0 +1,32 @@
+{
+  "dna": "9aa6eef362a52979441019a421ab301b86a8b9d83edbb5a62a6cd42c489d2674",
+  "name": "hobotown #4384",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4384.png",
+  "imageHash": "a8c66ac11081f623ae1ff46e60ae7df06501f70cc4573802fe7a7936060e3246",
+  "edition": 4384,
+  "date": 1654149400894,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

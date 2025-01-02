@@ -1,0 +1,32 @@
+{
+  "dna": "098fe43b0505a617ec2cae56cbf3540e97fd2feb7232b438fff7c14983c19028",
+  "name": "hobotown #139",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/139.png",
+  "imageHash": "cb5975509ffa972c6fda8ae1b6ca3678168c8d008b3991285e2774ab0230087d",
+  "edition": 139,
+  "date": 1654145907433,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

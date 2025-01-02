@@ -1,0 +1,32 @@
+{
+  "dna": "6016338c08146d8aa8084de4af0c9360b5420663a2726edc2a1967901aac3cfb",
+  "name": "hobotown #5537",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5537.png",
+  "imageHash": "59b2ca24854086d9f7cf5bfc0d8a31e080b455d84471e255e72a960812681ab1",
+  "edition": 5537,
+  "date": 1654150081782,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

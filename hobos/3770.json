@@ -1,0 +1,32 @@
+{
+  "dna": "0b017878dfbf7e5c45ab86898283b5c19e35dc454b91b453b8d52d40ebc040f9",
+  "name": "hobotown #3770",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3770.png",
+  "imageHash": "ca26ee8599b49aea68e040cc15da5380d96177dcd441f8a1730c8b9731dd5159",
+  "edition": 3770,
+  "date": 1654149034344,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "235b1afa6d03cfc4af651cf7325949baf8d36bc0cf2ae1258b67e0ba1ba7e68a",
+  "name": "hobotown #3729",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3729.png",
+  "imageHash": "e723030781d4f34a6f957038ea0183e80e84afcbe110928ef55979cafef8da70",
+  "edition": 3729,
+  "date": 1654149009657,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

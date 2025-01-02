@@ -1,0 +1,32 @@
+{
+  "dna": "a82e3cd213cec85bba2dc7946e6c66bd08a78cd72193436ed2f61b6c89dd8c30",
+  "name": "hobotown #4112",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4112.png",
+  "imageHash": "77be0444567397b6995e36672344495e14035c99099d87ab8506ffceaee9fa34",
+  "edition": 4112,
+  "date": 1654149229022,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

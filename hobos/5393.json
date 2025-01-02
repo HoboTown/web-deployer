@@ -1,0 +1,32 @@
+{
+  "dna": "34799da3609851553e8d9e48b7e482464f94b9126fddffdb3be2be03633c30f4",
+  "name": "hobotown #5393",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5393.png",
+  "imageHash": "09d4c31359a4d2e70bf9a055d1fc76c8b5cca1f1750d6caab0ee0e16207a345f",
+  "edition": 5393,
+  "date": 1654150011314,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "b1dd516b82fe56db025ef629887c095b6e237154169ab5cde03a96aa769b76ad",
+  "name": "hobotown #1977",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1977.png",
+  "imageHash": "ce9cd5464a4a59c88dc650ef5d97e9453012cafb70bd963d1d79e8c30d5c46bf",
+  "edition": 1977,
+  "date": 1654147622328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

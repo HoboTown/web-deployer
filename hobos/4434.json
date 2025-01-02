@@ -1,0 +1,32 @@
+{
+  "dna": "83cbba31a714636516c7d9e6a6c3dabb8d42e5ed27ad61adece533da3dbc3b0d",
+  "name": "hobotown #4434",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4434.png",
+  "imageHash": "395021dcd765c6496042296800989c6b0f2965359367b4861fa13fc130c8360d",
+  "edition": 4434,
+  "date": 1654149438824,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

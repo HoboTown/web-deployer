@@ -1,0 +1,36 @@
+{
+  "dna": "5d6a44739d8bd4c970ae3d7069f322f68a6871f30505d88faf5e910cc5ad33e9",
+  "name": "hobotown #4872",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4872.png",
+  "imageHash": "07d6016f8075c713946fb76d5b76ac097f7e71e416e3b72767327a047b468ee4",
+  "edition": 4872,
+  "date": 1654149702420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

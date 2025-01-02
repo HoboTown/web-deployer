@@ -1,0 +1,36 @@
+{
+  "dna": "d170d3a71ce14a774bd30235ebbb7129d14bd2b88677ad05a6b6aee23ebd1758",
+  "name": "hobotown #743",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/743.png",
+  "imageHash": "0b5a4b85035e7d4228636b18a4ce7aa6a7cae521d681019fa285e0acec6489af",
+  "edition": 743,
+  "date": 1654146504476,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "f9978094abcf4e0386872e2bc6e94247c67cf292362110e5cacd19e122b590dc",
+  "name": "hobotown #1810",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1810.png",
+  "imageHash": "304ad7b8c2265337caca5cc86d82b785a4cddda1966501dca59d9022631b2957",
+  "edition": 1810,
+  "date": 1654147452747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

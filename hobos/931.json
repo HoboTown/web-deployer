@@ -1,0 +1,32 @@
+{
+  "dna": "f1650fc9dd9834933a99c050ce6851a1f1d0e32f10e19d3cc2b281c73341532a",
+  "name": "hobotown #931",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/931.png",
+  "imageHash": "ba62259ada65dd8ad914106c75bdb277e414ce0ab4f4ce058656ef9ee3a98947",
+  "edition": 931,
+  "date": 1654146634973,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

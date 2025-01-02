@@ -1,0 +1,32 @@
+{
+  "dna": "655518d7cd1049e32d4259d69973834c342468450e710b738821f6df072cf0ea",
+  "name": "hobotown #3878",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3878.png",
+  "imageHash": "4fcc907fca1f8b780a2f9ab0f5fda4f08145b87d3b5d1ee74688cc596502c3b9",
+  "edition": 3878,
+  "date": 1654149095536,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

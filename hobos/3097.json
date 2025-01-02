@@ -1,0 +1,32 @@
+{
+  "dna": "4f1c42526bf9b8b0492f00807eaabdf37c2e231cd0f076402cd12783ce1dff3c",
+  "name": "hobotown #3097",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3097.png",
+  "imageHash": "dcc5f6728e4d613876e1eca10dc86f1f33f72a983525c5d0ea248cf9198aeb1a",
+  "edition": 3097,
+  "date": 1654148603941,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "1f43ef38341c81087fe1a60fa7ea2a8d42a58272e9391b967d05192f156664f6",
+  "name": "hobotown #4597",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4597.png",
+  "imageHash": "abae5703588e62a0a2cf4d5818899b332904770115effa16fb9b7fc5f1d4c571",
+  "edition": 4597,
+  "date": 1654149532643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

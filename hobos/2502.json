@@ -1,0 +1,32 @@
+{
+  "dna": "55826483c103628b3f04166b7a3786a897dd6401c5a5c17665e3901688c47ede",
+  "name": "hobotown #2502",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2502.png",
+  "imageHash": "396fdbe0795dda8e8e192b09e18ca810f621ab6e1f523049c4dfc953ca2f176f",
+  "edition": 2502,
+  "date": 1654148177987,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "a99b13d255fd129ad0f3d5d4aca8a2ac9fc4510e1a49663317fab0539152d431",
+  "name": "hobotown #6146",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6146.png",
+  "imageHash": "aebf81b38d3ce869723e4f4ad4d9620c8654e871a9ffc2d3d32c7bb4bd9d5bb0",
+  "edition": 6146,
+  "date": 1654150396696,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yelling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

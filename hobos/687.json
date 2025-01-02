@@ -1,0 +1,32 @@
+{
+  "dna": "e49e9f1e4e1e6fb06376ce85e3c5ebd6f827298bad25dc44a50d28b4b81b809c",
+  "name": "hobotown #687",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/687.png",
+  "imageHash": "d2eff77ef5c67663062a62ef60f3718aa18268688b196312aa1c59ce34fec569",
+  "edition": 687,
+  "date": 1654146459606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

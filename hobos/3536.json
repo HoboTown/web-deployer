@@ -1,0 +1,32 @@
+{
+  "dna": "312ae4e9e948e8937dba0b935b33401cedda03bb742eba403bf322fc182c129a",
+  "name": "hobotown #3536",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3536.png",
+  "imageHash": "68a8710a339ad0f533f2274061576aa33ad12d37a6eb33411b218fe276b94fa9",
+  "edition": 3536,
+  "date": 1654148887159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan wiith Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

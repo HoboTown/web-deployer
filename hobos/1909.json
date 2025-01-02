@@ -1,0 +1,36 @@
+{
+  "dna": "12d749404e9a4af4a504f53807a5bacbf3907b3216bfec7a2192e01720e8528f",
+  "name": "hobotown #1909",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1909.png",
+  "imageHash": "239a333a021f57d3dcf4f4302a9e086b3ee7a9a204a51dbdcb9c12508f033046",
+  "edition": 1909,
+  "date": 1654147546593,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

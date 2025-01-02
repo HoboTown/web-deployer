@@ -1,0 +1,32 @@
+{
+  "dna": "9c82a15aac78f47f0b3eb1558e2f5dc0f7259723ee06538a7bf08405a0d86f3e",
+  "name": "hobotown #2553",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2553.png",
+  "imageHash": "8ed3ce397f66ab62bb384ed0983b84f36382fa71aafd6fba6180fb15779ec7ad",
+  "edition": 2553,
+  "date": 1654148215183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

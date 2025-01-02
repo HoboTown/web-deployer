@@ -1,0 +1,36 @@
+{
+  "dna": "77d32e6da6b4e174d1944412b55a6a61fd46d896b78697d523de7b2380dfa5e2",
+  "name": "hobotown #1984",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1984.png",
+  "imageHash": "7d7420f4b6d06b6b8573c5d496f85925964f119c92d4938062e148d267eba859",
+  "edition": 1984,
+  "date": 1654147629162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

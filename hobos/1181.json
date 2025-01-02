@@ -1,0 +1,32 @@
+{
+  "dna": "177d9addb6c68179bba6a4b1d0f827e3048e6a35002e7b7e48c5d55879d567c9",
+  "name": "hobotown #1181",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1181.png",
+  "imageHash": "7f26428af11350a72c0981c18e93337e1fedb5b40d05bd1671c52ef3f1bdbba8",
+  "edition": 1181,
+  "date": 1654146869063,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

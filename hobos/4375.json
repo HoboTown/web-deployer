@@ -1,0 +1,32 @@
+{
+  "dna": "d9d77d9e76c4ce5e2b78a1612bdc8d1434dfbcc3d513d10640d47f9934ef4aef",
+  "name": "hobotown #4375",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4375.png",
+  "imageHash": "0a75d08d68cb4cc1e53524eb0063f75e52c03a181127779d639a4e5b23125389",
+  "edition": 4375,
+  "date": 1654149393427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

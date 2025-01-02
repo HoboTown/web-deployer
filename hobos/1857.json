@@ -1,0 +1,36 @@
+{
+  "dna": "0914a1631dd413f49a89a563778c2143e98fddc74fa8789a8dc088927f160319",
+  "name": "hobotown #1857",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1857.png",
+  "imageHash": "9f622b1ef89758198bc4bca5d27a5d1d7ffcbd820778fa3d10cdaad815e1c145",
+  "edition": 1857,
+  "date": 1654147497708,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

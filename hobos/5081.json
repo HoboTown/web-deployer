@@ -1,0 +1,32 @@
+{
+  "dna": "4cbf8b653893093be71ac526ca854d75eb8f01a7732b3c68a255ba89388f5b57",
+  "name": "hobotown #5081",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5081.png",
+  "imageHash": "e2caec50e9949539993a9d70375173349bb855cdbe135032a66fe50b20037e3c",
+  "edition": 5081,
+  "date": 1654149838986,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

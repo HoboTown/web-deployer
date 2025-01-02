@@ -1,0 +1,32 @@
+{
+  "dna": "aa706ad4073afdb811e30a6f814d9a6a03b1e0cfe2ea7237ccbf4109d9744fa8",
+  "name": "hobotown #92",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/92.png",
+  "imageHash": "940318a8c887f913de3dbbc60326faa447c9e992a8498e07e862938544407cc1",
+  "edition": 92,
+  "date": 1654145863396,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

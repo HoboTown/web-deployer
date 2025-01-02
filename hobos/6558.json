@@ -1,0 +1,36 @@
+{
+  "dna": "8a99bbeaf05512f99c011a8b7494da22bc579d749f99a3608a240b4035662cd7",
+  "name": "hobotown #6558",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6558.png",
+  "imageHash": "e27b18e2526042a20317553798c2f08809c036e53217d69691d9df9b90b01969",
+  "edition": 6558,
+  "date": 1654150637515,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

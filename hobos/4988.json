@@ -1,0 +1,32 @@
+{
+  "dna": "e77a8c95cd31eea05cb21b07c16777e83a37bb0319730106053553eec7612315",
+  "name": "hobotown #4988",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4988.png",
+  "imageHash": "4b4a7cc444d12c1937d66d897c66aee5f7d00a2f76ca37e2dfea583e517eb61b",
+  "edition": 4988,
+  "date": 1654149781508,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

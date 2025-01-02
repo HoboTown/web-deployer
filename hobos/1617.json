@@ -1,0 +1,36 @@
+{
+  "dna": "fb4d5abf15e48d1be86bfd8c1505b8fb6a82943ffa19a0093734b16ae298c289",
+  "name": "hobotown #1617",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1617.png",
+  "imageHash": "0dabc48aa6311f2d33b4434410b8f516be5d7cc07d7c41102a11b4658fb71abb",
+  "edition": 1617,
+  "date": 1654147260158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

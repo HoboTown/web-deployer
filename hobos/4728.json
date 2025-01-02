@@ -1,0 +1,32 @@
+{
+  "dna": "6ddf9cab24a597e64ab61c868baa1b9aed887677845c881f09b772f6508a354d",
+  "name": "hobotown #4728",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4728.png",
+  "imageHash": "93701a3e2201ec3b2a09d6b5934c159d832cf5173424f7b32e30306439f01414",
+  "edition": 4728,
+  "date": 1654149608771,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

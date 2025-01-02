@@ -1,0 +1,32 @@
+{
+  "dna": "0bb0d73a4d57b54614bf3256b7b2d8be14d0965a7872c23fbe9aed95a2710fe3",
+  "name": "hobotown #1980",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1980.png",
+  "imageHash": "7cdc9013b426b147ec267511f68999eb24dc1f4e1fc0cc4b54c3072c87a64851",
+  "edition": 1980,
+  "date": 1654147625479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

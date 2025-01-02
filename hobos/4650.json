@@ -1,0 +1,32 @@
+{
+  "dna": "fe7baefe2b41fe6792341caf757368e9531ce6dc16d905a99b6d37fa7f78588f",
+  "name": "hobotown #4650",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4650.png",
+  "imageHash": "a277acfd9f7feae063b53d7b69c3fe5e802ab4b026db2438b86f108a58e2e579",
+  "edition": 4650,
+  "date": 1654149563483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

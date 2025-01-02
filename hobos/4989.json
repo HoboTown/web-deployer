@@ -1,0 +1,32 @@
+{
+  "dna": "f93564114320fa7a46c2138f228431f647b18db7ca9c154ba5f5a4887b53c9f1",
+  "name": "hobotown #4989",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4989.png",
+  "imageHash": "0b2a804eb3055d7a0f1f0cc626ae520a9f440c036e8bf9ec5a3e5b8a6874dc51",
+  "edition": 4989,
+  "date": 1654149782117,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

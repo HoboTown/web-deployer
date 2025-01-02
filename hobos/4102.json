@@ -1,0 +1,36 @@
+{
+  "dna": "e5283736eaae674cd71187bc3f1fed4c43539be531f1353347d76bc1d3130eb4",
+  "name": "hobotown #4102",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4102.png",
+  "imageHash": "5eee99324113c2068cde15d28661d5b5325146d0933d203e90d78e98158994cd",
+  "edition": 4102,
+  "date": 1654149223306,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

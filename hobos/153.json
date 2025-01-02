@@ -1,0 +1,32 @@
+{
+  "dna": "eeb7821f36af87321f5c20e08aed11f9bd8e119964ada03117216a0cb253cf6a",
+  "name": "hobotown #153",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/153.png",
+  "imageHash": "500ed44f957a6a186647c5b8817fc93ce1637295417e5760a53da7926747150d",
+  "edition": 153,
+  "date": 1654145921595,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

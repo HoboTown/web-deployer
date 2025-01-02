@@ -1,0 +1,32 @@
+{
+  "dna": "6c9f4e1fb06f61b2a874ec6681ddaac0e1acece523f3e253d3be4c0998ef3f5a",
+  "name": "hobotown #2540",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2540.png",
+  "imageHash": "e67ccf52dd31b3acd467a7439cbc23064e6e48de9db671b5ebf04b96b0546d3d",
+  "edition": 2540,
+  "date": 1654148205383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

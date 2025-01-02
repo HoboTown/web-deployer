@@ -1,0 +1,28 @@
+{
+  "dna": "0a1d488973706d005c407615066c7ee804f7df55d63e745df35c082463c0c560",
+  "name": "hobotown #2907",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2907.png",
+  "imageHash": "961b4b1a798631c84747cf8581ad1d1cd7261e1730c5d351a7ff4e1ae60cafd1",
+  "edition": 2907,
+  "date": 1654148471167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "debd86afd07f1aec0afed8fbc93f05d947e3aa3258f476158e6093ca8bcc6841",
+  "name": "hobotown #5756",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5756.png",
+  "imageHash": "64a6f5aa399cbdfcab5817868cfa0024ea32b20cfde3e47860010acb51224860",
+  "edition": 5756,
+  "date": 1654150190479,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

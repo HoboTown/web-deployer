@@ -1,0 +1,32 @@
+{
+  "dna": "2f7da76363256f006e5d887697cbc01e67f855f5c74ccafc086b5226fb155f4c",
+  "name": "hobotown #4158",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4158.png",
+  "imageHash": "83b43558721b4e8dc377d14c3f34bc87a9924ad793d761b892d8a2353844a1be",
+  "edition": 4158,
+  "date": 1654149255850,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

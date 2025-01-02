@@ -1,0 +1,36 @@
+{
+  "dna": "65922ea2adfdb773b044954deaafcf8a351fbe173cb586b30eaa3137d5a13160",
+  "name": "hobotown #120",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/120.png",
+  "imageHash": "b4c5bd900d9d14ff8ecae1d23ae57b74156031c26fcf48312120272dc56f6ded",
+  "edition": 120,
+  "date": 1654145889206,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

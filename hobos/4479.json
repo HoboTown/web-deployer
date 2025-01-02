@@ -1,0 +1,32 @@
+{
+  "dna": "bb72f873f228223ca14a549f3ca6de728bc405c171421a0f4d7138c77dda01b5",
+  "name": "hobotown #4479",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4479.png",
+  "imageHash": "bffbde8f8a1924e31698a6be6300800bc81ccc6750f95a35cd2bc478c210f1c3",
+  "edition": 4479,
+  "date": 1654149465471,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

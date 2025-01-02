@@ -1,0 +1,32 @@
+{
+  "dna": "f4efe9fee31921012da64afe21549cb750a0b41432def83babf8b4be53070142",
+  "name": "hobotown #1612",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1612.png",
+  "imageHash": "b98b2f9177d17c4b1e828b0d2145c538e1492c3fac8bccca4fd9776659c7d377",
+  "edition": 1612,
+  "date": 1654147255110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

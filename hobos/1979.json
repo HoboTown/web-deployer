@@ -1,0 +1,36 @@
+{
+  "dna": "637b7d348c05c8b95e5366bbf4aaa3c1cc8d96564aeb59e5406b43d7b8e7c755",
+  "name": "hobotown #1979",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1979.png",
+  "imageHash": "35fa645b272283dd1edfb52ab1b0aaa422ff9e123d548cfafaf8a18e1e40fee8",
+  "edition": 1979,
+  "date": 1654147624551,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

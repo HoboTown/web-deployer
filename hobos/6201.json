@@ -1,0 +1,32 @@
+{
+  "dna": "7cf08217538ef06e673d7351d11f5e7c5060c5acdf3793810c16696846e89760",
+  "name": "hobotown #6201",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6201.png",
+  "imageHash": "f7a2af97563e95dfa7ce142eea5ab4b8fc29652d9f0a78293d3fabebb3942e76",
+  "edition": 6201,
+  "date": 1654150426184,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

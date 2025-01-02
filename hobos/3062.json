@@ -1,0 +1,36 @@
+{
+  "dna": "9e57ce82faeb30e31b72a72844483e0d6d8fc7ede629672fb12623b6dd6b03eb",
+  "name": "hobotown #3062",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3062.png",
+  "imageHash": "fd42bf087d5595c63d5822c8d1fcbb3b7117ad81bf315757c75e65b70cbaa85f",
+  "edition": 3062,
+  "date": 1654148577620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "854398252ad9051b050416cc1b8cc33a4bd9d67a4242eba87f78a625fc95d8af",
+  "name": "hobotown #4736",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4736.png",
+  "imageHash": "174f1e0f3c3a9b16a5a33bb6c97f4c640caa4d9465ad3d4bd2dc4cc65646b145",
+  "edition": 4736,
+  "date": 1654149613499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

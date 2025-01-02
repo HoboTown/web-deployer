@@ -1,0 +1,32 @@
+{
+  "dna": "2ba4da94bac8fbdb20cc7f6fd34bef26fd96f3104529073c31d435bfde617f96",
+  "name": "hobotown #2678",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2678.png",
+  "imageHash": "4513cb8ea351a5d3337e38f68ee6b352e8825ed73505e2ea97c0569d7322480c",
+  "edition": 2678,
+  "date": 1654148301218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

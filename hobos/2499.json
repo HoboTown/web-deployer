@@ -1,0 +1,32 @@
+{
+  "dna": "d465ae145c4115d2bc12fa505ee3ef43f8deb6d40277543cbe5ea914b34823f3",
+  "name": "hobotown #2499",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2499.png",
+  "imageHash": "76cf20dd72d97c2fa8da82906a9939ce7557ca766751e46cb48bc66b7c2227ca",
+  "edition": 2499,
+  "date": 1654148175571,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

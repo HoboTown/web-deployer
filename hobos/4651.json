@@ -1,0 +1,32 @@
+{
+  "dna": "2b427da8ccfcbf3ac970a17ce4aece26ce03f47d9742f01f90a12dac04ef0d4a",
+  "name": "hobotown #4651",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4651.png",
+  "imageHash": "7c4116934b697350b7684e0174d3f0681a896a83ec049108a4ce58a8e97bda52",
+  "edition": 4651,
+  "date": 1654149564040,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

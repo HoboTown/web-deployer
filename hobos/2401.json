@@ -1,0 +1,32 @@
+{
+  "dna": "08695c66fb0a429ba3c5d457f055cbeac9cea317e317f95e1067026a49a602ba",
+  "name": "hobotown #2401",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2401.png",
+  "imageHash": "4184529b5c9de7d163c0219af7c1a18e0f2e4ca173fd5f93ec3df52ce3fcb4ac",
+  "edition": 2401,
+  "date": 1654148097854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

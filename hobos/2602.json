@@ -1,0 +1,28 @@
+{
+  "dna": "a0a25f585d3bebc10e0935a25a646630af6039bb37c5a819088828b0fe80b496",
+  "name": "hobotown #2602",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2602.png",
+  "imageHash": "3a7af86ef5c7e9de29694e7837ee765fe57c5825dfae9dfc3f354fcd1fc70a6c",
+  "edition": 2602,
+  "date": 1654148250305,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

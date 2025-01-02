@@ -1,0 +1,32 @@
+{
+  "dna": "f2b60e6de1b844d041172ad2d026ea42ffbcf201a55d4528ea7fe0b30e465a05",
+  "name": "hobotown #4430",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4430.png",
+  "imageHash": "0f0a2f435b3a7b482d15346b460bd856b8b8c6b63667614f88780356d1d62301",
+  "edition": 4430,
+  "date": 1654149436269,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

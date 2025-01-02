@@ -1,0 +1,36 @@
+{
+  "dna": "06c23234dc460f49197aff302617b741da643f2af726324f58dc4b1ab9ba8e6c",
+  "name": "hobotown #2273",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2273.png",
+  "imageHash": "a4433279e39c9908c6a35df6d1a055f2552f44076d5b9725db69921e49648d0f",
+  "edition": 2273,
+  "date": 1654147957771,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

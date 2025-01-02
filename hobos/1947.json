@@ -1,0 +1,36 @@
+{
+  "dna": "c213b9da9f4e46b141ac3fbe878f875f6bde2ff92a65a9b86221f2f49fc8e5ad",
+  "name": "hobotown #1947",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1947.png",
+  "imageHash": "7927197ae785c5bb22833f223a4ed7d6ad80cbf423be0402166ada82b989f882",
+  "edition": 1947,
+  "date": 1654147587150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

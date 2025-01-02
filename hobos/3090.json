@@ -1,0 +1,32 @@
+{
+  "dna": "8d359c7c7c57228535bac2c4316acb81c5122c6ce5359bae664330f0ed583117",
+  "name": "hobotown #3090",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3090.png",
+  "imageHash": "337550df7361fa330ef8118723f9b1b4351a490cdfc2f8e101d337e67b84f507",
+  "edition": 3090,
+  "date": 1654148598600,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

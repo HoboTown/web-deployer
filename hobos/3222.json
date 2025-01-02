@@ -1,0 +1,32 @@
+{
+  "dna": "a9dccc08406cda364458a897ddf3c7f9f968601708d36dbbed5a33e6d5e74384",
+  "name": "hobotown #3222",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3222.png",
+  "imageHash": "7af72fc4af07e43654f0d32a2e4fa3b269b012f0c50aa6d7ea8e7cb54ca31003",
+  "edition": 3222,
+  "date": 1654148695282,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

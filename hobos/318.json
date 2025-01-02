@@ -1,0 +1,32 @@
+{
+  "dna": "93123a988d71d54f3356abd78642fec39f6c645878b281c0ccea801eac2afa0b",
+  "name": "hobotown #318",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/318.png",
+  "imageHash": "6b81167407d4bca44d0e232751075074d0ce83b483588058936ac100384e9dc3",
+  "edition": 318,
+  "date": 1654146112857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

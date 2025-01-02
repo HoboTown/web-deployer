@@ -1,0 +1,28 @@
+{
+  "dna": "04ddb382bb9d0e59a668905591b0411816522ca55ac36761f648336bf0efdbbc",
+  "name": "hobotown #4250",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4250.png",
+  "imageHash": "9e1f4cb2e4ffd8b7338b7f23827662ad5e47e60d3ca94c86b46d3a6c46878ae5",
+  "edition": 4250,
+  "date": 1654149313140,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

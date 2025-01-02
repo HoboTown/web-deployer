@@ -1,0 +1,32 @@
+{
+  "dna": "306aa7cca3c6444d9c25bb90f079743b4d53db56f58c976e758938174d0e0b20",
+  "name": "hobotown #4090",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4090.png",
+  "imageHash": "04c56e543cf267318a30b9d9dd8f3bfbb22f711a13e2832b428e613c185b4bf6",
+  "edition": 4090,
+  "date": 1654149216601,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

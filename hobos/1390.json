@@ -1,0 +1,16 @@
+{
+  "dna": "efefc005307ac4d9469ac42f566f471d7589c47de2808ebd6d7c9b06bba1a177",
+  "name": "hobotown #1390",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1390.png",
+  "imageHash": "6f7dbe009706e31a1dab4bdaaeb1f7f5aeba47150fab3b6e8b465e727382a592",
+  "edition": 1390,
+  "date": 1654145782452,
+  "attributes": [
+    {
+      "trait_type": "Super Speshul",
+      "value": "The Golden Hobo"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

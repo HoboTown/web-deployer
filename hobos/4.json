@@ -1,0 +1,32 @@
+{
+  "dna": "2b1a5588bb2c8a6537803ee5d4030f80dc4f159452a88d5dc4fc18ad6946d034",
+  "name": "hobotown #4",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4.png",
+  "imageHash": "402b0f16dbc4000ac8b694a286922d1dafd67676468a393a31b8265e5d91fe34",
+  "edition": 4,
+  "date": 1654145786221,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

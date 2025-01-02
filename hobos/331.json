@@ -1,0 +1,32 @@
+{
+  "dna": "2e04ff689fed2abc70c73bbc937802ede45386913b36e36f3e96e00d4d3f133b",
+  "name": "hobotown #331",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/331.png",
+  "imageHash": "5630d8f4404eb90cd30bd2855e9f98f03e5491499c0a1c35e6033932685a0861",
+  "edition": 331,
+  "date": 1654146123916,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

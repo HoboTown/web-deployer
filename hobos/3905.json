@@ -1,0 +1,32 @@
+{
+  "dna": "c6a52f45064c839d31fb097d3882a11c6d484232f6949f868a4e42475d7fa1e2",
+  "name": "hobotown #3905",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3905.png",
+  "imageHash": "393091a90de0efb2fcf7a859e9f7d1df64e6c75f68a5c35dada584d0a2c2db2f",
+  "edition": 3905,
+  "date": 1654149110927,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan wiith Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

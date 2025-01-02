@@ -1,0 +1,36 @@
+{
+  "dna": "96f8e9e9d89e7e8c309eb3e78a6954c01482243a627836c83778b8dfe6d5af41",
+  "name": "hobotown #6287",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6287.png",
+  "imageHash": "c06e0af0d33ff84a5a64c0be10ccb6aa07c85d082b44a0b0881b891df7523677",
+  "edition": 6287,
+  "date": 1654150472186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

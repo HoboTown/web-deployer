@@ -1,0 +1,32 @@
+{
+  "dna": "7be7b6a643d1d3f6884401682c1e119215ffb426fabbfb901bc2563bc6a8de30",
+  "name": "hobotown #1902",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1902.png",
+  "imageHash": "14c5b62a619bae9dfe288055523bdb013a121629db86062545868325954fa8bc",
+  "edition": 1902,
+  "date": 1654147540053,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

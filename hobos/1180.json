@@ -1,0 +1,32 @@
+{
+  "dna": "87b2e9a7c3baeaa249c4b1c014da8f756d3c62312a7b156aa05b93f8766dc496",
+  "name": "hobotown #1180",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1180.png",
+  "imageHash": "8f0199d895f53868da0ad7b90576d3c79581b3bd80ee2198a634678308f88472",
+  "edition": 1180,
+  "date": 1654146868125,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

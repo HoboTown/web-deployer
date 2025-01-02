@@ -1,0 +1,32 @@
+{
+  "dna": "18dca527f2231367b45bf291a290e124015b7de76515a0d4169064cf426f92c9",
+  "name": "hobotown #2177",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2177.png",
+  "imageHash": "0e96f8ed58a4ecc4afa090508ffd123a7d7564bfe75bd2de24847a2d2929d948",
+  "edition": 2177,
+  "date": 1654147838530,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

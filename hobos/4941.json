@@ -1,0 +1,32 @@
+{
+  "dna": "d5931bb263bc43b437beddba18874b6cd7b89af24f6c722b01b4cdf0d4d16612",
+  "name": "hobotown #4941",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4941.png",
+  "imageHash": "e288c5fb1c7ac81369e6743287fd251bb88a5cfe1eb4c211326b43fe0d7c99d8",
+  "edition": 4941,
+  "date": 1654149749353,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

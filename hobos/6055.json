@@ -1,0 +1,32 @@
+{
+  "dna": "7fe91dae6b97a8653de0850c377d3a07daa6adc9465d35ffffc7feab05dc78fd",
+  "name": "hobotown #6055",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6055.png",
+  "imageHash": "98ba80e6efa9f94747f25373fc8c996bf125d1b076f9ac0b0dc9a8f8329a354e",
+  "edition": 6055,
+  "date": 1654150332918,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

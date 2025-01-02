@@ -1,0 +1,32 @@
+{
+  "dna": "41392401720cbad6c807a7b9ad60fac892857b7c501b74d1f85ea8b4476bf634",
+  "name": "hobotown #6804",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6804.png",
+  "imageHash": "59fc8a87792ceb0e276d45fb28bf685e352edefa7d11b3689a8e1eea704c9620",
+  "edition": 6804,
+  "date": 1654150770313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "b42f1106b5837b14f2d8a33b98795909aed8a563d6f256fc276b51413ee95830",
+  "name": "hobotown #609",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/609.png",
+  "imageHash": "96ef6e191b889859c4b8c09ab1094f430c9c0d9631af8c57f26c814937c6e445",
+  "edition": 609,
+  "date": 1654146379408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

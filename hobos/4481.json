@@ -1,0 +1,32 @@
+{
+  "dna": "b2c99daf7c12aa46c490db28891b7a59f250dc56fa7bc24fc9a3a8c38dcff040",
+  "name": "hobotown #4481",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4481.png",
+  "imageHash": "f5cfb79cefa45ff8738b7e6e43ca5a931d9a0630f7f91bca1cedee2f0fed4fd7",
+  "edition": 4481,
+  "date": 1654149466598,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

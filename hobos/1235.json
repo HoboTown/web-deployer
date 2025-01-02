@@ -1,0 +1,32 @@
+{
+  "dna": "aa68dbf1f6ae352cb7e6bb55d0bea765cab2d3f9c7e1a50b567cda828fef4155",
+  "name": "hobotown #1235",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1235.png",
+  "imageHash": "5dca4bce76336df930dc74ceba54c0f43c2286045f54f688d696f324361cde84",
+  "edition": 1235,
+  "date": 1654146915591,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

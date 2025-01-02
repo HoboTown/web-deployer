@@ -1,0 +1,32 @@
+{
+  "dna": "7925f1e3451997cbeef579f596d38a47348e018e283b1f55c5baeee94ea1fcf5",
+  "name": "hobotown #1038",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1038.png",
+  "imageHash": "2b054c5c1cab78e329d334606aa40b52e3f5680151a0b980623476cd4b6ef1db",
+  "edition": 1038,
+  "date": 1654146716727,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

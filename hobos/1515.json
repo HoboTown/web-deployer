@@ -1,0 +1,36 @@
+{
+  "dna": "4b9b203283967ab71de26ff35054f6c6aa79e31cd79e242ec60347ea990561ab",
+  "name": "hobotown #1515",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1515.png",
+  "imageHash": "46f91deaff943058b24993e170a1438987d83841488f6e87c8d0a00b9d207981",
+  "edition": 1515,
+  "date": 1654147166467,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

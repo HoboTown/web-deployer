@@ -1,0 +1,32 @@
+{
+  "dna": "f7ccfe6cf6b110fcd23d539bfdb465e3759844f5495b8246427e0277945fb654",
+  "name": "hobotown #1133",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1133.png",
+  "imageHash": "205ccdb171afb9a22af0993a00352a395d6f150ca709656a22be9d61f16d4167",
+  "edition": 1133,
+  "date": 1654146820748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

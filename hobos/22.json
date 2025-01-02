@@ -1,0 +1,32 @@
+{
+  "dna": "13e06051d3494e2563b4949137a74ed0701409eb0f141ef79ed60182b76feea3",
+  "name": "hobotown #22",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/22.png",
+  "imageHash": "b314f4b520228c8838c646d5ef611d773484fe90a96e67f5cd6f82115d4e399c",
+  "edition": 22,
+  "date": 1654145803020,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

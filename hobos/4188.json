@@ -1,0 +1,32 @@
+{
+  "dna": "aab40102ab1e939b04c2c824fa0c15e982c7a2ec374e3374fc9ebb467f713943",
+  "name": "hobotown #4188",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4188.png",
+  "imageHash": "09cfbe7cd14633009285fa2a513b63f9c3fadd7499a8461025ba104dcc8676e8",
+  "edition": 4188,
+  "date": 1654149274811,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

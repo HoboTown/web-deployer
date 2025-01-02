@@ -1,0 +1,32 @@
+{
+  "dna": "7b284c574ee1acd9cde9f90d5d9455eb96e9b1881af6b72bbd02e5e3987990cf",
+  "name": "hobotown #1926",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1926.png",
+  "imageHash": "9fef4ee79b473b1864c58dba9242213a6f00e2193b1d9aa67f6f3710d4e1b6e4",
+  "edition": 1926,
+  "date": 1654147564132,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

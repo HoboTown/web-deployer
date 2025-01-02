@@ -1,0 +1,32 @@
+{
+  "dna": "1911ad81696696ccb0eabd5829d79b33154cec8added448965fd7caa2643b8ba",
+  "name": "hobotown #1465",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1465.png",
+  "imageHash": "63c3c88788400a88df1dbc8968d1bf38b888c592689f49e4d0cf6b602344017b",
+  "edition": 1465,
+  "date": 1654147124643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "e0fc53ddecc997b3e4a362f18882ff16305f7041424ecabfaeae304d4d14cbf2",
+  "name": "hobotown #2385",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2385.png",
+  "imageHash": "1116462cbee4344185f8b121fc5fd77dcc1f6647651385d7411894c0d3d42afa",
+  "edition": 2385,
+  "date": 1654148079494,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "6538c9581beec7f128758917251d27fda6ef2900ac01a009181e7886d444e7e9",
+  "name": "hobotown #3971",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3971.png",
+  "imageHash": "deba950205deff443d4009924623a9d6777bf77c0ee5346168db3803f604d32c",
+  "edition": 3971,
+  "date": 1654149149562,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

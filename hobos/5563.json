@@ -1,0 +1,32 @@
+{
+  "dna": "641752cdf722f625c7b89b72ab3fc44931d0604803f6da2abe94594cbada3c91",
+  "name": "hobotown #5563",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5563.png",
+  "imageHash": "a5976c3ce7c4da0536d114c6d5cbbe339be0058d613cf8dd842c68e713beadf9",
+  "edition": 5563,
+  "date": 1654150094465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

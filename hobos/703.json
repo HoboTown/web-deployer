@@ -1,0 +1,32 @@
+{
+  "dna": "dd7b4897ca6a48f07395630d4db895fc165c278f0d32d6244a70d65b8349429e",
+  "name": "hobotown #703",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/703.png",
+  "imageHash": "888ab29e10f7fcf9d9136fccabaa95e9e2abada7548041c80b04f7887f789819",
+  "edition": 703,
+  "date": 1654146472873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

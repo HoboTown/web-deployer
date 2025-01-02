@@ -1,0 +1,32 @@
+{
+  "dna": "31bad88940a4b25a9b5ef1627b6b4535a11ea6d06fdb45c3b4b9349caf21977c",
+  "name": "hobotown #1801",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1801.png",
+  "imageHash": "ef01c9eb11068f26f657f75340aab6dd7a1e3b8ab18d3c4c4ed3d2c9007627fc",
+  "edition": 1801,
+  "date": 1654147444573,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

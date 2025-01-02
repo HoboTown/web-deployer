@@ -1,0 +1,32 @@
+{
+  "dna": "7063d83ec98cb4a8d8229ba72db7c747c3c8becca73a9aadba97f82588c6c78d",
+  "name": "hobotown #1910",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1910.png",
+  "imageHash": "d7262033adc0e683f8a6e4cede5607e9cbd88a8094cb09865a034de037a702ad",
+  "edition": 1910,
+  "date": 1654147547471,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

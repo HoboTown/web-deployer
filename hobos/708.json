@@ -1,0 +1,32 @@
+{
+  "dna": "27c7ab8da606a02c6917cd5b809d67bff2b0c21cc8f44dcaf11ca9fbe7a3c4dc",
+  "name": "hobotown #708",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/708.png",
+  "imageHash": "efa1d05947c92a4ccac38cc086c6e76b09d1a3b63c65707712e6ae307fbcbfb1",
+  "edition": 708,
+  "date": 1654146477739,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

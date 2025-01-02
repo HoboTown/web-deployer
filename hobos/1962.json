@@ -1,0 +1,36 @@
+{
+  "dna": "dfcd49f6509a923874063166bada6b51dcacabf4259369d4d08540b182c1157d",
+  "name": "hobotown #1962",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1962.png",
+  "imageHash": "ac37068b72b49d30110de1d0da40eb6796b01cf222b03e123d043b5351fdf7dc",
+  "edition": 1962,
+  "date": 1654147604044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "1cedaaadc5283e239a5eca5a021dfb0e2a4e32534646b3c93df310fb645fed29",
+  "name": "hobotown #4517",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4517.png",
+  "imageHash": "b6ac76152c299a386aba7a56cf7ea9912362b5793dfed9dc22a36a9da078912a",
+  "edition": 4517,
+  "date": 1654149487095,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

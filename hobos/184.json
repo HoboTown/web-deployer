@@ -1,0 +1,32 @@
+{
+  "dna": "5856d4cfc4f4647fdc87b122aeea34a0c3f04c93742464e131a96f93e7631933",
+  "name": "hobotown #184",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/184.png",
+  "imageHash": "e6d0c253c2603eb4fc6805035d1d01a0089d55f0b426b0ca587335e5782504e9",
+  "edition": 184,
+  "date": 1654145953382,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

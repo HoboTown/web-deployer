@@ -1,0 +1,32 @@
+{
+  "dna": "76a6f2093dc378392f3b2604dc252ef0218c77a984e252705db78ddc808f746e",
+  "name": "hobotown #6334",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6334.png",
+  "imageHash": "03c9e1ddd773954d4495f2ab05cede3827b71030007076d2602c8dc736ac6184",
+  "edition": 6334,
+  "date": 1654150500383,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

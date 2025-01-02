@@ -1,0 +1,32 @@
+{
+  "dna": "18d28a0a9582404cab1b1fa77df1612caf4a8574c40c8c157c008e4d63c79b3d",
+  "name": "hobotown #5888",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5888.png",
+  "imageHash": "03a2d73cf27f73a0dd89dc23f03dd4af91018285be1cbe696593bc7192846da6",
+  "edition": 5888,
+  "date": 1654150250552,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

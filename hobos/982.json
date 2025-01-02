@@ -1,0 +1,36 @@
+{
+  "dna": "50e436f94d3d8be11fe391662405b549d4c6d12a2b94089d9f71e275cfa5f9f0",
+  "name": "hobotown #982",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/982.png",
+  "imageHash": "89a1cc219d1a4a8e5acec41aae7ce90e5ed47e85dc5f1a67ecf427f0c8c99eca",
+  "edition": 982,
+  "date": 1654146671602,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

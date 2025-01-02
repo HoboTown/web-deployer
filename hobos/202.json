@@ -1,0 +1,32 @@
+{
+  "dna": "8d30d362c1cf9f183cd848f2248c638478cdb7d122afec806c7db19585655876",
+  "name": "hobotown #202",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/202.png",
+  "imageHash": "cf9c981c033f105431434d1d5297a55e2375fa470513567a77375d87add31c73",
+  "edition": 202,
+  "date": 1654145970242,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

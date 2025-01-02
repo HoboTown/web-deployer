@@ -1,0 +1,32 @@
+{
+  "dna": "51e1cfe78acc0d782c3b5cabd002c39772f8720852385a52a851e3cb3f8f810f",
+  "name": "hobotown #251",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/251.png",
+  "imageHash": "cc219b3e3844a8c96bcdba6b622253c9587800d57c5818974f21ac9c30727f87",
+  "edition": 251,
+  "date": 1654146025580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

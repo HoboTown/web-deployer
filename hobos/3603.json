@@ -1,0 +1,32 @@
+{
+  "dna": "8845d3cf38527d8ab55ac29da871e2aa32b02ce126878c77732f8d8709730611",
+  "name": "hobotown #3603",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3603.png",
+  "imageHash": "7f714bf31cba3e236af78da72dd812c5bf613d10c51d749b654cedbfb26c7132",
+  "edition": 3603,
+  "date": 1654148927034,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

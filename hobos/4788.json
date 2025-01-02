@@ -1,0 +1,32 @@
+{
+  "dna": "7ad0d58fb884a93426cb87e5fd854c2fb87d5ce22e919b1d0ace9d145585f6f5",
+  "name": "hobotown #4788",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4788.png",
+  "imageHash": "48f075851eaea68af58b931c79f740153c483c46839c10647a893a3e4ae10b4e",
+  "edition": 4788,
+  "date": 1654149646892,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

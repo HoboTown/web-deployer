@@ -1,0 +1,32 @@
+{
+  "dna": "0556a072a5298d8143beb202996b5b55291cb91a6c5231a25ed5b44c70081b75",
+  "name": "hobotown #1287",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1287.png",
+  "imageHash": "eaed56158c7a110e3aaf634ec34a4087c93d73f83a573b79265597143f333546",
+  "edition": 1287,
+  "date": 1654146968397,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

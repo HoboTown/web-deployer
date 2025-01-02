@@ -1,0 +1,32 @@
+{
+  "dna": "df8a8fe2e8ca319ad3c51eca03310efa58af8ceff29750ac9bb901d4337b7471",
+  "name": "hobotown #5013",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5013.png",
+  "imageHash": "a47b55ca3769d507b06442e59cf5c8028060a9ee7bbfde67cd646937db84e1ff",
+  "edition": 5013,
+  "date": 1654149796587,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

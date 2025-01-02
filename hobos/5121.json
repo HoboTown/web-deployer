@@ -1,0 +1,32 @@
+{
+  "dna": "4d36852588cdd2a75259519ee13dcb51c624e84e6ae7d8303da4026e4b34ddc8",
+  "name": "hobotown #5121",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5121.png",
+  "imageHash": "da2f7dbf3cda2e018288b2a20c992ffdeefc1c22abaa6bad29059029d2c81dce",
+  "edition": 5121,
+  "date": 1654149861632,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

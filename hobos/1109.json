@@ -1,0 +1,36 @@
+{
+  "dna": "8e6a9e19fb75b72d0a168d847b5884aa3bfd63f5d96f9d70a436721d159c4cf2",
+  "name": "hobotown #1109",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1109.png",
+  "imageHash": "7488d3c75f7d861c45ea32fe9c1b8b6f72587f3d333848a63951680b0e654013",
+  "edition": 1109,
+  "date": 1654146794336,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

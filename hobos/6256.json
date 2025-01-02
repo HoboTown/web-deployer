@@ -1,0 +1,32 @@
+{
+  "dna": "6bd77566a45df41d8a456f4b54e16c1f7d6079e1b445a63fb826618c75c79c89",
+  "name": "hobotown #6256",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6256.png",
+  "imageHash": "adc75bc871d4ba0116397a19284f60553f2e1e9ecf19bef4b2006d8c9a455f32",
+  "edition": 6256,
+  "date": 1654150455217,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

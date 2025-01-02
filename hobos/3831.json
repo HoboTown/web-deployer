@@ -1,0 +1,32 @@
+{
+  "dna": "6e051da645fb70d9abb7b2181a857f09d11c8ab07a99e48cb6f4e92a900fdaff",
+  "name": "hobotown #3831",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3831.png",
+  "imageHash": "734b660e25eb9f96fb753379e7aab26a41a61e4a0f26efb6c36884a4a2c16c00",
+  "edition": 3831,
+  "date": 1654149068931,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

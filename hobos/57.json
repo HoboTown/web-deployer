@@ -1,0 +1,32 @@
+{
+  "dna": "b5483d93ae38192dfc5f69a011e4150f7a126c96521a1fbe100575c8f5052df3",
+  "name": "hobotown #57",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/57.png",
+  "imageHash": "f9ed57464048ac345b163b6f40395fb4b64c82621fa5c0b10e0353ff7c0d4e19",
+  "edition": 57,
+  "date": 1654145833882,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "5c885438eda0c9e8a17c422a987de3f66d99a77af0e2b3ca0225802e01c08bcf",
+  "name": "hobotown #3764",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3764.png",
+  "imageHash": "a9847a957436f97017cb3905f493edd25b20cbb3861256eac5b9a5d480f2fb36",
+  "edition": 3764,
+  "date": 1654149030905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "80c8723aba350316d3cded194f35b92cbbdbd38691e74c0b65564f314e1bdd0e",
+  "name": "hobotown #1931",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1931.png",
+  "imageHash": "e8ec892ac1e530dfb6ceb9004c4abba4ae2a7a28588ed48e822a11fb7ae0576a",
+  "edition": 1931,
+  "date": 1654147568775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

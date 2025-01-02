@@ -1,0 +1,36 @@
+{
+  "dna": "32c68ab0c22d4978e6e011be87dc0f0f1a944bfbd2a31523baabc2b9ff25d946",
+  "name": "hobotown #1263",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1263.png",
+  "imageHash": "fe16fe8fdbfcbaf7a1e135b643d78c08724a9c928f385d31d92c3f373cb9647f",
+  "edition": 1263,
+  "date": 1654146943671,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "61bff48255294ccfc5eb176dd25dc12075befc73aac72c5424802a4baf280a8d",
+  "name": "hobotown #3030",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3030.png",
+  "imageHash": "3aa9b84bb26b8fc615a2f147401d3b7cbf1bf6ad281516821fa8b4a74151820b",
+  "edition": 3030,
+  "date": 1654148555023,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

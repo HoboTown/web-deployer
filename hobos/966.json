@@ -1,0 +1,32 @@
+{
+  "dna": "b9ea6459a4c3b5b85e69d4cead4931cecdebdcf80f35fb456d3c4a307dae3025",
+  "name": "hobotown #966",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/966.png",
+  "imageHash": "41b9243a59de592053fef974b04c98773d0de4f2dd83590a8a345e2bd619f016",
+  "edition": 966,
+  "date": 1654146659881,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

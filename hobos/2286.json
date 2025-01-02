@@ -1,0 +1,28 @@
+{
+  "dna": "91619a4c5a2deb77263bf12fb7114e362e3d303da2e7ceaca1234c1da83e673b",
+  "name": "hobotown #2286",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2286.png",
+  "imageHash": "52abc162ca1fd539bd6dec2d7d5f5b23cb4d5aa54ae58f7e8b3d074697f75d5f",
+  "edition": 2286,
+  "date": 1654147973803,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

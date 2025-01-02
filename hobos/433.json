@@ -1,0 +1,32 @@
+{
+  "dna": "c0927ddeae499b49604b8d5dd8ede3077baeda2aa9d6eb7c195bd92f9749d677",
+  "name": "hobotown #433",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/433.png",
+  "imageHash": "7c394f01a6f81ed8654ac4ab190add1abec2bf359581acfad88cca9074b28ea6",
+  "edition": 433,
+  "date": 1654146228588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

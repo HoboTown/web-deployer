@@ -1,0 +1,32 @@
+{
+  "dna": "7ad7333c4a833d7060ae8436d8e810326b2f4e97319284fd57896fb17c13ed5d",
+  "name": "hobotown #4272",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4272.png",
+  "imageHash": "2d88b28eecf1c7d7f38da88c3ec643625793753f2dad30f8629d190a78cb70ed",
+  "edition": 4272,
+  "date": 1654149325705,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

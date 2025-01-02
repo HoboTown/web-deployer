@@ -1,0 +1,32 @@
+{
+  "dna": "bc331e90a71975e59b1f3071c1d1c5708e01fae2cd5df7b9117c300c579ea530",
+  "name": "hobotown #4986",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4986.png",
+  "imageHash": "b201ab944ed49d54ed49bad3266314faacce3ca92384ea4a36f344f13ed14555",
+  "edition": 4986,
+  "date": 1654149780247,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

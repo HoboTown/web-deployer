@@ -1,0 +1,36 @@
+{
+  "dna": "d6753e8cb68b846756a2cbf262af7ad2a21893b471c4abbd2cbacc442ce873ca",
+  "name": "hobotown #3477",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3477.png",
+  "imageHash": "7046b75ea98247be7658b3ef713b2fa7e7e32a50907903d1e9300725e213f6d2",
+  "edition": 3477,
+  "date": 1654148851359,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

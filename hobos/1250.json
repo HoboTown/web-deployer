@@ -1,0 +1,32 @@
+{
+  "dna": "2062757f13008e2bbd188ec545988327c70ef80743c0310691ec16bb0735b557",
+  "name": "hobotown #1250",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1250.png",
+  "imageHash": "d8f4bef32c2eb46102228deaac1a946d7b3036f5a3540ab2e49266830c88b0ae",
+  "edition": 1250,
+  "date": 1654146930650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

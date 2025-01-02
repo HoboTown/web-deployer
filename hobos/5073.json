@@ -1,0 +1,32 @@
+{
+  "dna": "30adad81162621952643465183e5dfe0bcede1a5055299215ce9d9ee91578b87",
+  "name": "hobotown #5073",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5073.png",
+  "imageHash": "231dc23671e115c7b601420b132375d9e9bf92612fc594903faeaeb733e5e385",
+  "edition": 5073,
+  "date": 1654149834518,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

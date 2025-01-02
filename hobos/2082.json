@@ -1,0 +1,32 @@
+{
+  "dna": "b4ae88b2386068487c06ffec8136f75dadd7f761d2bfa94cb2f62104a82f876e",
+  "name": "hobotown #2082",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2082.png",
+  "imageHash": "42511d3dda2640cf938043a4ec3ac9876aa00b52291f70a9548e4197100b5407",
+  "edition": 2082,
+  "date": 1654147724643,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

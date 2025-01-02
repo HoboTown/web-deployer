@@ -1,0 +1,32 @@
+{
+  "dna": "31684fb0ff89a9926a90c7cf6f0b6df53da85645a226b8f29bdce21561029ee6",
+  "name": "hobotown #2053",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2053.png",
+  "imageHash": "f6725f66375c4a7fe487dbd05718041d363c9ff7ee9bc629ffa984df15f73aa9",
+  "edition": 2053,
+  "date": 1654147697187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

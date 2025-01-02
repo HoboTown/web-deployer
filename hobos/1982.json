@@ -1,0 +1,36 @@
+{
+  "dna": "4e8fe74b154a85091abc0f99d8c9ff4a6011725dd2811c7355af1b94aae5c251",
+  "name": "hobotown #1982",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1982.png",
+  "imageHash": "913a08eb546cd18880478957cadca641e4f5afd5ee0bc990b4b03fffecd74df7",
+  "edition": 1982,
+  "date": 1654147627368,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

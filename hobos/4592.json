@@ -1,0 +1,32 @@
+{
+  "dna": "d4d509fffe46ee61d1dd2e1108d97c26afcd35d54f6eacb78f85f211378786be",
+  "name": "hobotown #4592",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4592.png",
+  "imageHash": "4450d1a1cc5dab498985d95c4f24b1181d337bab66fbef8f426b397db64a9214",
+  "edition": 4592,
+  "date": 1654149529832,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

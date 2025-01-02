@@ -1,0 +1,32 @@
+{
+  "dna": "833b7c4ef5bdbc0602498ee913ad6bcf47c5527de3d2f074e74adfc831ec5d8d",
+  "name": "hobotown #480",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/480.png",
+  "imageHash": "b9c5130e21747b3ae54c582fe4af3580eb110c2d5d28869dd27bc644487094e2",
+  "edition": 480,
+  "date": 1654146272427,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

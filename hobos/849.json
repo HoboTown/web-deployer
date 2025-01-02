@@ -1,0 +1,32 @@
+{
+  "dna": "f1caad971d2d28d2a394a3163415d80781e30033fe64987b1d0b79d4957c20ca",
+  "name": "hobotown #849",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/849.png",
+  "imageHash": "84177e73520f039e62f5460e32140648c9283a7113b3f11a4db52182458a4a59",
+  "edition": 849,
+  "date": 1654146572905,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

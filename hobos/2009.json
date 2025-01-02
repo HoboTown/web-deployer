@@ -1,0 +1,36 @@
+{
+  "dna": "a9d60765a0a147d4687a47717b8dde97936f894a82142210835e6732e20db308",
+  "name": "hobotown #2009",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2009.png",
+  "imageHash": "6d295acdf0c3cd1b134775d0f3775ca20f5b94e43572a7cf0d8ac65592707123",
+  "edition": 2009,
+  "date": 1654147652291,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

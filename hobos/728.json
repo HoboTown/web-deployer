@@ -1,0 +1,32 @@
+{
+  "dna": "7783b338fd9f6255ac612d4e42eb149b186f2b72d73378ae5f83b6988e317329",
+  "name": "hobotown #728",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/728.png",
+  "imageHash": "cb964e9fc5af3b2614012b855ab1f5cb72c9f25629d26899cbdfc904b3e86078",
+  "edition": 728,
+  "date": 1654146493700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

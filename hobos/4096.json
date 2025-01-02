@@ -1,0 +1,32 @@
+{
+  "dna": "58ee7b29957ca594e7becce8da06cf37741d3ae9f83b968dcbc2bd95f70f53ec",
+  "name": "hobotown #4096",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4096.png",
+  "imageHash": "d51be60fc3120c787e8f8bfe47dd2ad0df92a65ace070db47438ec81670c513b",
+  "edition": 4096,
+  "date": 1654149219930,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

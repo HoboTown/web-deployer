@@ -1,0 +1,32 @@
+{
+  "dna": "d29b695ca4fc44fe0c552e19d9aa72bd04eedab32886f88b9fc800227dec7d98",
+  "name": "hobotown #2799",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2799.png",
+  "imageHash": "3eedb3d02c46a040bd6f7533ce75974e554d1e095ecfa5fdac3245692b0a2359",
+  "edition": 2799,
+  "date": 1654148389450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

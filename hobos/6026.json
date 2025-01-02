@@ -1,0 +1,32 @@
+{
+  "dna": "efbf4075434ef429db11fd57defe8e83afb7763336ad915a4182b5fb84431ee3",
+  "name": "hobotown #6026",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6026.png",
+  "imageHash": "52273dbd45043c1a85524cf1ae703c10765bbcb48b3609599b65a9036838a557",
+  "edition": 6026,
+  "date": 1654150317534,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

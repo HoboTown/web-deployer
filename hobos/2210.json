@@ -1,0 +1,32 @@
+{
+  "dna": "0f33dc8b57c5d0d6ddc0bb593af548d7ec0fd2c49ab6b857d22b7f0d50bb1d4b",
+  "name": "hobotown #2210",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2210.png",
+  "imageHash": "08098fd4ff08f4cff4b39be4da40509bc3cefb8ad42d8cc42b27ab5a09a9ed0e",
+  "edition": 2210,
+  "date": 1654147884348,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

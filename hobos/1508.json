@@ -1,0 +1,32 @@
+{
+  "dna": "b93c4dd86b971666ed2bacf6b47a8f5184ef3b9933333cdceb880bf449700c27",
+  "name": "hobotown #1508",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1508.png",
+  "imageHash": "d92154446e4cb8373eb7a14af5d9183209c238bd24f84518f130053c27e2467a",
+  "edition": 1508,
+  "date": 1654147160645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

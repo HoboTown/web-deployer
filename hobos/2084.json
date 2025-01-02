@@ -1,0 +1,32 @@
+{
+  "dna": "d60d1ba9c9783ae91f00d6704576a40b9af4d33699018a169de6202448ed046f",
+  "name": "hobotown #2084",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2084.png",
+  "imageHash": "a97b5f4309db66db1515cfd67f93bd5f598ee88f12ea80ae5fd92afcaa17fbc9",
+  "edition": 2084,
+  "date": 1654147726561,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

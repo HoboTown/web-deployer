@@ -1,0 +1,36 @@
+{
+  "dna": "8eb96aa1b17afc6cd4dc241022076fa1aaf6b49498c765875318184e6b1ffd5a",
+  "name": "hobotown #6036",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6036.png",
+  "imageHash": "7a387c42080de8fdd93aa537c27b634b8953729f2047e1c0fcfc08b4e601eeb0",
+  "edition": 6036,
+  "date": 1654150322839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

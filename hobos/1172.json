@@ -1,0 +1,32 @@
+{
+  "dna": "3f163b9c98e8c70d0dad8eb61544897a7af9d74126aa0f6e69185e6d1af3b423",
+  "name": "hobotown #1172",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1172.png",
+  "imageHash": "fcbb47272823fb02c7cd7da0edc55c999cc8b506d301a0cfc91b5c08605916bd",
+  "edition": 1172,
+  "date": 1654146859785,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "6afd3cf448e2f2455b125fb03982dc586d2b9a53ae651ee598c0155de6c85f8c",
+  "name": "hobotown #838",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/838.png",
+  "imageHash": "1c4a23d791e4fd0133b78dceb4cf8d2845506c20097307bbe6597253c492799c",
+  "edition": 838,
+  "date": 1654146564447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Tattooed Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

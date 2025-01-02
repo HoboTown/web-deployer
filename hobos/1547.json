@@ -1,0 +1,32 @@
+{
+  "dna": "cf61480694c1ff6a34988a2297aaa36e15fa735bbc9bce0fdf12e7029cf1d274",
+  "name": "hobotown #1547",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1547.png",
+  "imageHash": "b230cae099be4c44970f66c28a1be2f643dc487bedc0ab1795af8020c1fe1f61",
+  "edition": 1547,
+  "date": 1654147194651,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "fea1cda667ce6b770ee388d1e21e464384c7fd5981569d43c0b44ea043ea6b2f",
+  "name": "hobotown #106",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/106.png",
+  "imageHash": "48050718b70411a1c9f023e113541ac90666b829f48ec3e5b5b32fb68e8b93ec",
+  "edition": 106,
+  "date": 1654145876017,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

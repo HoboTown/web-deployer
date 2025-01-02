@@ -1,0 +1,36 @@
+{
+  "dna": "8d9e05c504577013785cedec9a09f62e5968032ad20b0ec641833df3c38d8173",
+  "name": "hobotown #224",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/224.png",
+  "imageHash": "763a26696b6704cc73ef529789416a4aa5b9484c195f77b80ab5652ff1ee8a22",
+  "edition": 224,
+  "date": 1654145992499,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

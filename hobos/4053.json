@@ -1,0 +1,32 @@
+{
+  "dna": "969d2eb5559dbd7803806a182a0b1ee1a4715ddc77109f0887f87435e4806848",
+  "name": "hobotown #4053",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4053.png",
+  "imageHash": "03d5f9cdd71e1767cade9c14aa2c3a93831a2b68faefad536b03578021841407",
+  "edition": 4053,
+  "date": 1654149196205,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

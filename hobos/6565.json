@@ -1,0 +1,32 @@
+{
+  "dna": "cbf1a37e53b7398f6403e0084ec3d302cb368fc9df6b4aac3551211e2d6e96fa",
+  "name": "hobotown #6565",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6565.png",
+  "imageHash": "d80821410d12951521704d0990f4657ae0ee5b6bbc9f160b3ff34964353197b1",
+  "edition": 6565,
+  "date": 1654150641162,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

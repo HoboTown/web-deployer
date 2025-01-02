@@ -1,0 +1,36 @@
+{
+  "dna": "de2e1ad6af9fd5bd2455d668fe0af7c92d57ec81ea75eab454c9ff932b2206ef",
+  "name": "hobotown #1970",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1970.png",
+  "imageHash": "a2bc1b06887b7943d0f6d039328dda76dbb98f25712959cd48e1e3831c407235",
+  "edition": 1970,
+  "date": 1654147613769,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

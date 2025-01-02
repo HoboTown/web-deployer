@@ -1,0 +1,32 @@
+{
+  "dna": "b41ea75034bec5bf308277ad0f18326cc3775f28ebffa01103fc111d3d6a24ee",
+  "name": "hobotown #1707",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1707.png",
+  "imageHash": "4b28f31697483d013c7e6ca9970eed13c458735b191be47c5dda1e85d7e7ed4a",
+  "edition": 1707,
+  "date": 1654147348109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

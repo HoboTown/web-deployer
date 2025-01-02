@@ -1,0 +1,32 @@
+{
+  "dna": "ea5094eba6ac9769dea2e8b7fb53d9737fdd30ad2d2b6a6751ceb5ed6fc3000a",
+  "name": "hobotown #1359",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1359.png",
+  "imageHash": "e639be419d85b3f68440bea4197464c517a8831f352c8fcdccf6f350fe42ca58",
+  "edition": 1359,
+  "date": 1654147036141,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

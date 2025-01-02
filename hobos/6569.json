@@ -1,0 +1,32 @@
+{
+  "dna": "17136e448f0eb25457714eff6d599d4f50c7d42719a88f392bddfeb9ae08feeb",
+  "name": "hobotown #6569",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6569.png",
+  "imageHash": "c7944eaa610577a47aae3c5a330c62379de6ea5f9d58f14f1fe01db3f678273a",
+  "edition": 6569,
+  "date": 1654150643183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "fb57e32f3131b090aa467eaf8bf235e3e8b19b7d8a8e36fb0f9d88219abb23bd",
+  "name": "hobotown #2207",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2207.png",
+  "imageHash": "39b48294d142a618e2d1bbb78a8cfee1a2416fb737d7a5a220087d9400943910",
+  "edition": 2207,
+  "date": 1654147880741,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

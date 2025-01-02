@@ -1,0 +1,36 @@
+{
+  "dna": "de710f71feb6367bdeb9fd61212ca1395d7c0e9b25f277e951a1a7aa1cdc2f5a",
+  "name": "hobotown #998",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/998.png",
+  "imageHash": "7dee0bb0842478e0ffb66f444c828eb5dbbd68eae9779432b170435228b73c72",
+  "edition": 998,
+  "date": 1654146682936,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

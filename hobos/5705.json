@@ -1,0 +1,32 @@
+{
+  "dna": "b00896ad842ecce3b12ccd84d4ad2ebf1abffd4a01a57b041ddb182944eace68",
+  "name": "hobotown #5705",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5705.png",
+  "imageHash": "b84977eedc92c49b01e247e59e1f0c655f88fd50e398274d5b76c93468b7dfab",
+  "edition": 5705,
+  "date": 1654150162951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

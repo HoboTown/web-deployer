@@ -1,0 +1,32 @@
+{
+  "dna": "1f8d27db28bd0a17df2cf3047968c26ba5faf13d5a989291ea5c35ed0330f216",
+  "name": "hobotown #2399",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2399.png",
+  "imageHash": "de3f6ef077b09d6c39c4b756500754c20a1c716f8e5bca026387ef3fa111ac3b",
+  "edition": 2399,
+  "date": 1654148096052,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

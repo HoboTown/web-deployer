@@ -1,0 +1,32 @@
+{
+  "dna": "27b56219fbed0be06f65ba69dc7837b4f68453db961ab2449a8d2b4ff3238adb",
+  "name": "hobotown #2123",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2123.png",
+  "imageHash": "629c5c71c7bf853e1c6f777f17f0583565bc3f01f9924c13ce5228258604dd13",
+  "edition": 2123,
+  "date": 1654147767465,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

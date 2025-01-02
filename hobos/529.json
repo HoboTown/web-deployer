@@ -1,0 +1,36 @@
+{
+  "dna": "d1bb9b300eefb45c21adc19ac23fee7fdcaef6c945445df05f764c96fd6ab3f7",
+  "name": "hobotown #529",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/529.png",
+  "imageHash": "a2b8b4afa81282c18a819414b50741182133eb8dd2415fa5b66f932448828b8d",
+  "edition": 529,
+  "date": 1654146314324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

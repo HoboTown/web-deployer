@@ -1,0 +1,32 @@
+{
+  "dna": "ad92c1782682f11b82cb5e88b1e799c2fdf57be701a26466af4ef0fd873af017",
+  "name": "hobotown #3227",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3227.png",
+  "imageHash": "de299f38342ca73c541ba923451e4918ebf4a0d0e0100d7542e96d97dbe070f6",
+  "edition": 3227,
+  "date": 1654148698158,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

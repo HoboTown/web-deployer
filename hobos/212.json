@@ -1,0 +1,32 @@
+{
+  "dna": "1bed7852e46a29623e50ade1292a96abeed1b33069493499c6233a76983000a9",
+  "name": "hobotown #212",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/212.png",
+  "imageHash": "dd81e7a0f19acd689a25555bc668d8fc9e746fd190d3ef67ff75387e56824219",
+  "edition": 212,
+  "date": 1654145979191,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

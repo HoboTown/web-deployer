@@ -1,0 +1,32 @@
+{
+  "dna": "bc2fb2bbcd15096dda789f07993b0453aac27d9a552d28de8764ae6e4e337820",
+  "name": "hobotown #244",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/244.png",
+  "imageHash": "1f49c6d78a362c2ee3e185c999e0150ffa789b9bda1124f18c5720e273dafc65",
+  "edition": 244,
+  "date": 1654146014547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

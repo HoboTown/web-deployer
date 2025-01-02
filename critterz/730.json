@@ -1,0 +1,11 @@
+{
+  "name": "critter trap #730",
+  "description": "uhh... this trap seems mighty speshul..",
+  "image": "ipfs://QmUnwhS1QZuRrRUbc71fChMf4mzLN9VefEERBLq1FMApCu",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Golden Trap"
+    }
+  ]
+}

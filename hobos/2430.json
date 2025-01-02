@@ -1,0 +1,32 @@
+{
+  "dna": "2a2ebc15ce86ee9eeef8e08c5b4879377611158b08e0c16db225b30003a7202d",
+  "name": "hobotown #2430",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2430.png",
+  "imageHash": "be6deb9092d60b76dc5ea0e2126dcd48f4644959089f5dfaeaf66c05a49bb09b",
+  "edition": 2430,
+  "date": 1654148124013,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

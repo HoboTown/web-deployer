@@ -1,0 +1,32 @@
+{
+  "dna": "243361d4c60716ee601f9ceffb63110ddc904441962d42059802e1717eae1d7a",
+  "name": "hobotown #1582",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1582.png",
+  "imageHash": "c41bc92aae6d082aee8d2d5359b66de180553fa3864015a0e2a33ad401c793a1",
+  "edition": 1582,
+  "date": 1654147225134,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

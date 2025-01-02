@@ -1,0 +1,32 @@
+{
+  "dna": "c13758d8d10ae52a41df2f4f452523d38c5cf2a7d399d4063840956ddbde1917",
+  "name": "hobotown #5150",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5150.png",
+  "imageHash": "57e3708804cc9bd7f468f7125352c955268674e312ebe9d8c3bb08c963c26ec2",
+  "edition": 5150,
+  "date": 1654149878704,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

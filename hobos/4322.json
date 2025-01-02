@@ -1,0 +1,32 @@
+{
+  "dna": "d5c2a0dd8bd531e494b95d2903434608857ccc5e0f526b29935ccbb60106405c",
+  "name": "hobotown #4322",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4322.png",
+  "imageHash": "e0cfc7b1ece36d282399963abc957cbbdfc8585bd1105403100f9b5e144698d2",
+  "edition": 4322,
+  "date": 1654149354395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

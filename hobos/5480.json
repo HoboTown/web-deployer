@@ -1,0 +1,32 @@
+{
+  "dna": "c17b370aabfa7762e8326149e6e2282331de0e6048273a48c0bb71af9ad0f204",
+  "name": "hobotown #5480",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5480.png",
+  "imageHash": "9f97754275851b959fcc3cb8548d013492d3e9f4e6ad2bce59daaaa0e8ed0120",
+  "edition": 5480,
+  "date": 1654150053313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

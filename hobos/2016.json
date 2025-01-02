@@ -1,0 +1,32 @@
+{
+  "dna": "560484a97837990de1113a30e427e0084b41fe1567151a4875e10cbb2fed3430",
+  "name": "hobotown #2016",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2016.png",
+  "imageHash": "f369901bebc231f1ff4ea45ba9a0ac43690171f7dd1542fae0e716f3ead1c755",
+  "edition": 2016,
+  "date": 1654147658389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

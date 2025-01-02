@@ -1,0 +1,32 @@
+{
+  "dna": "a741484cdc2f2771af489500cb8dc086aba536bf461ab4d562d726af82ad1b8b",
+  "name": "hobotown #6760",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6760.png",
+  "imageHash": "0306f40759afe851f3803d0748d23bc6dff511107238f4ac0ef6cece04841d62",
+  "edition": 6760,
+  "date": 1654150747349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

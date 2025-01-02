@@ -1,0 +1,32 @@
+{
+  "dna": "aa830674aa618ff51ba29b7e7ef70b17a32ac24c9c4bd63a2b7d1aec81d63248",
+  "name": "hobotown #1478",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1478.png",
+  "imageHash": "74a9f9783f1be94dbf30c8eff32edbc7ea31d7732ce2b12644ff8a0476edefab",
+  "edition": 1478,
+  "date": 1654147136171,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

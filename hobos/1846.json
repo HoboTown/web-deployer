@@ -1,0 +1,32 @@
+{
+  "dna": "7f992ae20b98df4f8e59122181c6bc7c352b37b71e9def4e9fba76cb01a190d8",
+  "name": "hobotown #1846",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1846.png",
+  "imageHash": "4494580cc0428c2a7c794f06a86f8b324370fc17403d39106f1c25239868915a",
+  "edition": 1846,
+  "date": 1654147485872,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

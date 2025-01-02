@@ -1,0 +1,32 @@
+{
+  "dna": "e39497147b5b0712d7910633e218dcea2cebaeedcf26f7b81e3cdf548ad7fb64",
+  "name": "hobotown #4404",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4404.png",
+  "imageHash": "60112d6b63f3312db931daf0870d6ee335e4e2b41e1d45bc6c28e18a5b8302a8",
+  "edition": 4404,
+  "date": 1654149417511,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

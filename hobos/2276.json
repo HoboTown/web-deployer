@@ -1,0 +1,32 @@
+{
+  "dna": "a0ab858581be971fb0e88d2871fce434d74d3e7a5ab376c5932b55e5264f5683",
+  "name": "hobotown #2276",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2276.png",
+  "imageHash": "3366361ca10505282ef2c7416f1bb1f597056798a95b6a6ad945b302f9dc3adc",
+  "edition": 2276,
+  "date": 1654147960975,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

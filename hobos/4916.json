@@ -1,0 +1,36 @@
+{
+  "dna": "91ef4d1697761a074e1c63a6ee4f18edb215a7e0056ea0be3bcc793f3c3912ee",
+  "name": "hobotown #4916",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4916.png",
+  "imageHash": "c74bdad5e4e9b689cd2417f5c0923fef590e18f4298f3df51e829c471f876f16",
+  "edition": 4916,
+  "date": 1654149731440,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "dbd06faa799efeeb3509ad7e12936a30c31e0968bb722181c895758bb31b2996",
+  "name": "hobotown #6141",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6141.png",
+  "imageHash": "2db9935225446edc807d8c473b9f7f5b8062c833a27f3ffceaf7489a712e8bbe",
+  "edition": 6141,
+  "date": 1654150393892,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

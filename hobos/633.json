@@ -1,0 +1,28 @@
+{
+  "dna": "bb97e8c5e3bd82e503495fdb74f5230b72b02051153403784179b71f8d2b2816",
+  "name": "hobotown #633",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/633.png",
+  "imageHash": "fb53fb71961c4d48383219a6fb6271870c6130d958263ec8df7de89db21c6bd1",
+  "edition": 633,
+  "date": 1654146403884,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

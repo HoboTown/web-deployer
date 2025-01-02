@@ -1,0 +1,32 @@
+{
+  "dna": "547516a01a0900e42506be51dd49339accc9f899ca022786bb30e2466b702c35",
+  "name": "hobotown #2512",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2512.png",
+  "imageHash": "b24124df98c2768dada70b990e17281bebef8bcd0dcaca488834d78274ed196e",
+  "edition": 2512,
+  "date": 1654148185328,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

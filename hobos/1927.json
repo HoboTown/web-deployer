@@ -1,0 +1,36 @@
+{
+  "dna": "2a36e62800cc1cf165999508a7b9a9eee6d2a46c7753a993af3bb176b6527ae7",
+  "name": "hobotown #1927",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1927.png",
+  "imageHash": "21f48119d33052dfdcaa2dfa92c777a6429f30bc80489f1729e3c84887abda18",
+  "edition": 1927,
+  "date": 1654147565060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

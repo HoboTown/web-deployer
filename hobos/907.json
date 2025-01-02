@@ -1,0 +1,32 @@
+{
+  "dna": "989f14c50f88574f9e73c7cba4d43db853cfb18e43a6eb314c0224476b178c49",
+  "name": "hobotown #907",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/907.png",
+  "imageHash": "26a5a1538aa79400db88af95d01f606d2fbb33bd28b8925a23b6b9e512cfdc7b",
+  "edition": 907,
+  "date": 1654146617995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "54d8582452198f67df6c2356714a48c7d4188a6f8fd6e5bfe66e42696620de61",
+  "name": "hobotown #2044",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2044.png",
+  "imageHash": "50b2f9855a88fbaecc884b94b37805fecd2609d89b604e2f4e98451d363e38ed",
+  "edition": 2044,
+  "date": 1654147687207,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "47ec4f4a9e78dce50504f07b53f616813288dda9dead2c78ecfa1f9e64c7c10f",
+  "name": "hobotown #4134",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4134.png",
+  "imageHash": "0222a4af352d598f9add3da95d77649e043c4bb59d9502d46bce0dd0f2b5b7b4",
+  "edition": 4134,
+  "date": 1654149241735,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "88c589be365254ae3ca84184e63dd1468e2626cdf2346108d601f40ce78cd3f0",
+  "name": "hobotown #3418",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3418.png",
+  "imageHash": "9656c120055cdcb2d4ce9962421c37f0e003477e8f56cf71f28793f8558d32ff",
+  "edition": 3418,
+  "date": 1654148811161,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

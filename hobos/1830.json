@@ -1,0 +1,32 @@
+{
+  "dna": "57d61f108dd55042bab8d21cf6cc2abdf0d8c5c1b44bc9faa0a27df1b49a0316",
+  "name": "hobotown #1830",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1830.png",
+  "imageHash": "c036f115d0be65d2be1f8fd5ff5b596a3f9b4574389d72fcd14e3a913bafc809",
+  "edition": 1830,
+  "date": 1654147471109,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

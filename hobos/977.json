@@ -1,0 +1,36 @@
+{
+  "dna": "008aea890ba059c403bbeb00f38c32d39d2d2281ba15bf3933f1d6fbf86a98c4",
+  "name": "hobotown #977",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/977.png",
+  "imageHash": "b654703f019df27784bfa128035d4a682aa82a20b999d490599d1b7ab3602dc3",
+  "edition": 977,
+  "date": 1654146667642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

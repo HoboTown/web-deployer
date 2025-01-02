@@ -1,0 +1,28 @@
+{
+  "dna": "e27984967fd534b4e5a8d37a71ecd688a54f38b523694d091dbf9cf237c6dfc2",
+  "name": "hobotown #1069",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1069.png",
+  "imageHash": "5383f3f4d878b5376e5acf22e73a512090241adecf72088a5cf3fc64acb24587",
+  "edition": 1069,
+  "date": 1654146748821,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "1f06727769fd966838aed13f365027dda5c311db5a40c3c6531dc38a1ff11858",
+  "name": "hobotown #2124",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2124.png",
+  "imageHash": "0cdaa49e399c773536019daddf733a7c88d435c460a0f2bb92b7080ac8a9b5af",
+  "edition": 2124,
+  "date": 1654147768491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan wiith Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

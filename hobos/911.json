@@ -1,0 +1,36 @@
+{
+  "dna": "80e07eeb9708739a645a83d2c9c19a15ed264a4dd93c3b312163a567d68d7a68",
+  "name": "hobotown #911",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/911.png",
+  "imageHash": "e1138d90d3801ebe2a778b0aa8373dc1518898d9daea6bde8a7ce3c139cc91cc",
+  "edition": 911,
+  "date": 1654146620854,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

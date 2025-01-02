@@ -1,0 +1,32 @@
+{
+  "dna": "0572acfde4cd98e4e33e631357738af26c4c18516f3e73587fc0cf2dac7b91ea",
+  "name": "hobotown #1327",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1327.png",
+  "imageHash": "9fbf14517a8cb82198d1d1b1aa4028fa4771aa93acb336d6b8af8c9ae00bfe45",
+  "edition": 1327,
+  "date": 1654147007608,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

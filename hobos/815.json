@@ -1,0 +1,32 @@
+{
+  "dna": "351f02710a32a85d599af159160d5affb6167b54acb1a218e71cac55554e0c48",
+  "name": "hobotown #815",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/815.png",
+  "imageHash": "2acbf287c7db7375326712eac66a5b0c169d2bb0955b44c5271082589b554616",
+  "edition": 815,
+  "date": 1654146548135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

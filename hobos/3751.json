@@ -1,0 +1,32 @@
+{
+  "dna": "2fa80254ea9685655e70c6397c1a9ec9b7444ef44fda4a18c6e6d041a5e82a01",
+  "name": "hobotown #3751",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3751.png",
+  "imageHash": "d7d837d1e73ec976a78272432f481651e32abba7fd4d8cc5d2427ad46c44664a",
+  "edition": 3751,
+  "date": 1654149023283,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

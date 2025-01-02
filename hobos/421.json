@@ -1,0 +1,32 @@
+{
+  "dna": "ce70a4aad13b86f8d4f1910226a8c379665973654dd52d1e830808bcd263edd7",
+  "name": "hobotown #421",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/421.png",
+  "imageHash": "fc1b011435820e098689921fa2278f5dfca980c8fa7942a5378de1964967de04",
+  "edition": 421,
+  "date": 1654146218507,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

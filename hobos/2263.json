@@ -1,0 +1,32 @@
+{
+  "dna": "4e3870e10a9afab38d8f442460c3f820723f224c6605f9415955d8bc8c2617b4",
+  "name": "hobotown #2263",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2263.png",
+  "imageHash": "1617c8c00c42d3bc9cbead9120bd1a5742ee7b3943a514868066f29679b7ce6e",
+  "edition": 2263,
+  "date": 1654147946271,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "357bfba68cdcd9d63efd151519135ae61f10567945e0b8ae27166806e9a8087f",
+  "name": "hobotown #1983",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1983.png",
+  "imageHash": "368b0f08d0075b340b7fe6bb559abe3f6584b418e6b8c65775b7a3e45de232c2",
+  "edition": 1983,
+  "date": 1654147628237,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

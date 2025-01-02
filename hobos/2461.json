@@ -1,0 +1,32 @@
+{
+  "dna": "53491d6f105ae8298c440de34dc13fb361535e28599b9afbb56c74faab4b67e1",
+  "name": "hobotown #2461",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2461.png",
+  "imageHash": "fe9c2e49e401b808fb29f2db77eb37ee09798a4cf3aea282b29099f0113161b2",
+  "edition": 2461,
+  "date": 1654148148026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

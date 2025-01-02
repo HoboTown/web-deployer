@@ -1,0 +1,36 @@
+{
+  "dna": "ea40344cd0e0e1339a6a3416363b6767eb408b3f3b6d0d80188f2db5b200cfe1",
+  "name": "hobotown #479",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/479.png",
+  "imageHash": "fc44f3b58f9eca08efbabc6bfd8c9d6b2a200de719e8aacbb9189001c5329f05",
+  "edition": 479,
+  "date": 1654146271501,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

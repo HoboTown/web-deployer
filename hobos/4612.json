@@ -1,0 +1,36 @@
+{
+  "dna": "63e6a81949fe5ca4099c1356d273983477f993d91a2b8ba07dea8be3d03e88d3",
+  "name": "hobotown #4612",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4612.png",
+  "imageHash": "d892e5d3bbf4243263aab37e6b547a73ced5954fb920524f607221c9ad84597b",
+  "edition": 4612,
+  "date": 1654149541289,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

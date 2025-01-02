@@ -1,0 +1,32 @@
+{
+  "dna": "323db5107520a23740bdd5b962e3e3ef7ff55aead990ca8c2509098d23d5ed82",
+  "name": "hobotown #2195",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2195.png",
+  "imageHash": "f1a52eb933f9f035e6e2f8a9fc3cb2521ae318fe7f274bb2212b43d806eba4fd",
+  "edition": 2195,
+  "date": 1654147866377,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

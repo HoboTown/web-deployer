@@ -1,0 +1,36 @@
+{
+  "dna": "d5387759e5fa0a2262e56ae6ce7f8d4f865a4f02e70ef1559c13e7546ea8b3e6",
+  "name": "hobotown #5283",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5283.png",
+  "imageHash": "142adab0af9facd39288e166b779b4779bc30bb6252024c336c367531056d4b6",
+  "edition": 5283,
+  "date": 1654149961107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

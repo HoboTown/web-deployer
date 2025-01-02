@@ -1,0 +1,32 @@
+{
+  "dna": "b66362b9213c9b4ea7e67057c5600f7927ca97e01a82978fef06f6d00b29dd80",
+  "name": "hobotown #396",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/396.png",
+  "imageHash": "6ea37276ab93943023ea72de22b8fe6cd3baa6709fc07cd3f4396261aab62635",
+  "edition": 396,
+  "date": 1654146195188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

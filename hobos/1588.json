@@ -1,0 +1,32 @@
+{
+  "dna": "e9884465693ec830b7f3570107e8d39fde18dc1b5d758ae2f36e1a83fc6f22e1",
+  "name": "hobotown #1588",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1588.png",
+  "imageHash": "4a82d628a0d42923cb7ddccf7d6ff107d8c3c9cd06ae8ea001c078b06dd5cfcb",
+  "edition": 1588,
+  "date": 1654147230472,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

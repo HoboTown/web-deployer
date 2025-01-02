@@ -1,0 +1,32 @@
+{
+  "dna": "f75074ae8ab63c07c2d67bb70913c984860968894cd60abe130852f622bb76d4",
+  "name": "hobotown #4380",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4380.png",
+  "imageHash": "8cda479c46992d1eaf03f331ddeeaae11a3236265a75eb51257433c1271a7a8f",
+  "edition": 4380,
+  "date": 1654149397711,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "f8e3eac43980f2795d5f0d2b54912ac857c75ec3b202959e07702c61ee891651",
+  "name": "hobotown #3129",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3129.png",
+  "imageHash": "f071a49140a3e52b75256a93512bb10b8d87b05b9ac1523fa76c7c27eb1e4dde",
+  "edition": 3129,
+  "date": 1654148628738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

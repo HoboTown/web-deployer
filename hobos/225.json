@@ -1,0 +1,36 @@
+{
+  "dna": "ffa83b46b3ce5c3eaffd664cb81ece22f3a52f84db20f2bafa09132331c79e4a",
+  "name": "hobotown #225",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/225.png",
+  "imageHash": "097b5ad3a8d8ed8c6df72ae197a5cfe5faea1d374c7b800278b1196876657656",
+  "edition": 225,
+  "date": 1654145993495,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

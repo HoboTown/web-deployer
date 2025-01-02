@@ -1,0 +1,32 @@
+{
+  "dna": "6fe6289bbfe6b585d7577f1f0c8f9f3e42f22a8dbadd3f9893a416d9cedd61a8",
+  "name": "hobotown #6817",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6817.png",
+  "imageHash": "1f9777372a5308d43d50079240882a5811caba7348fbbd0251eb1a585602caee",
+  "edition": 6817,
+  "date": 1654150776982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

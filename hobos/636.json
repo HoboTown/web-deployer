@@ -1,0 +1,32 @@
+{
+  "dna": "e58036ff4dfd760f71afa92ec0c223d2ac07c556c5a58c4722cd9f32e0558560",
+  "name": "hobotown #636",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/636.png",
+  "imageHash": "1a6e645bfd84b658250f5ff6f8a5df6ed3116264855a83d27f86329d18b93895",
+  "edition": 636,
+  "date": 1654146407226,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

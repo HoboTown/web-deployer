@@ -1,0 +1,32 @@
+{
+  "dna": "e177cf31ddc61302750926c64773064155476c76743c3f4f830d338316d3f204",
+  "name": "hobotown #833",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/833.png",
+  "imageHash": "2b6fdb7ffc982baeba9fde1aedf867269abb1fe02ea07fccc30abd52ffdc2862",
+  "edition": 833,
+  "date": 1654146560784,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

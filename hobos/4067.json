@@ -1,0 +1,32 @@
+{
+  "dna": "0a875164500e281a12abe40f016b3884933c2b99a50db839f8ca20e6112294b4",
+  "name": "hobotown #4067",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4067.png",
+  "imageHash": "bfc9d1806a4711419653b8b0e03608657cdcd9fc4270bc8aa0c14a4936ee8fac",
+  "edition": 4067,
+  "date": 1654149203904,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

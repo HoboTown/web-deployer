@@ -1,0 +1,32 @@
+{
+  "dna": "6065a27684e328bd7bee195ae46354449f8b5dd2add754a113d3ffc43925da41",
+  "name": "hobotown #3042",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3042.png",
+  "imageHash": "c5b55c56ee9b7313a2c19037d503b73bfa7033a6aa9f92b2582e27f15b9226da",
+  "edition": 3042,
+  "date": 1654148563331,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

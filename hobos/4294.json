@@ -1,0 +1,32 @@
+{
+  "dna": "ebfaca13f027889e3f7d52b64269c4dc9ed713fb1ba4399dc9f78cbb7043706f",
+  "name": "hobotown #4294",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4294.png",
+  "imageHash": "06fb1e1a3115ed30de2ac0512a58047d318579844bf098f3ca1e6b8bba218176",
+  "edition": 4294,
+  "date": 1654149338186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

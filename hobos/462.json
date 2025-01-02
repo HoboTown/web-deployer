@@ -1,0 +1,36 @@
+{
+  "dna": "25fb06e2766b5dcda821ea0e8173b336b1f6599d9377ba1d5a51da1f0c5080b3",
+  "name": "hobotown #462",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/462.png",
+  "imageHash": "41089dfcd79ee36fb8eccd4b5ddd8a4cd0adc8f4bf0bd189054061cbaa512956",
+  "edition": 462,
+  "date": 1654146253653,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "b3c6c9c9020be749a6760def2d4bfe75c6a7e04b64b7fabae85fd9b255638f16",
+  "name": "hobotown #1891",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1891.png",
+  "imageHash": "9e03b8551a9a04770144000b51799c7e3fa2e4f81e5bfcd1b16defad096ce1eb",
+  "edition": 1891,
+  "date": 1654147529468,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

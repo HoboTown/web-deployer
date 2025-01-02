@@ -1,0 +1,32 @@
+{
+  "dna": "3623a48c8aa7a1bf1ba2c7ae768c3eb2c738a23c718fb64a41ac2dd8fe537f20",
+  "name": "hobotown #4748",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4748.png",
+  "imageHash": "badfa0cae8c01b0ac589a6d5457d299bd5dffe617abe0ffbed7430cc027e8178",
+  "edition": 4748,
+  "date": 1654149620839,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

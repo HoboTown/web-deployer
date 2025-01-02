@@ -1,0 +1,32 @@
+{
+  "dna": "cf6facc4ebdbd09d5eea1d6ba10d41ea2f896b1cb24e18959ef4d3de19057419",
+  "name": "hobotown #3890",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3890.png",
+  "imageHash": "d5cec605a5f076c06b7e91673dd32300cf90c625571d7da0a01925c0022b3170",
+  "edition": 3890,
+  "date": 1654149102381,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "3b62a940074b756536f8c49e2e284faadcad9006cac518f25649c82cc6b62dd8",
+  "name": "hobotown #1993",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1993.png",
+  "imageHash": "ffc2f04594154a8bd6728948b1e8cdabbc639c795de197e9b5f75ec4a70e1cac",
+  "edition": 1993,
+  "date": 1654147637726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

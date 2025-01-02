@@ -1,0 +1,32 @@
+{
+  "dna": "112596032990118e207a6e7decfc5a9eab8eb4c27549bf2f3913b625bbb6e274",
+  "name": "hobotown #3221",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3221.png",
+  "imageHash": "fc748d277019cf171b3e1ddda8591f14687b3e1441616a2f43df28a12fdae1a1",
+  "edition": 3221,
+  "date": 1654148694726,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

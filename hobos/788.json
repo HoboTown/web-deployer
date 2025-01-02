@@ -1,0 +1,36 @@
+{
+  "dna": "c6d62d65674cf8e79ebebbd060af501e5869d197ec271e70bfdda2a5c6331262",
+  "name": "hobotown #788",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/788.png",
+  "imageHash": "7284969d882ad2b729bd436b705e0fff515df942bb76f0cd6fa9d3fc10138726",
+  "edition": 788,
+  "date": 1654146531932,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

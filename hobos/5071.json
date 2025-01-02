@@ -1,0 +1,32 @@
+{
+  "dna": "c234d0ecc9b90d0f49d105fb0d31db2693287cf9fb4ffcc55240cf1de2e1e6b6",
+  "name": "hobotown #5071",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5071.png",
+  "imageHash": "a5b00faa4744f72b3cdd4f628ccb8f5594721578114efd729898cc53b0fece2d",
+  "edition": 5071,
+  "date": 1654149833357,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

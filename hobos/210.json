@@ -1,0 +1,36 @@
+{
+  "dna": "22ab0cc094d915880733798a149df351d0c28774cf49084a20885cfca79f3426",
+  "name": "hobotown #210",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/210.png",
+  "imageHash": "d6de1cb6abc7ee44b89f434fc55b3134616e62b3ad311a7c7e2029d2c78ab8b5",
+  "edition": 210,
+  "date": 1654145977439,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

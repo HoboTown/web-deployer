@@ -1,0 +1,32 @@
+{
+  "dna": "a0ac4083f30534af243caa7a5275461e870fdf90a9e271ee5b0622f0acf5d3fe",
+  "name": "hobotown #606",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/606.png",
+  "imageHash": "44af9ea06bd1f59cc741024efa35c64740b83dbad4fb2d2f9fc6d683e03c7127",
+  "edition": 606,
+  "date": 1654146376527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

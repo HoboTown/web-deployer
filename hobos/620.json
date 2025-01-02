@@ -1,0 +1,32 @@
+{
+  "dna": "4d0b842846fcb8d7d0cf1861018c6232c204b9a67282bf2a42a9c4f04be75eee",
+  "name": "hobotown #620",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/620.png",
+  "imageHash": "6aaec283f7b1ab13856bc0868b9a98fb146a4948bf9211d9aca10bc63495102d",
+  "edition": 620,
+  "date": 1654146390004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yelling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

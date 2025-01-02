@@ -1,0 +1,32 @@
+{
+  "dna": "365734885e314175ddbd0fd6c1ba2d35a1a028e7c58642fe68b04c2561c33c97",
+  "name": "hobotown #118",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/118.png",
+  "imageHash": "f8d06e9c5dc54a4454bd1f99f1eef47f247839b428e59630ee7705e7edb2b6ea",
+  "edition": 118,
+  "date": 1654145887017,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

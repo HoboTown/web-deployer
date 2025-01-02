@@ -1,0 +1,32 @@
+{
+  "dna": "e7d6a2ac626af24b410f8095ebfc441d529ba09e28baf3bfc8bc0a9ba51219a1",
+  "name": "hobotown #5551",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5551.png",
+  "imageHash": "f26ce7b21a527201024c7a87be39863903de73bd2f3ce139d415f823216f55bf",
+  "edition": 5551,
+  "date": 1654150088698,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

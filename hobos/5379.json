@@ -1,0 +1,16 @@
+{
+  "dna": "efefc005307ac4d9469ac42f566f471d7589c47de2808ebd6d7c9b06bba1a177",
+  "name": "hobotown #5379",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5379.png",
+  "imageHash": "4310e52902c9944d34298913e4b701e21cec94e6ae89cb9c969fa485be3d096a",
+  "edition": 5379,
+  "date": 1654145782452,
+  "attributes": [
+    {
+      "trait_type": "Super Speshul",
+      "value": "Hobo Devil"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

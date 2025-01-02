@@ -1,0 +1,36 @@
+{
+  "dna": "9be932c366b7383fe8d8cb4c4da0eca1378818a07374613923be1befa24312b0",
+  "name": "hobotown #694",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/694.png",
+  "imageHash": "68e7a36633a4cb4f4f086941ad8061b6eb6154c96d96928cd8ed22adb50545d2",
+  "edition": 694,
+  "date": 1654146465516,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

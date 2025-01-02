@@ -1,0 +1,32 @@
+{
+  "dna": "e2b223365cbe1356691398dc76d87c3526d2b555508539930d9e3f27484e7d1b",
+  "name": "hobotown #1689",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1689.png",
+  "imageHash": "50daca22d66fabb42d99099f78184dbbf8892f96c5880c14e34790b25483c6e5",
+  "edition": 1689,
+  "date": 1654147331694,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

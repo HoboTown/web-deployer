@@ -1,0 +1,32 @@
+{
+  "dna": "8f76c95841f8316df9215d434738341eb13cc463fd24bfaab310e55da032f3de",
+  "name": "hobotown #5366",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5366.png",
+  "imageHash": "5558382d375bfd6cfbf941080982e7d16bc0b687a3fc52cc28493c560bbd4cae",
+  "edition": 5366,
+  "date": 1654149999112,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

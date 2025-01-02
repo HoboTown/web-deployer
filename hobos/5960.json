@@ -1,0 +1,32 @@
+{
+  "dna": "79fb5c6fe68a17a15e431e32531966d706d54f84f937c1d390b96e5276b42c78",
+  "name": "hobotown #5960",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5960.png",
+  "imageHash": "9fdb9778f089dba5ac550572421700ea49f1865985b7206cbacb1883c7050ce4",
+  "edition": 5960,
+  "date": 1654150282851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

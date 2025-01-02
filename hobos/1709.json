@@ -1,0 +1,32 @@
+{
+  "dna": "d311cc227443425732ba6130a9180f1333c60ea808adf5b71d5a5fa1dc38273c",
+  "name": "hobotown #1709",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1709.png",
+  "imageHash": "70cf24ab7dc6353e93a043fe9e09e9139658a758a7da11d29c262e160bc8a1ff",
+  "edition": 1709,
+  "date": 1654147349849,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

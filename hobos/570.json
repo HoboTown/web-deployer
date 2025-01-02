@@ -1,0 +1,32 @@
+{
+  "dna": "29591f1fbaa69c12f2fd97b7c9afa243de16e812f3e9ebed0b5469eec12ff94c",
+  "name": "hobotown #570",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/570.png",
+  "imageHash": "6a52e4765f41cce2b0f3be2840c33efd199fe8bc313652366b69eac670b4f3f9",
+  "edition": 570,
+  "date": 1654146344836,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

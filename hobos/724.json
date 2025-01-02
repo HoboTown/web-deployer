@@ -1,0 +1,36 @@
+{
+  "dna": "f8906a4b68c566577bf9bb49bd76a0b6ff942380e07f035fe657b45371ea3f9f",
+  "name": "hobotown #724",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/724.png",
+  "imageHash": "874ed391c1617cf78a2e20323a3ac38be6dc3d34f44a9ae773a3f0e036ecce58",
+  "edition": 724,
+  "date": 1654146490666,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

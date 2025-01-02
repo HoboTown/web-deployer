@@ -1,0 +1,32 @@
+{
+  "dna": "dffe4f642c0c1a391cfeb30bc1522cc33fe8d3e7b84ab45027ffba9105aad6a2",
+  "name": "hobotown #420",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/420.png",
+  "imageHash": "f723d5797ec380dea0c6b458bf1ab8ca906f0b188bd53514e05afe28bc66f1fb",
+  "edition": 420,
+  "date": 1654146217714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

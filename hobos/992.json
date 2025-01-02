@@ -1,0 +1,32 @@
+{
+  "dna": "b6719766df989cfe20be4c3085d3b29b9884e9f5d5bf8321202c4f0f7f16ea59",
+  "name": "hobotown #992",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/992.png",
+  "imageHash": "7b3535a5c630c58bd0520c7a5e8f8c12e804dcd920d2331ed31f128be2bb0587",
+  "edition": 992,
+  "date": 1654146678729,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Yelling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

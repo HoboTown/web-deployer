@@ -1,0 +1,32 @@
+{
+  "dna": "2e801c2effb86b539a4c273493c99d411c8fdf2a6df75694805773075a7da25d",
+  "name": "hobotown #1955",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1955.png",
+  "imageHash": "1283a5ff82ec72046824093808879e4c9d27fcb679c168f0feb43df46d00ee5f",
+  "edition": 1955,
+  "date": 1654147597005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

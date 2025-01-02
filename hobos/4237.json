@@ -1,0 +1,32 @@
+{
+  "dna": "75e654dfe16649321a4f338da4705f4da566b96e15420fbc268a9d01c900f4e1",
+  "name": "hobotown #4237",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4237.png",
+  "imageHash": "07863d4de07f510a79bc71ea563e6564213b3297e611b82cfe69d449bafc89e4",
+  "edition": 4237,
+  "date": 1654149305642,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

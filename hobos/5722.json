@@ -1,0 +1,36 @@
+{
+  "dna": "efbe02b47023ea2f63ee10813a56f68e4d8058fe2cb8eb6a0981acc66512ccf6",
+  "name": "hobotown #5722",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5722.png",
+  "imageHash": "1cbc7292f9e2b3be73808c55e02262779a6621a5061ddb7f46e46874c9c7de46",
+  "edition": 5722,
+  "date": 1654150171324,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

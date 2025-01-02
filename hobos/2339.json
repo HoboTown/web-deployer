@@ -1,0 +1,32 @@
+{
+  "dna": "289a2cb03cb38390daf2be567a1acd344834e5f83c251cefe085529dd090156e",
+  "name": "hobotown #2339",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2339.png",
+  "imageHash": "17ac945502f2b93b334812083be5a1d08b120d1937af1dfa7ed2e8c3e27add26",
+  "edition": 2339,
+  "date": 1654148025105,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

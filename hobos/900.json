@@ -1,0 +1,36 @@
+{
+  "dna": "42b39063c7c76cb1b6ec2d4c3983c393bcd92d60aa09a0e38b2628e7fd4bf77f",
+  "name": "hobotown #900",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/900.png",
+  "imageHash": "ca653f5dfa33483641fef99b0bced9fa08bc54fd3da1d0d738ff29b149b64bb2",
+  "edition": 900,
+  "date": 1654146612963,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

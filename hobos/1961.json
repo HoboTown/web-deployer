@@ -1,0 +1,32 @@
+{
+  "dna": "24fb31bb38813477033e47ba2f8d9f0107a300c9a0693f119c6af8e805e3a2cb",
+  "name": "hobotown #1961",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1961.png",
+  "imageHash": "dc54e2914febf63d0ecd7c799c677a09f5b42b3d18d29c8dfa5de478f5c88db8",
+  "edition": 1961,
+  "date": 1654147602937,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

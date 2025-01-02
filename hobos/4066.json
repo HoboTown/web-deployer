@@ -1,0 +1,32 @@
+{
+  "dna": "1532841af431525c838712ef56982b1b998fbef11917a9c65d8149d6173bf642",
+  "name": "hobotown #4066",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4066.png",
+  "imageHash": "b2213d2e306b1c61d9257d8dec3e58cf02fac7737cf70a31dbed4a3ccfdf4ae6",
+  "edition": 4066,
+  "date": 1654149203395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "a892355feb9924c20dd05e3a130ebb8423fa6ff0ff8b068e0fcb01c27c7bbcc0",
+  "name": "hobotown #5002",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5002.png",
+  "imageHash": "df562588d216dee1d89414d1d878988a581108c47c5570b120335a51042eeaa9",
+  "edition": 5002,
+  "date": 1654149790110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

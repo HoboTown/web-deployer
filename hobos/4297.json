@@ -1,0 +1,32 @@
+{
+  "dna": "8cf01f768b5a1b2acc813d9dd58cfbf607e9faa9439a0c2960988a43466730a0",
+  "name": "hobotown #4297",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4297.png",
+  "imageHash": "1d396cba1bfc5394bff7c3214f32ab12f326d09d93f995998c2e7089fc36a9d4",
+  "edition": 4297,
+  "date": 1654149339857,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

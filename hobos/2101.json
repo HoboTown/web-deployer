@@ -1,0 +1,32 @@
+{
+  "dna": "45a9326816aabff617aeb7ca1855e7d2b0d14bac3164d00dcf44eafdc55fc42f",
+  "name": "hobotown #2101",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2101.png",
+  "imageHash": "38afe3e53e686698444ccbc573cb709e445aa950f18c1147759ffeedb9e0c3ea",
+  "edition": 2101,
+  "date": 1654147744495,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

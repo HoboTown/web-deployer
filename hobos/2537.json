@@ -1,0 +1,32 @@
+{
+  "dna": "12d26c203176346aa120d8097838d295db2dd73aeaca63bf76e72d56b81d7b3d",
+  "name": "hobotown #2537",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2537.png",
+  "imageHash": "959f1ff352a12afa492d2cc4787a088d10da8761c9aa0c04f739456db8ef76fb",
+  "edition": 2537,
+  "date": 1654148203261,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "a4f00350890fc3cf321b67d5660bde8879308ed96d64fc99bb5c557fa6886af8",
+  "name": "hobotown #2489",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2489.png",
+  "imageHash": "1ca3dda15a805fb372c91bce5826f3245c907adcc14b153562b6f016c33016d4",
+  "edition": 2489,
+  "date": 1654148168282,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

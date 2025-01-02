@@ -1,0 +1,36 @@
+{
+  "dna": "afec4d3fbd3777e43a4462a8ec94cec37709c411610474d1855bee0135aea415",
+  "name": "hobotown #5735",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5735.png",
+  "imageHash": "01bf9002da6db22d80cc9fa0ab0e4c3d58f02886961e4bd009b17ae41a6383ef",
+  "edition": 5735,
+  "date": 1654150179007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

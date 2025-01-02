@@ -1,0 +1,36 @@
+{
+  "dna": "344e03d477acd706338fc345111cfbaf1f37430e98e9d6517ae35d16eaeb9c88",
+  "name": "hobotown #5899",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5899.png",
+  "imageHash": "8854d23d1b7b307db9f68621ec8016a9100f5a0f32a1ba88683b55942109e95a",
+  "edition": 5899,
+  "date": 1654150255489,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

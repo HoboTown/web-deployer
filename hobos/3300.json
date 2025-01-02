@@ -1,0 +1,32 @@
+{
+  "dna": "3690055cb955300c1cdc56c405811877f2fd521b3d54de1e34d645b44a2ecdc3",
+  "name": "hobotown #3300",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3300.png",
+  "imageHash": "3820a19f465d8631412f4497d1e9b523dd3280c5d5dc3878d2941dd375e0d522",
+  "edition": 3300,
+  "date": 1654148744622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

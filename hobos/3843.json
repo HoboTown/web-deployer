@@ -1,0 +1,32 @@
+{
+  "dna": "d10a1113eca0dc3f120eaae36c011e32bf9845b88b59347dccb3ad52b5d010dd",
+  "name": "hobotown #3843",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3843.png",
+  "imageHash": "6bfbe794349918d495eae000e513b3487a58f89bff93e38b8e23a01039d415ca",
+  "edition": 3843,
+  "date": 1654149075685,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

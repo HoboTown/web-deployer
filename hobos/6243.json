@@ -1,0 +1,32 @@
+{
+  "dna": "9ed4edfbce1aaa93f02449560e75db628dcde6f5dcf934bf478635970c75f858",
+  "name": "hobotown #6243",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6243.png",
+  "imageHash": "78feaa505065546c35438b99d3605497d8e2bd2edc2212afd5ed8c7d91e27d27",
+  "edition": 6243,
+  "date": 1654150448428,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

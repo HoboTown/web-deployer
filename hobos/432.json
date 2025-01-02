@@ -1,0 +1,36 @@
+{
+  "dna": "0411629edf7aa70aad59e10096c9521bf66da726ef5ea87f29d7504db3c36cc6",
+  "name": "hobotown #432",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/432.png",
+  "imageHash": "0d6bf2adb0f0af21e6def14c7d3e7e0c8b51b6582ac7d62373cf8add0a95c221",
+  "edition": 432,
+  "date": 1654146227830,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

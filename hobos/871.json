@@ -1,0 +1,32 @@
+{
+  "dna": "5cfaa5b89ee80711a10ebe77f9ced034153ecd66d5bef9a9947f85bc140a5321",
+  "name": "hobotown #871",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/871.png",
+  "imageHash": "e8f922283fdd5509bc1d0ec49e51a40c2b8dc16ed2768fa839f446cb2388490b",
+  "edition": 871,
+  "date": 1654146590786,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "54da4e4699590dd4cc298ccd7b06d6876f2ada399439449c57c32239e316cdb8",
+  "name": "hobotown #2421",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2421.png",
+  "imageHash": "5679f9397ecd6c7997514af66d1f98e6137c1331016d215def970f224a17d58e",
+  "edition": 2421,
+  "date": 1654148116627,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

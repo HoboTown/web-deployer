@@ -1,0 +1,36 @@
+{
+  "dna": "5e4e49f40311a9f80363ef2d1b8dac525ef0b79d340be2aa0cd7dc8a660a9c4a",
+  "name": "hobotown #5196",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5196.png",
+  "imageHash": "e0a0ddf94bdf95455aa075ebaf1522926bcb3deb2262150ba43ac5501c6c4f94",
+  "edition": 5196,
+  "date": 1654149905414,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

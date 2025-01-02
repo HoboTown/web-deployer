@@ -1,0 +1,32 @@
+{
+  "dna": "e35319d92209afb2bba505a8dee90aa486f1b2160781c52d1dfc08c1414fc694",
+  "name": "hobotown #923",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/923.png",
+  "imageHash": "c597a7f63011db840cf75d3fa771a75f2268d8180d9f538505c1b4ac138d0eeb",
+  "edition": 923,
+  "date": 1654146629265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

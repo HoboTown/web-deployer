@@ -1,0 +1,32 @@
+{
+  "dna": "6bd155185cba6869a1d8240aafd8e36d53e7b7bb8c4ffc602adfb7545a43e408",
+  "name": "hobotown #6600",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6600.png",
+  "imageHash": "33b47d5a774f3808c7ad03a804daf16298c89ab80d239154eafa5957c6cdf5c0",
+  "edition": 6600,
+  "date": 1654150659251,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

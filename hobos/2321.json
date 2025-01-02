@@ -1,0 +1,32 @@
+{
+  "dna": "c15424da6fec5e9692de6a8594ad8208e32a62bfa28a9253217af304efb58a3b",
+  "name": "hobotown #2321",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2321.png",
+  "imageHash": "13aa5e63608f612201145d9ca37fe713536f6ab4af4d9924c754901f4a706d82",
+  "edition": 2321,
+  "date": 1654148006349,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

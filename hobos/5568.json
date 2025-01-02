@@ -1,0 +1,32 @@
+{
+  "dna": "39e4ff1884336a5ccc0e9b901439aa0898e826e98c7462069f8ccf97e6cd853a",
+  "name": "hobotown #5568",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5568.png",
+  "imageHash": "44b30924b40bf3046113989814af9b04ce4734ea777a16ddbd4f03b4de03b35d",
+  "edition": 5568,
+  "date": 1654150096876,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

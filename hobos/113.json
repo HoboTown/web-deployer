@@ -1,0 +1,32 @@
+{
+  "dna": "ffa4325409935ec982da53a8bac94160764ef7fd787e2d52963de6b314018250",
+  "name": "hobotown #113",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/113.png",
+  "imageHash": "6b467583f359b25a5b0c3e18ae43052355233dcc58b0ddb0a262a2dd75e963e1",
+  "edition": 113,
+  "date": 1654145882241,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

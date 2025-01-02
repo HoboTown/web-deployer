@@ -1,0 +1,32 @@
+{
+  "dna": "dcb1f82729ad31c6766b884301a08c2806ed7d2b951fa32d7e2b272da6f5b565",
+  "name": "hobotown #2405",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2405.png",
+  "imageHash": "058f94ded624d89d64a9a02ea218d39b79546c955e990c4ad67e304379af3237",
+  "edition": 2405,
+  "date": 1654148101426,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with White Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "9725625b6ef191d654135ff9b32b6152a7171ab6139af0065e17a64b4ac43ecc",
+  "name": "hobotown #1827",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1827.png",
+  "imageHash": "ccebb5e1dd1489a46ca8aeca0510c31887928c1b06a8c888467cc99d69e21eb3",
+  "edition": 1827,
+  "date": 1654147468375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

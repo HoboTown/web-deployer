@@ -1,0 +1,32 @@
+{
+  "dna": "03274395345bddb47baf23d76127735afa522642f893544df56854d829bd1a81",
+  "name": "hobotown #2596",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2596.png",
+  "imageHash": "f0c17b6e3917f4d299a88c98d6cfc22b0d169b4fbce46abfe0d8ca81c0ea1990",
+  "edition": 2596,
+  "date": 1654148245999,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "4d32b22465bd7008b7af12108a7fc16266bdd71704ec13efa53596424eb9dcd2",
+  "name": "hobotown #974",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/974.png",
+  "imageHash": "8951b44a066402bdb807419f6d8d519dd9b4168314133a24b8af08b3a9247b6c",
+  "edition": 974,
+  "date": 1654146665527,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

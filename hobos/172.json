@@ -1,0 +1,32 @@
+{
+  "dna": "527a594d8fb1c235597fa6d1a954e2915ed040be335e0a7ae87cb3b2011496b5",
+  "name": "hobotown #172",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/172.png",
+  "imageHash": "481a6d227685ac03884e919dfaf81345591cb0a9dc51f5c6c919e0b4fdc51c55",
+  "edition": 172,
+  "date": 1654145942962,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

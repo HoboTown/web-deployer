@@ -1,0 +1,32 @@
+{
+  "dna": "9f61e3b04487ffd96abc9e0bd2e86c337736176990e7c9b0e1400282f03f5443",
+  "name": "hobotown #3761",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3761.png",
+  "imageHash": "b00ba8da094e3a6fbf743f04661907d1a5ed7a597e59dfcf0cc4e1655f73ae6b",
+  "edition": 3761,
+  "date": 1654149029098,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

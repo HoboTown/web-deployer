@@ -1,0 +1,32 @@
+{
+  "dna": "73b43bc7eabffb1f78566e45f341c00aec048bb9e9835d88883caeefaa3856bd",
+  "name": "hobotown #4821",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4821.png",
+  "imageHash": "3f0b152a2c08c265eb6bd133cd4251f5a0f645c232675209c8242af11bbe870b",
+  "edition": 4821,
+  "date": 1654149669014,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

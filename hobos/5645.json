@@ -1,0 +1,32 @@
+{
+  "dna": "f1a553a846ea15bfa807fed89f70ffe3f2efd2ee98259b68cbebb43f7ecccc77",
+  "name": "hobotown #5645",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5645.png",
+  "imageHash": "61494966da5ef671f2b9c79e2739b35890a5b07d28f6a870d18792af1613aff7",
+  "edition": 5645,
+  "date": 1654150133046,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

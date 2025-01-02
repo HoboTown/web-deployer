@@ -1,0 +1,32 @@
+{
+  "dna": "0abecdef1f3944af594b11bf054605b679fe981abd32a30e6df78f04ac29fdbb",
+  "name": "hobotown #3618",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3618.png",
+  "imageHash": "2eaf836da44a0844ff29b441a527b97ea366987e2a733799f4208db8f5d960c0",
+  "edition": 3618,
+  "date": 1654148936089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

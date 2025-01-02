@@ -1,0 +1,32 @@
+{
+  "dna": "74f3a703043a51e7d3d2e7a341582571ef7c7650ef498e20a3b382526444c921",
+  "name": "hobotown #731",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/731.png",
+  "imageHash": "255c27eb5619082a0f14c04f070c9bd5bc8282df3d6f3a1f9c721ec03850caa5",
+  "edition": 731,
+  "date": 1654146495922,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

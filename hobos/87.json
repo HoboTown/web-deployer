@@ -1,0 +1,36 @@
+{
+  "dna": "2ddd41a35ada0cd3ce34e7523378f32460bbd558107e9b04bdf8f267fc7d4e77",
+  "name": "hobotown #87",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/87.png",
+  "imageHash": "577a9efaca14c643bd7f097d962b76c202dcdd57a8682dee5cea8dd941115c1b",
+  "edition": 87,
+  "date": 1654145859088,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

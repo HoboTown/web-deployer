@@ -1,0 +1,32 @@
+{
+  "dna": "e3aa88d645492a786e317193bc92fd3da0252c70c45e8952297d27fb19edf3e9",
+  "name": "hobotown #2302",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2302.png",
+  "imageHash": "cdb77223cc47a20c950c84e075a971347e5992bc36fe5dbf305b4dda22c1d2b3",
+  "edition": 2302,
+  "date": 1654147989207,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "81a558db8d2fce5cfee9f79c93945aaf86e1295fcce08b5be9e861d10edaa858",
+  "name": "hobotown #348",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/348.png",
+  "imageHash": "d75835fcf31abdddd61a370fbc19ac9ded69fed5bec1c4edb5c641e2b70a02a5",
+  "edition": 348,
+  "date": 1654146137779,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

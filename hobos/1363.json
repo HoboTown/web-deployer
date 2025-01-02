@@ -1,0 +1,32 @@
+{
+  "dna": "ce600b15ca55f383d9d5377c62715b2d2c61d02cbc479ceae166edadad2b8d66",
+  "name": "hobotown #1363",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1363.png",
+  "imageHash": "bc02ce39e5c26729efde13d177280f2bb238e2f2bcbbfc70a8d32b6812073f88",
+  "edition": 1363,
+  "date": 1654147039576,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

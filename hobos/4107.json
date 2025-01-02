@@ -1,0 +1,36 @@
+{
+  "dna": "8443c66c92c8125c221b35e6834df9b71e3a2ec59446f8e10e8c47fc08ae3262",
+  "name": "hobotown #4107",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4107.png",
+  "imageHash": "d28e201175615b05b994b31b98349c243f9e8ed442a9dee29411bbe117219790",
+  "edition": 4107,
+  "date": 1654149226197,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

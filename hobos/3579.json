@@ -1,0 +1,36 @@
+{
+  "dna": "488d8866f57e7d76d07c8c23c457a29e21bcde79ec914e0113dbc6525108a418",
+  "name": "hobotown #3579",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3579.png",
+  "imageHash": "bfd33b74f864cb8a2dc74f6d9b82625017f5bf40eb6e139c62f4be82bd9856ce",
+  "edition": 3579,
+  "date": 1654148912827,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

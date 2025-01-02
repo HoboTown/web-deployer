@@ -1,0 +1,32 @@
+{
+  "dna": "03afc6eab3fd3438b3fa23376b81c1121a8c387f4f46cb380a3af7b980ffd2c5",
+  "name": "hobotown #5279",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5279.png",
+  "imageHash": "fc25300f3918ec56ee99c6f457457a961bbb5b0b0ef1440cd0a869f5dce65163",
+  "edition": 5279,
+  "date": 1654149959082,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

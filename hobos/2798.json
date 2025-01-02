@@ -1,0 +1,32 @@
+{
+  "dna": "fbc99408855f94cb46f6734b247eb8fed56e92774e791e5397d0dedb7b4f9a54",
+  "name": "hobotown #2798",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2798.png",
+  "imageHash": "f4ec2f6a18cb39c1e9c6c6d0e0d42d6cdb91a064f96780f8d77c3cc0296217b6",
+  "edition": 2798,
+  "date": 1654148388533,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

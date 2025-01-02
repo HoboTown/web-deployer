@@ -1,0 +1,32 @@
+{
+  "dna": "23084315070ae8ad790436295010d1c9563f6571f1a4f0c1f89c2af0289cdcc0",
+  "name": "hobotown #3968",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3968.png",
+  "imageHash": "d9e00792805f3ba45b0d0f5cf7adb89f4e69aadb6694084c78690669aa9e27ab",
+  "edition": 3968,
+  "date": 1654149147885,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

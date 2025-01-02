@@ -1,0 +1,32 @@
+{
+  "dna": "3c2e5ae8c556a7ae7e8cc0692d8a84026a45630fd1a5c51e98e9c4f446e187c6",
+  "name": "hobotown #1971",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1971.png",
+  "imageHash": "87524fdb8a9a26c082278cd067d7e6813b7f4cc0391a165956e007f4794b4453",
+  "edition": 1971,
+  "date": 1654147614852,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "15c1d20023073df88a4d46ff24f0db3dbc7a74f3c0a09644708250b5c4ce6b01",
+  "name": "hobotown #5332",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5332.png",
+  "imageHash": "2b55f842a916ab5bf4f444894d01a1d349ef4dc5c34beb0d8c6f3c61645ae71e",
+  "edition": 5332,
+  "date": 1654149983775,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

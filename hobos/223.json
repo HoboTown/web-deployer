@@ -1,0 +1,32 @@
+{
+  "dna": "175163de16923d03bd452a2c788f71b3fe1899fb5f22e88075aa445774f994b2",
+  "name": "hobotown #223",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/223.png",
+  "imageHash": "7fd951995cf3230ae86ea150ee5b8ef8d1954193d975c701cf306275489d96ba",
+  "edition": 223,
+  "date": 1654145991537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "ad27b618850f1ae6d8c089e108bea8c39123f66af6716b842c84ae624c3052fa",
+  "name": "hobotown #3106",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3106.png",
+  "imageHash": "08aa962fcf14ad959187635bee384de615ad5f2f5b2c0f34697506e67f5c62b1",
+  "edition": 3106,
+  "date": 1654148611030,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

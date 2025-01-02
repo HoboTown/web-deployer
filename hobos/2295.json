@@ -1,0 +1,36 @@
+{
+  "dna": "994ee8a59e31dfd76bd94c420c1c0e89b87f9018dab011b2c5cfb08f8dc0266b",
+  "name": "hobotown #2295",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2295.png",
+  "imageHash": "afbeaabf9de9ed6512a1aee6086365384a7cb49751a68417807b0ac893942f3b",
+  "edition": 2295,
+  "date": 1654147982539,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

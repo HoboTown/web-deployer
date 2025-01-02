@@ -1,0 +1,32 @@
+{
+  "dna": "39ee1fa63324bbb0965355682f279cf55f733306761f117d7ddf94be061f1f1e",
+  "name": "hobotown #5242",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5242.png",
+  "imageHash": "d290228527b8441707c7ab21c498daab7b860b8da8818d3f6fd6c26f1cce00b0",
+  "edition": 5242,
+  "date": 1654149934706,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

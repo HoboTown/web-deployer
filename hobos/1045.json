@@ -1,0 +1,32 @@
+{
+  "dna": "28bbc23fc23549bba47cf12ba59ef1c3436b567ea845a123f87ad155cf6bfc7b",
+  "name": "hobotown #1045",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1045.png",
+  "imageHash": "8062c2a6d212c7614832a6b3e1820637004cfd35d30f0a9ed443551db7fc8ce7",
+  "edition": 1045,
+  "date": 1654146723296,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

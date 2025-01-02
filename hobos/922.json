@@ -1,0 +1,36 @@
+{
+  "dna": "9218b8789aaa8c5da862883533b973fbdfcdbc423893537b1f5bf54082bc54ea",
+  "name": "hobotown #922",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/922.png",
+  "imageHash": "ef85bb133d11c251d51b6ce1314f8c975ffaec22782db56ff1afbe293d2c8b5e",
+  "edition": 922,
+  "date": 1654146628597,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

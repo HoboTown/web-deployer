@@ -1,0 +1,32 @@
+{
+  "dna": "ab6c9928f60492ac509bb0a74b06287c9899ebc6235fc2d5514e356260d21cf5",
+  "name": "hobotown #5458",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5458.png",
+  "imageHash": "4b71dea885a2efa4362ef7d8d5922b00ec8c821cc38ee74f08db418cc7d4d1a8",
+  "edition": 5458,
+  "date": 1654150041311,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

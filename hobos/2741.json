@@ -1,0 +1,32 @@
+{
+  "dna": "22d008b6b944acbf5142f326675e3072f34b26a0c5be35b3c9ab6bbea6946f5c",
+  "name": "hobotown #2741",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2741.png",
+  "imageHash": "5fc21bcdf95a90aaa5c7b885673387f5fec1eca8412792e98eb21b66f5165de8",
+  "edition": 2741,
+  "date": 1654148346359,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

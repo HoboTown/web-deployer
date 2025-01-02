@@ -1,0 +1,36 @@
+{
+  "dna": "9590052271687ee83e22fc5bc36fd577591608287adac8b304bf789ad3b7c3f2",
+  "name": "hobotown #1873",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1873.png",
+  "imageHash": "e143671062532a88a1a2cc20fef711e7bec1b5fab278fc7d5358639c0e0cb87b",
+  "edition": 1873,
+  "date": 1654147512873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

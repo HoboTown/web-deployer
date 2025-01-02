@@ -1,0 +1,32 @@
+{
+  "dna": "042aef592d8a5391f375004a150998e30735e161ad550bb6bcb2a0e2bb69da9c",
+  "name": "hobotown #892",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/892.png",
+  "imageHash": "a5ce9b0a7015083fb5d94c93594a156455b289d7ec8db9d797f19d4e117097e4",
+  "edition": 892,
+  "date": 1654146606723,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

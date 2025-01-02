@@ -1,0 +1,32 @@
+{
+  "dna": "89175a5f44f59d9481f763ee84c70adaaaadadf13d96841ecd323d02f7956ee1",
+  "name": "hobotown #3360",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3360.png",
+  "imageHash": "609b9b6511e504956e88b1eef5b7d474751b6cc9aede3ddf4257dfc9ec316a31",
+  "edition": 3360,
+  "date": 1654148778562,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

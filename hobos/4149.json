@@ -1,0 +1,32 @@
+{
+  "dna": "9ccf720740826881709858c622b22d3f6e17ee59bcc108882a41fb4a92eec88a",
+  "name": "hobotown #4149",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4149.png",
+  "imageHash": "825b7a3bae37f49c2a229410bdb6723de2dd47746ac452d6309981a6323470a5",
+  "edition": 4149,
+  "date": 1654149250578,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

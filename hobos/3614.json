@@ -1,0 +1,32 @@
+{
+  "dna": "d65aa3213a686d5fc24058391d2f7e08b7c2cf137d5e5ec90f3d44df57be0774",
+  "name": "hobotown #3614",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3614.png",
+  "imageHash": "332bce7d22c8c1abed7aaaeb29a7f477055981937e7307ffd1bcc7d31b5f7dc9",
+  "edition": 3614,
+  "date": 1654148933677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

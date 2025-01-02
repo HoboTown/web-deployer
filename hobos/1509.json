@@ -1,0 +1,32 @@
+{
+  "dna": "b8c1b149c66021f37e65cf5e939f663202392a126c52f78578e0a5fe34d36772",
+  "name": "hobotown #1509",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1509.png",
+  "imageHash": "8ea146808799a8c77210412a98ce9d3750337629a68c5ce95fe09d784bf46607",
+  "edition": 1509,
+  "date": 1654147161475,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

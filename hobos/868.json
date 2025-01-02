@@ -1,0 +1,36 @@
+{
+  "dna": "0b53866023ca890882e326bac0f3a23fa3f43dd717fc018a824405f5f415b12d",
+  "name": "hobotown #868",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/868.png",
+  "imageHash": "460c434d94d7bfbd3cba2c3b3896ae3b0c59dc78295df01b801d0438f4c149d2",
+  "edition": 868,
+  "date": 1654146588431,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

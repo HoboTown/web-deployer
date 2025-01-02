@@ -1,0 +1,32 @@
+{
+  "dna": "014af0afb997ef11fc2fb5aae56719e90bc99e4c40097fe8d408fab6ab13c63f",
+  "name": "hobotown #12",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/12.png",
+  "imageHash": "6a9b9160a0191bff4b78088cfee83704a51560e9de9c0db340752996dc3e8e2b",
+  "edition": 12,
+  "date": 1654145793650,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

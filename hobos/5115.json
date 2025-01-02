@@ -1,0 +1,32 @@
+{
+  "dna": "36b08816c587c8e63033230b2c4cef838a469f393b03c2703b9da29d96bf480b",
+  "name": "hobotown #5115",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5115.png",
+  "imageHash": "fdc2b2a229407e212cef384c066e4a213a97c246d6700d2d160eb4fa7b471fc1",
+  "edition": 5115,
+  "date": 1654149858177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "20d5ce402acb96ece6dd38ee0f472d14b4c26d3b856857c5a01996998228d007",
+  "name": "hobotown #2296",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2296.png",
+  "imageHash": "35c933d32f3f986824b279715550bc15a6bd642abcb5a91c91f7488abf97e9a1",
+  "edition": 2296,
+  "date": 1654147983461,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "0a885ea6ffa956650443073e07e73f27bca5b48fef7ac7cf19d24cd4c06c2e1f",
+  "name": "hobotown #4721",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4721.png",
+  "imageHash": "99d5c82dc3b93cebb5e0463b1d32c74c9ea99835699c2207bcc500027d56983a",
+  "edition": 4721,
+  "date": 1654149604761,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

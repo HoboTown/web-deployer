@@ -1,0 +1,36 @@
+{
+  "dna": "b6f4ecbadf27a3026590f88d3aa62a35158af75c07b7c9deee1d9475ff0bb4b3",
+  "name": "hobotown #3776",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3776.png",
+  "imageHash": "0d6459e366916a52fc5e8bb37e6237175dfc684f85469917727204933f32bbb8",
+  "edition": 3776,
+  "date": 1654149037735,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,28 @@
+{
+  "dna": "bc48485d829e4e0d0c2f5116fb081bdf0f6ead838ad662790860b293a69b3132",
+  "name": "hobotown #4400",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4400.png",
+  "imageHash": "9d82646237c624679aed17e643174dac01632080d33cf6c509a37a07a03cb680",
+  "edition": 4400,
+  "date": 1654149414319,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "8fe0ea1d1ed3221f949839030a282c10079267fb8c75ad53226885d192ccdd75",
+  "name": "hobotown #3322",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3322.png",
+  "imageHash": "36a9e027037e89088756ab3ebe69b602f63768ec420bb916f2944947f3a29d62",
+  "edition": 3322,
+  "date": 1654148757491,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

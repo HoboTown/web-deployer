@@ -1,0 +1,32 @@
+{
+  "dna": "bf6b2d3c2918ea78da54a7d9ad2640922bbba2ba2c957a01e49528ace00843b7",
+  "name": "hobotown #5219",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5219.png",
+  "imageHash": "8b3e270cf57e34ded58c5f7068172f23f97415e2388f1691e23e86099e8929fc",
+  "edition": 5219,
+  "date": 1654149918159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

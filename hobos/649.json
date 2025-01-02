@@ -1,0 +1,32 @@
+{
+  "dna": "5a3784bc59b35ce2dc409a6a3a33f175daa640276a7f2b214dfdd133de3d8ac7",
+  "name": "hobotown #649",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/649.png",
+  "imageHash": "f49a0c0961a6b56b649ec0eea2cba61d3efcbfc73214c3b2151138c813ad48da",
+  "edition": 649,
+  "date": 1654146419851,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

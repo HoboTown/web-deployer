@@ -1,0 +1,32 @@
+{
+  "dna": "65ab2f1e34e0f80393e99e1bbaf8d496e3ee129c500f7a162d164c9c675675a7",
+  "name": "hobotown #588",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/588.png",
+  "imageHash": "4ffcb0c0f15259ea9830e658c63bb1a39a7265a579cdba8cde274d7ab7d30626",
+  "edition": 588,
+  "date": 1654146358980,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

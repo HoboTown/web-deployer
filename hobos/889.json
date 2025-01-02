@@ -1,0 +1,36 @@
+{
+  "dna": "a6596841213172150f2e6accc56c63a0795149aa87703b2544d0eea755bb50d9",
+  "name": "hobotown #889",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/889.png",
+  "imageHash": "e733b9ae19382f8276d558f69378c28b02111ec212137c2e9f49f6bea9c3e7e0",
+  "edition": 889,
+  "date": 1654146604546,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "f18e1e7ff931a850703f40e7fd32c7d3434132f25550cae74ea02c8b4cbd841d",
+  "name": "hobotown #1956",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1956.png",
+  "imageHash": "99440b8b325cba64b57121d3036174ca036c5c43b08bbe2b7603d4fc7519e280",
+  "edition": 1956,
+  "date": 1654147598002,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

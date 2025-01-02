@@ -1,0 +1,32 @@
+{
+  "dna": "bbf074006d5496182b3d14de37a66590c2ef756de3d6d98cbb5ce9f7a36d2e2b",
+  "name": "hobotown #4638",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4638.png",
+  "imageHash": "1f57201e333d4c167b3f0e77fe0a5d1e4de42ab63fa69b782162a1a2e65081c6",
+  "edition": 4638,
+  "date": 1654149556395,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

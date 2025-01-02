@@ -1,0 +1,32 @@
+{
+  "dna": "72082902139a3bbd9872e94ef64ab4fe451d604cb439dcbf52c478addb228302",
+  "name": "hobotown #5375",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5375.png",
+  "imageHash": "f9be5761c02fb5036ca5562c9f1a26238aec4f008e1aa274b32a57c112cb076c",
+  "edition": 5375,
+  "date": 1654150003160,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "aff08a0126ca60131c9809a767e91fa94e199552cf546eea319a9006d5460671",
+  "name": "hobotown #3824",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3824.png",
+  "imageHash": "fe0eb28575539ce3dea4834ff8e87d28ada19b6b61c47dd7ab7bf365746532a5",
+  "edition": 3824,
+  "date": 1654149064985,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

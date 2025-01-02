@@ -1,0 +1,36 @@
+{
+  "dna": "53f4337a8db84b2eceafec7e9b950da1c29306bf44fb3eaedcc1e61b562babb8",
+  "name": "hobotown #860",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/860.png",
+  "imageHash": "d91c3d7dcc446218f0adbcb79bbb6c2538b7e61f687a67a2b93d95b4c271f306",
+  "edition": 860,
+  "date": 1654146582043,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "3f19b65dc8d5e65eb574007191cc96630b11248a321399512c61562f516bba80",
+  "name": "hobotown #157",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/157.png",
+  "imageHash": "ab865752d1446cbaaf937527c8d7367de69743f658d01c998f7d3169851a42fe",
+  "edition": 157,
+  "date": 1654145926588,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

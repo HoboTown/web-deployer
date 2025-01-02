@@ -1,0 +1,32 @@
+{
+  "dna": "35d81d0a77975adc9e98c548700b2ef258355eb8dea96308374087ebb6e611fe",
+  "name": "hobotown #3706",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3706.png",
+  "imageHash": "de9cf87fc12aeb6758d016493413f2e6af86b01d6c26542051e9be1c34aec815",
+  "edition": 3706,
+  "date": 1654148993373,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

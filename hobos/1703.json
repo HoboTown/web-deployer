@@ -1,0 +1,32 @@
+{
+  "dna": "ae3743d3d66e9e9fbef1c6d4ff3e07ef55ffbe04c47defedd883b89532f58bb9",
+  "name": "hobotown #1703",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1703.png",
+  "imageHash": "af4a9f295677fdd0285d6a78f64dbcf14f20e88ede24963bff9147620dbdce07",
+  "edition": 1703,
+  "date": 1654147344444,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "0693c86571cca9aa6e0f3c192347b05c00275f2e2a57d003399a4b075ccc1791",
+  "name": "hobotown #4338",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4338.png",
+  "imageHash": "d985b21763b9124325437a70ac549184b08d8980f32ff3843c6995979dc3c723",
+  "edition": 4338,
+  "date": 1654149364833,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

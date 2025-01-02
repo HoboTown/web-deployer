@@ -1,0 +1,32 @@
+{
+  "dna": "aae15d1740ea22bfffa30f005b27350651867e2359c2f22c55df5f766bb9282d",
+  "name": "hobotown #1346",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1346.png",
+  "imageHash": "0ce7ffbb9fe39583a854d85ab5bdcfecfb11ce60313b871276a5bce8df6061b7",
+  "edition": 1346,
+  "date": 1654147025028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

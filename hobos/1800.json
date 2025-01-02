@@ -1,0 +1,32 @@
+{
+  "dna": "a21ca1d6a7fb71e843773245c47ec02b7e28f26a14fb89a189e93f826ae26842",
+  "name": "hobotown #1800",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1800.png",
+  "imageHash": "06c52f4aa53d9615671f16431eba9c64cb386e27c8a52739fe0a2da0602297a6",
+  "edition": 1800,
+  "date": 1654147443716,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

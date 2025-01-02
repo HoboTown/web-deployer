@@ -1,0 +1,36 @@
+{
+  "dna": "185648f32a448b4d4958a8e1133961dc15824ed5e5a98693e2c053cdab81126d",
+  "name": "hobotown #5350",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5350.png",
+  "imageHash": "6feb58dce4e8f8b4cef44fdd321788ad78624281cc286a0b6a3c56077da02b76",
+  "edition": 5350,
+  "date": 1654149991925,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

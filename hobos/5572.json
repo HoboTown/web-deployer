@@ -1,0 +1,32 @@
+{
+  "dna": "74cf214b2d0afe579261c9c22dff1c9b82508068602f76aceec6eb9d33355281",
+  "name": "hobotown #5572",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5572.png",
+  "imageHash": "957767ca87e0bd262b38d34a924623ffff1af4bc610efc7a4eec7fc953cfe93f",
+  "edition": 5572,
+  "date": 1654150098789,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

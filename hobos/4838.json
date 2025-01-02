@@ -1,0 +1,32 @@
+{
+  "dna": "1885b56d08d1ccfef8037b901e18e49bbbc4b06dd99d550405d8b12c00c72913",
+  "name": "hobotown #4838",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4838.png",
+  "imageHash": "77ae580f08c5ca8d7fd30c7fdc9803812cb1a0874d214825335b676294d8cd83",
+  "edition": 4838,
+  "date": 1654149680679,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

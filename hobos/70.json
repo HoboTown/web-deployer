@@ -1,0 +1,32 @@
+{
+  "dna": "38e8d903bcfafe0487ff9bb4ef6fc2d3dc5ce4fc852ff6ec65b2a106e1828d42",
+  "name": "hobotown #70",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/70.png",
+  "imageHash": "2d8ecea4a67e9077d044ee9d70f43dfac0596f21f42643642157e48328c440aa",
+  "edition": 70,
+  "date": 1654145844686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

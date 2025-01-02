@@ -1,0 +1,32 @@
+{
+  "dna": "7e438b8a3d07c369374289d6c478c287fdcc1384d4c262ed66b58a33c8ae5bc8",
+  "name": "hobotown #932",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/932.png",
+  "imageHash": "68a3a2b38d0c71a53b581ce1438b39f50ddf4e81c866593f9328db0d9249b768",
+  "edition": 932,
+  "date": 1654146635622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

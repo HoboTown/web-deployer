@@ -1,0 +1,36 @@
+{
+  "dna": "1f565752d12374b0454ebcc5aa788f0f90c2d821750658365295eb0260953696",
+  "name": "hobotown #5828",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5828.png",
+  "imageHash": "3d4bead1f7894318094ba5b1189c51f55ce68fff14734414a33427bff1b7b96c",
+  "edition": 5828,
+  "date": 1654150223615,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

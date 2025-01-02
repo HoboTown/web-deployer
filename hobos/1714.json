@@ -1,0 +1,32 @@
+{
+  "dna": "a94e2c060d1996c2327926309039c098b021248dcf1dfad291d7f71adecf1ada",
+  "name": "hobotown #1714",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1714.png",
+  "imageHash": "498597b862eb8d1d3d15d6215dfb02e5c368776320065fceba7b536005ee514c",
+  "edition": 1714,
+  "date": 1654147354232,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Brown Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

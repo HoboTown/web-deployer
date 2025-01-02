@@ -1,0 +1,32 @@
+{
+  "dna": "884994126a4933fdb2cdcf84ec7b17682901833b6a50d8a9d58a9531de9c89ab",
+  "name": "hobotown #1003",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1003.png",
+  "imageHash": "b012621773e0a1fcb1e1f07648d438c643e98d55a11b218a4d21d86785c25e33",
+  "edition": 1003,
+  "date": 1654146686660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

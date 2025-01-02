@@ -1,0 +1,36 @@
+{
+  "dna": "828f882c23fc953e267ec685e43f3cceb39ec10b33dfdcc5489d7f28c47f9f53",
+  "name": "hobotown #6337",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6337.png",
+  "imageHash": "999f84922cdcec1207f7441f39468d57b590e972dd83c4726435065c89e31b40",
+  "edition": 6337,
+  "date": 1654150502563,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

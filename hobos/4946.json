@@ -1,0 +1,32 @@
+{
+  "dna": "768deec2391deb4f5990a563c5c1a84d780ca332f3a3aa8fdc03bf4990babde4",
+  "name": "hobotown #4946",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4946.png",
+  "imageHash": "23829e8059727efa1cb0c0a242f79ac7a2d0702075dbcc2ae94f5b24cc2672d1",
+  "edition": 4946,
+  "date": 1654149752897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

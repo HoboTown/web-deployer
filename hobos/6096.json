@@ -1,0 +1,32 @@
+{
+  "dna": "ed008a85b3d411e106ae6bc0c6838cbc1aa305d7371a9fd00fcc9344a421dcb8",
+  "name": "hobotown #6096",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6096.png",
+  "imageHash": "d889b00c618bda36c62b555e7d4029101aba414e2dd27dc68feb5d8608ab957b",
+  "edition": 6096,
+  "date": 1654150364313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

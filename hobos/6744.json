@@ -1,0 +1,36 @@
+{
+  "dna": "c6ce4cafb7ea3ec2f536f04bb3b9f3f04251d4442e6a58a46da0b713545fd798",
+  "name": "hobotown #6744",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6744.png",
+  "imageHash": "e0a4abde821b067618cbcdab3cdcbd16af18993c671ee52282079367ef78ece6",
+  "edition": 6744,
+  "date": 1654150738870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

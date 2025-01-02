@@ -1,0 +1,32 @@
+{
+  "dna": "939ec7f9393b6e411451b0aa26c4283de7ad330b43a7e5f810dd99d19de06f67",
+  "name": "hobotown #3239",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3239.png",
+  "imageHash": "3ab6dcdaf4e0036830eebd39a8fedf5f2fe7373302235d6239ba586553ce8c94",
+  "edition": 3239,
+  "date": 1654148704899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

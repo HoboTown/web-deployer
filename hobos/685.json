@@ -1,0 +1,32 @@
+{
+  "dna": "665832edc274d71f70650394adc18944b0a1895357be5ce2c733246005fec4ff",
+  "name": "hobotown #685",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/685.png",
+  "imageHash": "9395bd9f2073b59113b984ea2d7927420ade25860aa98c639e0d24a220b6b97a",
+  "edition": 685,
+  "date": 1654146457873,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

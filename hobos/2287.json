@@ -1,0 +1,32 @@
+{
+  "dna": "2a4ecd3b203f440bb7204ea5300607c650bee239c63c58b5d887cb6b7c366535",
+  "name": "hobotown #2287",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2287.png",
+  "imageHash": "dd623ef0b581838b3d44256650d871087e6d3c436a29c7546d9c29b1c843dd1b",
+  "edition": 2287,
+  "date": 1654147974728,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

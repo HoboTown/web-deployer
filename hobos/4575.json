@@ -1,0 +1,28 @@
+{
+  "dna": "c162bee627a0268838f6e3b3fbe6053399390b0a28287052f1cdc7e0f4e63070",
+  "name": "hobotown #4575",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4575.png",
+  "imageHash": "c39d7a1ff89faa450004ddc16b8e6260318d8405e716c1ca8e2b0411d2795169",
+  "edition": 4575,
+  "date": 1654149520259,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "6127df46e2ebd414384b14d9bc46fc1a0893fa49d3c9a38d71940b176179c765",
+  "name": "hobotown #2019",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2019.png",
+  "imageHash": "e22c726e75e40f84b68c25ca1f8823aa1be92201f2b0219a12d9bd762a7d17e3",
+  "edition": 2019,
+  "date": 1654147661026,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

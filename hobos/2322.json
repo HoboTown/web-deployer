@@ -1,0 +1,32 @@
+{
+  "dna": "4586d2c84677c8905556e67616b7f8ccde8238f4ec88a895da586258e62942b3",
+  "name": "hobotown #2322",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2322.png",
+  "imageHash": "a62687e83cb8a533e82cea067e7feecd5669eea834eaf0c9428777a4001ae42d",
+  "edition": 2322,
+  "date": 1654148007228,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

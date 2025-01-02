@@ -1,0 +1,28 @@
+{
+  "dna": "daceb87b12a18de120428de634bd791d844f09c30eb1fdda1dc32c6387e7d500",
+  "name": "hobotown #4764",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4764.png",
+  "imageHash": "39874242f596b7386ec56f61ad728d1e75f9a07e9656ebd43de67cc13e17ed3a",
+  "edition": 4764,
+  "date": 1654149631079,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,16 @@
+{
+  "dna": "efefc005307ac4d9469ac42f566f471d7589c47de2808ebd6d7c9b06bba1a177",
+  "name": "hobotown #385",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/385.png",
+  "imageHash": "599e7b88fa2db053041067c446d8945bbab1ea10781fa286bdc20f828f9454dd",
+  "edition": 385,
+  "date": 1654145782452,
+  "attributes": [
+    {
+      "trait_type": "Super Speshul",
+      "value": "King Hobo"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "done left in ruins by the goblins, king hobo is here ta restawe awduurr ta the town"
+}

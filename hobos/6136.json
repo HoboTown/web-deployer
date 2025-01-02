@@ -1,0 +1,36 @@
+{
+  "dna": "b0e25bf767dc616a1b6b14bd666255a3fc7028ccaf5ee13282dab697b41f95a7",
+  "name": "hobotown #6136",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6136.png",
+  "imageHash": "dfbaf9f622070c00873b325411c34684eb343dc0fe19a234ff7d5218046d2757",
+  "edition": 6136,
+  "date": 1654150391009,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

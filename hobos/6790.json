@@ -1,0 +1,32 @@
+{
+  "dna": "a55d4c9626ddd6bee084e982254b0ac0ac61ae1382f31407412f2b5267ac29d2",
+  "name": "hobotown #6790",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6790.png",
+  "imageHash": "7593a97ae8063a037891ffa3abb0b5635e585b89901db5f18d5dacda1a3e65dd",
+  "edition": 6790,
+  "date": 1654150763107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

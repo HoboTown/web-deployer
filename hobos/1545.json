@@ -1,0 +1,32 @@
+{
+  "dna": "16779f9f18e1cbdf20767c7bc03581322c4bd09a325cdaee7f724a722d816e80",
+  "name": "hobotown #1545",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1545.png",
+  "imageHash": "e83da8beeb410bf3fde44de749a33aeb17d288940135ad9f136a7eabd6146fd4",
+  "edition": 1545,
+  "date": 1654147192940,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "aa6408c65b52abd49693c53ead33e45feb4de16ea315dc0d194c18f9a20d9039",
+  "name": "hobotown #2604",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2604.png",
+  "imageHash": "f9b4166b05bd4b1f40896e6bd75177645ef847b5a04729901c7ed380d9bcf92d",
+  "edition": 2604,
+  "date": 1654148251820,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

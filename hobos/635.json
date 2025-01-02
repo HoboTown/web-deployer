@@ -1,0 +1,32 @@
+{
+  "dna": "2e18b34787da1852d74925b453a326055f4dcaca45e68fb224860ac278b4aa78",
+  "name": "hobotown #635",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/635.png",
+  "imageHash": "c085df3390276e3e5621b110bcf9e990310357d30eebd474f8acae83f18108ef",
+  "edition": 635,
+  "date": 1654146406323,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Green Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "3c7a9f4c7deb506166476a3f4b38838f29646ee4b08f7322e0a4396c937cea65",
+  "name": "hobotown #6265",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6265.png",
+  "imageHash": "2e47323c5e417ad5caf5ce9fe1f108e05ed298ad9442e265ec9fa8f5952eb01d",
+  "edition": 6265,
+  "date": 1654150459957,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "d7891ee63b693f1039c46d9232d1d36d06a72c17f3631ca28e549cee0e4b1d87",
+  "name": "hobotown #890",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/890.png",
+  "imageHash": "13f97b1d6328431750abb6a179a295a6856632074ee8b8049a48fc18ef14c823",
+  "edition": 890,
+  "date": 1654146605264,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

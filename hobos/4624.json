@@ -1,0 +1,32 @@
+{
+  "dna": "3bbd83390e37200cd65edfac6c676add816b2757a0527fed6a0b9ba883c40e65",
+  "name": "hobotown #4624",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4624.png",
+  "imageHash": "55e92fddefcd7b3f58c43f9e8c68df76a3956cbfc3aa72b7502fe7152f2d2626",
+  "edition": 4624,
+  "date": 1654149548146,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Apalled"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "d15b8ea2aeb9b952a866feedd67bc6083c3d5fe25ffa7f979ade78be69d23bd7",
+  "name": "hobotown #4329",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4329.png",
+  "imageHash": "cfb66379fac99f93bf2bae117248d641c9177c1a51c08bd9f0cd036d07bd3146",
+  "edition": 4329,
+  "date": 1654149358555,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

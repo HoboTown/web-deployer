@@ -1,0 +1,36 @@
+{
+  "dna": "3e9122562dbaba5ec419cfdcd9759972ea31e352e3a6d651cbabef8dfc2e45b9",
+  "name": "hobotown #3676",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3676.png",
+  "imageHash": "57f4e5e8f6b6b70977c68f0c831d28d49818e70d901dde17d9520b3b71ab0480",
+  "edition": 3676,
+  "date": 1654148972028,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

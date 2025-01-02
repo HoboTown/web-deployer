@@ -1,0 +1,36 @@
+{
+  "dna": "89958f859de480365df0032229ffa44d78aa90fa48369b49579a5544ed2104f4",
+  "name": "hobotown #4696",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4696.png",
+  "imageHash": "e1556ac87af6755f7954fdc5686d50ef21b0bfdc0ff125590d9954db11e5cd24",
+  "edition": 4696,
+  "date": 1654149590481,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

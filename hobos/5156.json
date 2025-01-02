@@ -1,0 +1,28 @@
+{
+  "dna": "d53ead4635e79b6170103481911066bd9477d06367a125de7774f871d67290a3",
+  "name": "hobotown #5156",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5156.png",
+  "imageHash": "edb11299c84977a80641d5ec60de4e69e1a49cc4f8934296f8432571fd96edc3",
+  "edition": 5156,
+  "date": 1654149882242,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Orange Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

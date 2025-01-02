@@ -1,0 +1,32 @@
+{
+  "dna": "b1b1f65031c488ca1ab03e95deee8ebf2267b5df72080d07fd221e1168b6f6d1",
+  "name": "hobotown #292",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/292.png",
+  "imageHash": "4af50498cfe0d4e1373ade93ab531c1b093c28bec07ed036c6f264f57eba1183",
+  "edition": 292,
+  "date": 1654146088005,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

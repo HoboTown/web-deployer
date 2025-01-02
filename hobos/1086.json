@@ -1,0 +1,32 @@
+{
+  "dna": "b11cec35acd0d5f330509e4293473b13c44291eb87ec8b456a5fb5f83f3c9802",
+  "name": "hobotown #1086",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1086.png",
+  "imageHash": "7e30783a1cb570aa36f46c78c532254de3c970b1dca331dd7b53493c51508d3b",
+  "edition": 1086,
+  "date": 1654146765686,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

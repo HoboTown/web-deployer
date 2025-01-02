@@ -1,0 +1,36 @@
+{
+  "dna": "6996a3bf548a248b9c399f7c1452a6cfdeed852449bbf5a6017ec7a656cd960d",
+  "name": "hobotown #554",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/554.png",
+  "imageHash": "91288a92b08cfce0dd50f06adb97c84734e9a170083b51611601c35d97700acf",
+  "edition": 554,
+  "date": 1654146332947,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

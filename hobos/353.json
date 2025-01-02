@@ -1,0 +1,32 @@
+{
+  "dna": "5f3c16f8e334068f948dda81a859f545b81174daf58b8dfc30859b63670dbca4",
+  "name": "hobotown #353",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/353.png",
+  "imageHash": "0c8ee5306affab798f3354197e6d6d53425f1f1c2dec959f8b01c25777fc6d80",
+  "edition": 353,
+  "date": 1654146142389,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Tattooed Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

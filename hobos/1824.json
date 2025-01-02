@@ -1,0 +1,32 @@
+{
+  "dna": "430f4dbc08abae6da01e1ef007a45c5b84c6451d6bf2ae8a8ddf235269e92429",
+  "name": "hobotown #1824",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1824.png",
+  "imageHash": "d5a84081bf15097349e336c8fbed80aa4526bbfedf2db3225c13beecd09b2f24",
+  "edition": 1824,
+  "date": 1654147465669,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

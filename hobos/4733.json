@@ -1,0 +1,32 @@
+{
+  "dna": "7f92d657cd02cf8fe55903d136721732dcbe00418748494c082c235fbba2942b",
+  "name": "hobotown #4733",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4733.png",
+  "imageHash": "5b3653c74023b54e7f1d50f2b78f9560d558b2187da89399ee2febbd16f8b02c",
+  "edition": 4733,
+  "date": 1654149611769,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

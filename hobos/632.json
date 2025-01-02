@@ -1,0 +1,32 @@
+{
+  "dna": "8b7959094bbe0681104ca072b1a3441d9d07400edf70faae2c74bbebfae46452",
+  "name": "hobotown #632",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/632.png",
+  "imageHash": "8437c1f7eac54586dece0b3b58debee162e43b41b85bf8b636037cec8757e0d5",
+  "edition": 632,
+  "date": 1654146402382,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "9c94bbd93851a8a7e176a73a61f9507109857136e1955c388e218016e29f6753",
+  "name": "hobotown #80",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/80.png",
+  "imageHash": "8b50edd5a97f3336ba4fff438aba6670a0ed2f3d5879229c27b59cd9b690b954",
+  "edition": 80,
+  "date": 1654145853089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

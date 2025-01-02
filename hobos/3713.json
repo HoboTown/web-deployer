@@ -1,0 +1,32 @@
+{
+  "dna": "2b18af6dcd07f3d1706156876514f3faa4bd4b29c407c2725d27d8431fbf5416",
+  "name": "hobotown #3713",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3713.png",
+  "imageHash": "fecd003c9a4b2a632976b292d26df85cd735a5ee9844ab75e397e9faaa8c6486",
+  "edition": 3713,
+  "date": 1654148998517,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Smol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

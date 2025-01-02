@@ -1,0 +1,32 @@
+{
+  "dna": "296c289632f2e8e5590cce3006e9057cac1bdd90523312368fed6f5c4d26ff5a",
+  "name": "hobotown #1471",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1471.png",
+  "imageHash": "42a7d0b57b382c5d45a1f605b6830c83d183ad25dcf78c1312220f94a9129fe4",
+  "edition": 1471,
+  "date": 1654147129637,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

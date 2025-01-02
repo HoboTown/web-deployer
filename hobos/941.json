@@ -1,0 +1,36 @@
+{
+  "dna": "3bb57987907765681eb54851a6817f374c8ba1ddf566458647c7cdf9aba6ef02",
+  "name": "hobotown #941",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/941.png",
+  "imageHash": "73cc37b40097fcd8a7297971679add57c2a0bf89912bf7f4dc65d8bcf56fc35e",
+  "edition": 941,
+  "date": 1654146642151,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

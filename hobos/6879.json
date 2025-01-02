@@ -1,0 +1,32 @@
+{
+  "dna": "a3edf87977760311e41308aecebda34f51a6c01167647a826670fbe2bcae2e41",
+  "name": "hobotown #6879",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6879.png",
+  "imageHash": "ebb7eb1d9b8175df0919123eaf120e25abbcd9e62b9cdb68ce053c9febde5d4f",
+  "edition": 6879,
+  "date": 1654150809203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

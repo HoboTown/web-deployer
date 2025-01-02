@@ -1,0 +1,32 @@
+{
+  "dna": "a09f641147b931b97588fb0129a3e26a9a5859ed1eebc2ba5d40eb25b362e8e7",
+  "name": "hobotown #1729",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1729.png",
+  "imageHash": "61919462f90116e355ecee87cf96cceeb16a8a5d8a35488eec6170956da11f8b",
+  "edition": 1729,
+  "date": 1654147368288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

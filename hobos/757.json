@@ -1,0 +1,32 @@
+{
+  "dna": "e52e5bf067c36d524c96e59e93fd2f71421354a5553cb5cc0df40823202770a7",
+  "name": "hobotown #757",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/757.png",
+  "imageHash": "ae24aaab8cc84b803bf21deb19cfe39e3456510109f1742835c2328431075280",
+  "edition": 757,
+  "date": 1654146513874,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mini Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "4c67d16fade422314689231d2a063917433d412a452371ad70028b125bc3ab8c",
+  "name": "hobotown #316",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/316.png",
+  "imageHash": "215292344c64daa3b3c6188f008d3f5c92ee653a332eb5dcf7b800477bac86c0",
+  "edition": 316,
+  "date": 1654146111188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

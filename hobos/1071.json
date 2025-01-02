@@ -1,0 +1,36 @@
+{
+  "dna": "102fe82875394213ee675b25e96516554f9f1a80aa5dabe3cbfd8aa56250c37b",
+  "name": "hobotown #1071",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1071.png",
+  "imageHash": "48782038f2c3d8f7faf2a960850c696cdce07ab3474463bcec22c12219c97972",
+  "edition": 1071,
+  "date": 1654146750548,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

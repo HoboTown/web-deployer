@@ -1,0 +1,36 @@
+{
+  "dna": "e0604445eeb73415b18a0516f5063e9b99710eb78d9937559cd9683ad24adddd",
+  "name": "hobotown #4758",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4758.png",
+  "imageHash": "21c5604d72cb4ff739fc5ef4c43ef4125b136f35fe6a1c5209daaff31752933b",
+  "edition": 4758,
+  "date": 1654149627198,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

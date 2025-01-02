@@ -1,0 +1,32 @@
+{
+  "dna": "5b319c800c272f8d364c549bc88c8762f33c7a99029453f72d965683984c49eb",
+  "name": "hobotown #4954",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4954.png",
+  "imageHash": "092a470d2394cce9d8aae9fd4055993197652987da4eae84f5681027331deff1",
+  "edition": 4954,
+  "date": 1654149758620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

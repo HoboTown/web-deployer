@@ -1,0 +1,32 @@
+{
+  "dna": "e4809722f77dd77132f92e7ca6be702dfad66a863fd20118c1bf30bf8a78693c",
+  "name": "hobotown #1758",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1758.png",
+  "imageHash": "f21bc8393d0b9415b77e8dab6de3f53662979ce81b92c87b14612d712d7526db",
+  "edition": 1758,
+  "date": 1654147400509,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

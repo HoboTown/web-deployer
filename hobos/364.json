@@ -1,0 +1,36 @@
+{
+  "dna": "31806a06f142bf51d3382c591e6214be8421d08e657cae488575be6b5eaa2d91",
+  "name": "hobotown #364",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/364.png",
+  "imageHash": "915dbab7cc7a242dd7d7aea15e1734e577ebed6f30513792fbffc49bad8221f1",
+  "edition": 364,
+  "date": 1654146153550,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

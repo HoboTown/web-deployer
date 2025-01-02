@@ -1,0 +1,32 @@
+{
+  "dna": "c74c80dba6280ba3632f395f28801866daa00d85b17ab06314d3fe41e4d3d524",
+  "name": "hobotown #619",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/619.png",
+  "imageHash": "ce61677c40cabff2123e9892d422153856f5524f026bdc3219a5787a04baecf1",
+  "edition": 619,
+  "date": 1654146389007,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

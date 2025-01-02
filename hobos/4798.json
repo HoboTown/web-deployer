@@ -1,0 +1,32 @@
+{
+  "dna": "43a0b6a0b2fb2fe7ae8ee05ef7a26bccbd40a825fc679064ed47bc864151bd61",
+  "name": "hobotown #4798",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4798.png",
+  "imageHash": "6bf9aef153073a433503c49eeebc929548ac15f7e2bb42540f932cb79c2dbe6b",
+  "edition": 4798,
+  "date": 1654149653524,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

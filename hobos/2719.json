@@ -1,0 +1,32 @@
+{
+  "dna": "4573833137c316dd825612c88a6291c25b8cd2292a12cefda581e5aa4923504c",
+  "name": "hobotown #2719",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2719.png",
+  "imageHash": "32e53867eb38b5393f675e9340cdb94e76e4f772202faf2b7842a119b9bdd2d8",
+  "edition": 2719,
+  "date": 1654148330700,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "de21aa973f07d7bbceddaabd462e8a05d93b0a37f69821735b356dbc877b02eb",
+  "name": "hobotown #4028",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4028.png",
+  "imageHash": "c93786cdfe0559aeae88e03b8237e3f7eba3e3b99948773a5220874f66bf58d6",
+  "edition": 4028,
+  "date": 1654149181924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blue Headband"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

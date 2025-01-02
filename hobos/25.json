@@ -1,0 +1,32 @@
+{
+  "dna": "060ea4ca9cbfa9cb345337b660854ea8e844f9ea7841e9b0c06be947458a730e",
+  "name": "hobotown #25",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/25.png",
+  "imageHash": "ca89baeab2d420251c87fb86aa2f9342dd828043a8266c7d1218a1512fc89f1e",
+  "edition": 25,
+  "date": 1654145805805,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

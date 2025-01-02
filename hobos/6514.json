@@ -1,0 +1,32 @@
+{
+  "dna": "e38569fd490fbd2cf192afc8c57bdbf33d95091e8b2bd5030d0179eef8061a70",
+  "name": "hobotown #6514",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6514.png",
+  "imageHash": "9992d41975cd361e0e24ed15abc81024b97e8cbd76d37193eec8e99f12de23f6",
+  "edition": 6514,
+  "date": 1654150614045,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

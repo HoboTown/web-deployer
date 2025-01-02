@@ -1,0 +1,32 @@
+{
+  "dna": "1b202ee01154cc8d57b8139155fa17d77002333f286b9d1b42147625f7fb30cc",
+  "name": "hobotown #1139",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1139.png",
+  "imageHash": "0760b6be458f9840bb74a30872061fa4cc75788e171bcaf3b7260bfab36e6196",
+  "edition": 1139,
+  "date": 1654146827159,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Popped"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

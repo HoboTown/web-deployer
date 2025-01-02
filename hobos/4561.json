@@ -1,0 +1,32 @@
+{
+  "dna": "ae06f84a3337087b67494a0d06535e9eb91837d5215b5a139a185bd9beb804fa",
+  "name": "hobotown #4561",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4561.png",
+  "imageHash": "cce2f94fadb194890383b8abc4993b7943d3d3227aa50f032b2b0872073d14e0",
+  "edition": 4561,
+  "date": 1654149512255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Fast Food Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

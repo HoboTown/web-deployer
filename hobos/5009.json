@@ -1,0 +1,36 @@
+{
+  "dna": "8fdc49e3a96494e48b27af43c372b98a7a609a2e8867170f41370f0211fe67a2",
+  "name": "hobotown #5009",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5009.png",
+  "imageHash": "635eba37c61416b35449c3c67b3b72e50520b002d4117d93f9d1c6ad934a9719",
+  "edition": 5009,
+  "date": 1654149794110,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

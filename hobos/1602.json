@@ -1,0 +1,32 @@
+{
+  "dna": "14ffb3fdf5342526a9f418bb68102c5cf6b43b5af819053774ebb62fe304cc3d",
+  "name": "hobotown #1602",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1602.png",
+  "imageHash": "cf547c0200a6e468dbcc482ea45284ad1dcbfb928dbf224b03baff9091c48090",
+  "edition": 1602,
+  "date": 1654147243751,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

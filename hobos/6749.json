@@ -1,0 +1,32 @@
+{
+  "dna": "c1e984eb325391872c0623bacd8dae317e72264e78a8c90dae4b38822d2c7fec",
+  "name": "hobotown #6749",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6749.png",
+  "imageHash": "80b4b2603e20bdecd5566dcaf1d849b622136c2c2ff8687cf8196b55d4c6a260",
+  "edition": 6749,
+  "date": 1654150741529,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

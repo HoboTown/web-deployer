@@ -1,0 +1,32 @@
+{
+  "dna": "79d6fc140a0695de4787cee6d075f8a2f66b923579ac7a620f1fea048c2ac4ad",
+  "name": "hobotown #4056",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4056.png",
+  "imageHash": "e87cd83716efc7e572cfb56d9d94441a32561511361fd7fbe365e9d12e422695",
+  "edition": 4056,
+  "date": 1654149197919,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

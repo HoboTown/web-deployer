@@ -1,0 +1,32 @@
+{
+  "dna": "f80decb2f6ee8018e999d7fb974ffdda7ac4513ebfdf6354383afe57c7255ee0",
+  "name": "hobotown #2503",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2503.png",
+  "imageHash": "461e695107cfffb911adb6f97458e1aea8c60b14aa92da805ff457b2337146c6",
+  "edition": 2503,
+  "date": 1654148178748,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

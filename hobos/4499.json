@@ -1,0 +1,36 @@
+{
+  "dna": "ff07c77042a5f71341b59811dfa081e72d5e3841a0cc17fc58a3a78a1b5c09a9",
+  "name": "hobotown #4499",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4499.png",
+  "imageHash": "c1928722f83dc734bcad0dedaa3eda49683b558f54e3b133e45565661888ac72",
+  "edition": 4499,
+  "date": 1654149476820,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "c624f860a9631838cb6ddb4e23ab0baeca16f11bc6c808b22fee3df1e8080470",
+  "name": "hobotown #96",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/96.png",
+  "imageHash": "a7136b596ac1dfdd452ac59ed010a1bc49f2c0e1e4577c09ca4203737b674039",
+  "edition": 96,
+  "date": 1654145866989,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

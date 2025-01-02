@@ -1,0 +1,32 @@
+{
+  "dna": "3214c2edf48c237bf5581cbcd4a480cbd8d4c5300a936a26f63b1f0ac4280f31",
+  "name": "hobotown #510",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/510.png",
+  "imageHash": "b506884397c504631dc62b1e64fe81d9bff3ed2557ef0e043d545e13c4f75e8a",
+  "edition": 510,
+  "date": 1654146300188,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

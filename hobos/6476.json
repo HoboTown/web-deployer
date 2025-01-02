@@ -1,0 +1,32 @@
+{
+  "dna": "f1be4a92d57d0c37cff082e87c0818a9c9dbbf91f9c6bf9d7ec4b2088d78e3f4",
+  "name": "hobotown #6476",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6476.png",
+  "imageHash": "790143e50e31d5fda63e495599dadcdb0dbfca4ee034a2ee5e61a748315a52d4",
+  "edition": 6476,
+  "date": 1654150593200,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Tooth Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

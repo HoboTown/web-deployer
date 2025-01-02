@@ -1,0 +1,36 @@
+{
+  "dna": "a38896a485e09384dd9e1c4def8f08b22570a9f2881c9e55611ecb7c0b2e1b18",
+  "name": "hobotown #2328",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2328.png",
+  "imageHash": "fe680581dfdc437761a129024191bdb1963f64a15a4f7f391c0e156d053e92c3",
+  "edition": 2328,
+  "date": 1654148013186,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

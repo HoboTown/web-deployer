@@ -1,0 +1,32 @@
+{
+  "dna": "d6c35e8768ab47dbcdd0f30130feb4017dfc5bad4cb999ba03bff2778bc53057",
+  "name": "hobotown #2196",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2196.png",
+  "imageHash": "a399bf72ea28029263fb56acc3ae944405b72125ef82646cda33b7a978dd765f",
+  "edition": 2196,
+  "date": 1654147867583,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

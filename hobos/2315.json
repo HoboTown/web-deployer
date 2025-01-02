@@ -1,0 +1,32 @@
+{
+  "dna": "9efc435f7735b57e7ab2c145b7426961f8c2571b519f798db1e2d5ea7e07dda9",
+  "name": "hobotown #2315",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2315.png",
+  "imageHash": "8774b25d984deb95e80cb801740fc105ca5f4f333e70777b545139d8f3b3f1fd",
+  "edition": 2315,
+  "date": 1654148000979,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

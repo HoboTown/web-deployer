@@ -1,0 +1,36 @@
+{
+  "dna": "55217e5fb008569efc569783021e89cab457abf89bd38b5635d16db102a149b7",
+  "name": "hobotown #5527",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5527.png",
+  "imageHash": "57579e1ac9abc5040f57e2ca2196dea222058d9ae989ea8b0196d2d3c4b67107",
+  "edition": 5527,
+  "date": 1654150076939,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

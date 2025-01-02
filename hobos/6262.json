@@ -1,0 +1,32 @@
+{
+  "dna": "0ef4fbe7d44cd071e9d878a706d6898cb44ea9b8bbe123afda03c5ae37b97ac7",
+  "name": "hobotown #6262",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6262.png",
+  "imageHash": "5046bcd5a1ca72fe2fce832201b16189a46ae09130b09a3e2b4b63f39d8d50d7",
+  "edition": 6262,
+  "date": 1654150458375,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

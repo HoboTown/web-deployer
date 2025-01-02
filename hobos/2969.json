@@ -1,0 +1,32 @@
+{
+  "dna": "81201a5a1dec408f60a9c7e144711e11637084312c97d8c4ffb13fe587531828",
+  "name": "hobotown #2969",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2969.png",
+  "imageHash": "744804fd105ad6d8623221c6693af7b135ca277673f9838699805a775435944c",
+  "edition": 2969,
+  "date": 1654148514225,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

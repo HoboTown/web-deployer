@@ -1,0 +1,32 @@
+{
+  "dna": "26280cb6cab741b270045320b319b62b4e271953572739bb1761a41aa0013e6c",
+  "name": "hobotown #4749",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4749.png",
+  "imageHash": "672d01e318c2767db22cc49007782258c32c31f694436a44dec920262ae7bf13",
+  "edition": 4749,
+  "date": 1654149621483,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

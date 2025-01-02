@@ -1,0 +1,32 @@
+{
+  "dna": "830b58299defdd76111db2dead088a77975db497863787fdc668868ee20a0a6f",
+  "name": "hobotown #303",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/303.png",
+  "imageHash": "c71e2b78e299e282466199a35016e1eaa10f110a0757af60b5886e66857d471f",
+  "edition": 303,
+  "date": 1654146099256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

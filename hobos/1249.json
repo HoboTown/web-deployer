@@ -1,0 +1,32 @@
+{
+  "dna": "4367481a23b5c4680aab1f6e12f4be3bcbad3e0a1dad08a61026993552dffb4b",
+  "name": "hobotown #1249",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1249.png",
+  "imageHash": "a3490c24619d6392f66e1658d85ffc23d9b271d8d1e0c2d6e0ddae33d144247d",
+  "edition": 1249,
+  "date": 1654146929679,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

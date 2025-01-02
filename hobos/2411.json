@@ -1,0 +1,32 @@
+{
+  "dna": "5d764b790676d509b10fa7f16f962b1c319c1624f64200c99e6744af7b260431",
+  "name": "hobotown #2411",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2411.png",
+  "imageHash": "3e3b7afea5ee6e442d91913f3e2d633583281fc7f3e925f173a2d2db4b788157",
+  "edition": 2411,
+  "date": 1654148107423,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

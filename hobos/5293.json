@@ -1,0 +1,28 @@
+{
+  "dna": "96cc02d3a6903bee600b01445d5e1c4b4019eabf80ddecdd7c4d1f1ed4bd935a",
+  "name": "hobotown #5293",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5293.png",
+  "imageHash": "25d069175502e1b8c4776ac57e3cf2cef16fd8beccfd4708e2f2b9f4a366ec21",
+  "edition": 5293,
+  "date": 1654149965897,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

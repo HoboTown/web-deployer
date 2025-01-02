@@ -1,0 +1,32 @@
+{
+  "dna": "bc3b1f3ab1dcb48be809f0069e32f4584edcea34345b8afcbab1f470ffb8d327",
+  "name": "hobotown #3086",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3086.png",
+  "imageHash": "040b41dfc421fd5c7333b96458fcec4b2e363688d9692f92022fda80d35a2088",
+  "edition": 3086,
+  "date": 1654148595439,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

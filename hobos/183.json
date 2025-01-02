@@ -1,0 +1,36 @@
+{
+  "dna": "aaf9d245bc6b1961e23d1aef5c49f1e306cbf03247df7db8aaf4bbfd35f3a2b7",
+  "name": "hobotown #183",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/183.png",
+  "imageHash": "4ad41dcf5d62aa28065d6da2b5ac800b9b1f929ce87af1daa62bab130998c597",
+  "edition": 183,
+  "date": 1654145952526,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

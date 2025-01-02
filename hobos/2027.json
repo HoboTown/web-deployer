@@ -1,0 +1,32 @@
+{
+  "dna": "207be50fc39e737543982a0bf3a3eca285f8b0d47ad823ac71b35a5ad52e0a0c",
+  "name": "hobotown #2027",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2027.png",
+  "imageHash": "f6133bd7a67613d7795f17c90bf379fb14963d3295b92861b527f32976ba4d3e",
+  "edition": 2027,
+  "date": 1654147668073,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "15518b0ad1b949d844511a898bfb1e854cb7085ddba475fd3fc067cc67b7c03f",
+  "name": "hobotown #5434",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5434.png",
+  "imageHash": "cab63604b3845555437abe377d5df82c38d5d2cf4748c032932270dbf683dafc",
+  "edition": 5434,
+  "date": 1654150030034,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

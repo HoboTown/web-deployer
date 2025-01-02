@@ -1,0 +1,32 @@
+{
+  "dna": "2f3002b4023ecadbaa92c220a7eb6903372738051877e5a048cd68a33d87db18",
+  "name": "hobotown #869",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/869.png",
+  "imageHash": "2ebce8460a0f387fdc2ab6251eebd811fabc1140d35ef295cc4b257108985378",
+  "edition": 869,
+  "date": 1654146589218,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "80fdd0dd86b612d5f68bf629bf24871cd3652ff2b3896c88fc03758ab503d061",
+  "name": "hobotown #5739",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5739.png",
+  "imageHash": "6e435ba481313da0205d0ea78ff6beda27b3d7134bc28b504bb7978d6c228f15",
+  "edition": 5739,
+  "date": 1654150181386,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

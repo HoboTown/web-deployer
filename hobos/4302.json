@@ -1,0 +1,36 @@
+{
+  "dna": "bc95b8eb831764a53cde557f9d8173947bb6c8a15708c53fcbcdbdb77efb51e6",
+  "name": "hobotown #4302",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4302.png",
+  "imageHash": "37ce19687e585c253f923c28dd9c6924835cd41837aa207174271013b9bd56b5",
+  "edition": 4302,
+  "date": 1654149342758,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

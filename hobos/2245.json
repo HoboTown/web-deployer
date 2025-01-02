@@ -1,0 +1,32 @@
+{
+  "dna": "c5322842bed2ad58e0170fa385ea0eeedee5992a0489b723764324043f79dcbd",
+  "name": "hobotown #2245",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2245.png",
+  "imageHash": "39ef0147ae3f5f0695e53af018ef01130b544f662a8d97e0a11bf3797d53214f",
+  "edition": 2245,
+  "date": 1654147926133,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "d4125f76356215d6876abea5ca02643804a12cbc38e2dd45774abb6d620e0250",
+  "name": "hobotown #888",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/888.png",
+  "imageHash": "af3aec127698e2990d8d1f5a3d32ad2afa3d98629141e9e1e94e2fb4eff87721",
+  "edition": 888,
+  "date": 1654146603776,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

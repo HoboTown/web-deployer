@@ -1,0 +1,32 @@
+{
+  "dna": "82502302b51defc844c3fb44238ead383f4544fc22b2091b394fa7e923c17805",
+  "name": "hobotown #6868",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6868.png",
+  "imageHash": "b9774f3943013b0dec5f3d02528c2f4549fc344d41f209f16953945a126134c4",
+  "edition": 6868,
+  "date": 1654150803345,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "679331ad467b4f722863b9ac41fbb147eeb06062ee5e94e4cb3415ea4f256088",
+  "name": "hobotown #1815",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1815.png",
+  "imageHash": "38efd333e873c38356005882467d5a59e26925e85a290722e943070054cf1872",
+  "edition": 1815,
+  "date": 1654147457265,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

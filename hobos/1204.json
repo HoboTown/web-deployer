@@ -1,0 +1,36 @@
+{
+  "dna": "949c818087bef8724e6d9cad8ef66f97ee20b8f21256d1af2df6c0aa76748b13",
+  "name": "hobotown #1204",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1204.png",
+  "imageHash": "ba7bd215c4f5096e45090075727e6dccc3b7876920abd0bfd6c15f889f3064cf",
+  "edition": 1204,
+  "date": 1654146891714,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

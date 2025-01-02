@@ -1,0 +1,32 @@
+{
+  "dna": "e90f527c4c272bfb331968770aa8a0caa080a904d64a87f047a9ffdcade12158",
+  "name": "hobotown #2091",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2091.png",
+  "imageHash": "6610513d3925455c7612789e93445e9aa28884e8120f47bc6e9c864b14da3bce",
+  "edition": 2091,
+  "date": 1654147734870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Tattooed Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Little Hairs"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

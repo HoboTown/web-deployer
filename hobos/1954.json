@@ -1,0 +1,36 @@
+{
+  "dna": "66d0e50e3a1bcd7cc4234d46fdee3952150dffafc7339eb01812a1587259474b",
+  "name": "hobotown #1954",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1954.png",
+  "imageHash": "5f95588a5580b56002c192215369d4172b392c5a9a659a69498440174b431fc3",
+  "edition": 1954,
+  "date": 1654147595870,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Turd"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

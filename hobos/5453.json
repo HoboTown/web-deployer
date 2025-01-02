@@ -1,0 +1,32 @@
+{
+  "dna": "47c98d979f16c30d5224109c880351a68b0c364b95db19d8f5b1a04129327b92",
+  "name": "hobotown #5453",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5453.png",
+  "imageHash": "d39346b8b3eaa2d7f972d14698bdcf36400a367550522fb64fd8198ac86a927d",
+  "edition": 5453,
+  "date": 1654150038744,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Curly Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

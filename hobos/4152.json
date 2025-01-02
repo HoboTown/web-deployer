@@ -1,0 +1,32 @@
+{
+  "dna": "eda71019413ee7095fa0df04aad85c6669095ec17ba995c3cc79d4829bb332cd",
+  "name": "hobotown #4152",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4152.png",
+  "imageHash": "34202399fb7014440b93bd4eab777d7566a87a744310c496af868856efc936cc",
+  "edition": 4152,
+  "date": 1654149252308,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

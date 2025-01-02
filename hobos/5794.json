@@ -1,0 +1,32 @@
+{
+  "dna": "460ddbf66c33989121ad2233ad7acc1ec47601abeb5c0721051dcb13f2ca45db",
+  "name": "hobotown #5794",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5794.png",
+  "imageHash": "44c81e436e9e49420d478a7150cffc10af17d24df8f755d136d1b1a5eb866572",
+  "edition": 5794,
+  "date": 1654150207998,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

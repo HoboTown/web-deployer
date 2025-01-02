@@ -1,0 +1,32 @@
+{
+  "dna": "da7e477bd2f583ea9928b3e204989b5bd05f5ce634651fb73ab576aa8f972ada",
+  "name": "hobotown #5831",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5831.png",
+  "imageHash": "da6e25757cbb82695dd0393d8da792652d5c046800972c140f4210fa9148250d",
+  "edition": 5831,
+  "date": 1654150224988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Light Grey Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

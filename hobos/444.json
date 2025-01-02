@@ -1,0 +1,32 @@
+{
+  "dna": "dcebd84e0fb60525802525956181b3ede128bbe635fe8638ce4a81ee8a419ff5",
+  "name": "hobotown #444",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/444.png",
+  "imageHash": "7430aa5ffaa5283c483cff06db7d922732492ba4a163a5c26476814c9fb294ae",
+  "edition": 444,
+  "date": 1654146237288,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

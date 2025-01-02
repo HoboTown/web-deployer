@@ -1,0 +1,32 @@
+{
+  "dna": "d0c9dcc380fb738701834c4197ea234ba91bece88ac92237726fec0ced17c9fc",
+  "name": "hobotown #3506",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3506.png",
+  "imageHash": "0d7ff5b5092363d357cace14df3436cbb8c6e7a7aad90043c937d360fc19e0fd",
+  "edition": 3506,
+  "date": 1654148869175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Diseased"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bummed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

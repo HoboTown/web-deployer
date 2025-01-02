@@ -1,0 +1,32 @@
+{
+  "dna": "c67f99c46c16e2727bae909162175dd0038deee2d69ebc3f1429e2b0446e832c",
+  "name": "hobotown #503",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/503.png",
+  "imageHash": "8a73c7996e83152132d793c2d4b82fd5c822639e89a2cf3a71b13ac9ba2601ff",
+  "edition": 503,
+  "date": 1654146293687,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Purple Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

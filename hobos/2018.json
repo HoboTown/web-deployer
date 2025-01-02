@@ -1,0 +1,32 @@
+{
+  "dna": "f0e4c28e92a870688bf55554dda6e7d560516bd830caa3eeb29889989cfa236c",
+  "name": "hobotown #2018",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2018.png",
+  "imageHash": "1131ccbe5b4f705690cee270bcae3bc7cd1adec0824ecf7088c2ea33a030dc8f",
+  "edition": 2018,
+  "date": 1654147660122,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "88f37a3784f63f68db44f40c0fc22e03a41640b7c66994e5c76a8242d37b7fb5",
+  "name": "hobotown #2268",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2268.png",
+  "imageHash": "b083e1ba0c8cdbcaca3d74ad8de0094fd4c07ca3b3379452c91580a8a57fe5f1",
+  "edition": 2268,
+  "date": 1654147952481,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "cde00d2f5233b8c3b02771068126cb4622255083548cff1cb4f86e8753842375",
+  "name": "hobotown #4659",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4659.png",
+  "imageHash": "8ee0400d3cafda500027f6ad4fea7b704d2ebaaef31370cb50fd0a6880f6cdc4",
+  "edition": 4659,
+  "date": 1654149568675,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Triplets"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

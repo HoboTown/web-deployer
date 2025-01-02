@@ -1,0 +1,32 @@
+{
+  "dna": "7e770566b992e74eb9c8c30459377eb6a4c111d73f0f5b44fb51754d55bd8ed6",
+  "name": "hobotown #4496",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4496.png",
+  "imageHash": "1176a8f75428d0179519062fea5e2f439bf285fb10325be8b8f84e639b283f4c",
+  "edition": 4496,
+  "date": 1654149475106,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Sad"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

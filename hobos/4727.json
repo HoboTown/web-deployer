@@ -1,0 +1,32 @@
+{
+  "dna": "62101ec3799d06ce72e63d1bb7e0dae064838ccbb0f5da57734e0a397959e96c",
+  "name": "hobotown #4727",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4727.png",
+  "imageHash": "3592ccbf31528cfca86eb4f66ffe53d87166d25e82f28a0d19c85770f53ab8cf",
+  "edition": 4727,
+  "date": 1654149608209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

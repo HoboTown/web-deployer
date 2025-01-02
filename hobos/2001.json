@@ -1,0 +1,32 @@
+{
+  "dna": "a9410ec5e3a2433223c5c305315dc08ea2e2458c3374162918b020d131d4b893",
+  "name": "hobotown #2001",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2001.png",
+  "imageHash": "08d420f5ddb3944ff0c6260dae827c3245e09d008360cf65d02250693393cfbb",
+  "edition": 2001,
+  "date": 1654147645044,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

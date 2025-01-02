@@ -1,0 +1,32 @@
+{
+  "dna": "a08f87f0e264a0687b75e6b7eddb574acebdb1cfc75e2473567826f8a2872b67",
+  "name": "hobotown #2712",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2712.png",
+  "imageHash": "bd039702e9cf36b905da03c6f15643394d21db24d5451551c0c3e9ace439900b",
+  "edition": 2712,
+  "date": 1654148325625,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

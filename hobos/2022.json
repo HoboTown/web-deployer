@@ -1,0 +1,36 @@
+{
+  "dna": "186143a7feb8def92388fbf9fa7b4ee757c07ed5a4c1487d06b357a1ebde441e",
+  "name": "hobotown #2022",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2022.png",
+  "imageHash": "275646b0e3facc1425eb4ce7aecb0d63faf1800ab3f1e46614647d990ba79236",
+  "edition": 2022,
+  "date": 1654147663664,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

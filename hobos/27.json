@@ -1,0 +1,36 @@
+{
+  "dna": "5b750e3fd06ac2cf70a3bb44bff6366b643a47878c1f55574185c0c2be002075",
+  "name": "hobotown #27",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/27.png",
+  "imageHash": "7dbf0832e3da1722e2bc269390d12d532390611c7dd2db34b21ca2a97c18c0da",
+  "edition": 27,
+  "date": 1654145807622,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

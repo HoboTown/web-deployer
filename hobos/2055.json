@@ -1,0 +1,32 @@
+{
+  "dna": "e0f22eec64865a2ca82ecda118408440943bfd929950cd2246a3856e6cdb1737",
+  "name": "hobotown #2055",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2055.png",
+  "imageHash": "b34b7693a863e3ae72a366923053df68c3ca0622cf02ffadba45013cbbd39521",
+  "edition": 2055,
+  "date": 1654147698995,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Snobby"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

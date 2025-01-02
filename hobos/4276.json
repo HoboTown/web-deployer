@@ -1,0 +1,36 @@
+{
+  "dna": "65f43bf17854c68fff80fa5a7696b1bf882d14000681ab69eac5bf1a02af9468",
+  "name": "hobotown #4276",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4276.png",
+  "imageHash": "348d50216ec526ebbba61f32a97ac24725a3f67a770c24fe241f50e72f28b87d",
+  "edition": 4276,
+  "date": 1654149327953,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pissed Off"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

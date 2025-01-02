@@ -1,0 +1,32 @@
+{
+  "dna": "5346f7ce2059a65f7ba8e8a86e505f55795a06541392af70f25d7ef6dae8e252",
+  "name": "hobotown #4914",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4914.png",
+  "imageHash": "8aa21ae4220d46d9a563d8f9f99779ac428f71f3cf498a7d1fbf87b55fccbf68",
+  "edition": 4914,
+  "date": 1654149730054,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pitchfork"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

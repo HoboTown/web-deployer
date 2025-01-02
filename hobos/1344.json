@@ -1,0 +1,32 @@
+{
+  "dna": "00bcd41885f548657551280883b62d3303efbcf13aab42d5a540efed5df4e5ee",
+  "name": "hobotown #1344",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1344.png",
+  "imageHash": "d2189ba9a640f1918ce563f2fdb0c24a9d1a25ada948a32b6c550b54c2e8c458",
+  "edition": 1344,
+  "date": 1654147023270,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

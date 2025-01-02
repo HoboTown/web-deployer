@@ -1,0 +1,32 @@
+{
+  "dna": "cb797ecd818e4054c215b7e9579865a8ea5474e4ec80ed123c9dee9eebfe7d7b",
+  "name": "hobotown #1942",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1942.png",
+  "imageHash": "767111aa957adaaa95a3aee03c88c14017e110765912c4925ac611105394a827",
+  "edition": 1942,
+  "date": 1654147580522,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Down"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

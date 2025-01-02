@@ -1,0 +1,36 @@
+{
+  "dna": "14bb4142feadacb9d246da169af0cb7f0ec2c9f2345f55c9af5bfdbb46f66e37",
+  "name": "hobotown #6053",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6053.png",
+  "imageHash": "159b84363eb9c3c42f70e0389d53cb95d8f7fbec019d481e16ee71eb5cf3287f",
+  "edition": 6053,
+  "date": 1654150331817,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kinda Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

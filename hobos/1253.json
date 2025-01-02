@@ -1,0 +1,32 @@
+{
+  "dna": "04f4e5565cdedf13dea6c6d3e0305ad13e19ededb2ec0969f93536b3ab8a8558",
+  "name": "hobotown #1253",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1253.png",
+  "imageHash": "a513506416b4b5612a5d5548bc5a1c58dc635572faafc8eb2ba58f459e6929de",
+  "edition": 1253,
+  "date": 1654146933660,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

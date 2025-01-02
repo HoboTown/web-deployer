@@ -1,0 +1,32 @@
+{
+  "dna": "8128d94a25be198543b40d2bae3368bed5ea2508cf3c177ca7684545f053ccf4",
+  "name": "hobotown #1677",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1677.png",
+  "imageHash": "0f09217471b7bc314d42f6b36a1b699311d24f6cf44ab71c6a2a428bed31dfc3",
+  "edition": 1677,
+  "date": 1654147320557,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

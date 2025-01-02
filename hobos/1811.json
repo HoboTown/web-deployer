@@ -1,0 +1,32 @@
+{
+  "dna": "860b17fa87c1dbba0f0824170ce9315f8e3208ab390a1b3f693cc06250c039d4",
+  "name": "hobotown #1811",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1811.png",
+  "imageHash": "930645f40f8c354fd9bde6effdd98f6568484560ed413cd123b41ea158411e91",
+  "edition": 1811,
+  "date": 1654147453603,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

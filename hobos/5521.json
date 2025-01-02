@@ -1,0 +1,36 @@
+{
+  "dna": "fb50447e8bf5d593b928bffd2f2aa39da575538ad7220d039600891eea88fdc7",
+  "name": "hobotown #5521",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5521.png",
+  "imageHash": "419d2b02bacb17eab7dfc9e767291fac341dcc2608691d96655c0dba2eb51d1c",
+  "edition": 5521,
+  "date": 1654150073992,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Olive Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

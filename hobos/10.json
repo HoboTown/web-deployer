@@ -1,0 +1,36 @@
+{
+  "dna": "5a6cddb59583c400c9448021d4ba25fa660c7f00e5bcf4fb27cdc29151c40afd",
+  "name": "hobotown #10",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/10.png",
+  "imageHash": "eaaed06e76b0fbbf8282d7f19d7f8de83954c4e4837276c83c15e3e32464d778",
+  "edition": 10,
+  "date": 1654145791951,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

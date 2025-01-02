@@ -1,0 +1,32 @@
+{
+  "dna": "61b021dbe6a47e30014e1b8b2bd6b72ca34a0628b0b4269dbdf0e0ae4e2e789c",
+  "name": "hobotown #4022",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4022.png",
+  "imageHash": "4a3d555d65d70b27a2e9975b27d4c494ff8f51de05205e337e2954002b3e214b",
+  "edition": 4022,
+  "date": 1654149178529,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "868a903478580ac98dab97c9dbb6ca98d50111aa71c0df3ef229a6c79e51f67e",
+  "name": "hobotown #2619",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2619.png",
+  "imageHash": "9d1b3b6c3dd3887309a10b1bfe2cece237b8b6c00c4ec7380b0c430d088f7700",
+  "edition": 2619,
+  "date": 1654148262982,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "e9b364a12ef3b734e24fa76a963435d1ef4ff182fd7baa6623bc1aef6fb72dbc",
+  "name": "hobotown #1272",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1272.png",
+  "imageHash": "b5d0c00a93f396d0d638ef6f9f2dc19bbef453a6ff3090f330db5faa4a8aa125",
+  "edition": 1272,
+  "date": 1654146952646,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Luna Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

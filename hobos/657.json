@@ -1,0 +1,32 @@
+{
+  "dna": "3deea235916fa091797b9b3472c3d44501bf894c624acf668f7c084475a9aa6e",
+  "name": "hobotown #657",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/657.png",
+  "imageHash": "df114f7a512f60c32c94e717bf109985e5b51b11a94be95c4e6ab3a676978a0e",
+  "edition": 657,
+  "date": 1654146427984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Turtleneck"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "663aa1cd2ec06c2d9d499fe77d42ef387fe926a48a2bc01055ca159b6857d4b9",
+  "name": "hobotown #5299",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5299.png",
+  "imageHash": "c295aed1b10a72835ba2e1e3b1d174af02be82af922562f55d8c9cdbdc9c3906",
+  "edition": 5299,
+  "date": 1654149968683,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

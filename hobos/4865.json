@@ -1,0 +1,32 @@
+{
+  "dna": "a7081b7e3220d019aa503450537af7989fafc8fed5181685a2305155db41a633",
+  "name": "hobotown #4865",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4865.png",
+  "imageHash": "fdefef03442dcce4bd4e9905a848df691a393c9ebb95ffa7f2f9c9faa528788b",
+  "edition": 4865,
+  "date": 1654149697938,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

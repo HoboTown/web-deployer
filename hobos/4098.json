@@ -1,0 +1,36 @@
+{
+  "dna": "ebe41437d1e80699b20abecb981d0d3ee928ec6bb50426340889304864aef33b",
+  "name": "hobotown #4098",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4098.png",
+  "imageHash": "d17f6807bfe26cd558d76a21acbc172a715abdfdae3cd0560b05c5d8c4aa93b5",
+  "edition": 4098,
+  "date": 1654149221050,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Super Happy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

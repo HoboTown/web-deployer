@@ -1,0 +1,32 @@
+{
+  "dna": "0b1f2aeb58196efdb543c765ce22252bd41e0e87038a8276cf390eb233f558c7",
+  "name": "hobotown #3359",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3359.png",
+  "imageHash": "106d5bfbd6335f0e7a6d522c477cb9b68144174f057bde3ec768191611bdda08",
+  "edition": 3359,
+  "date": 1654148778036,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Maroon Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

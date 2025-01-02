@@ -1,0 +1,32 @@
+{
+  "dna": "b3fc0da50ee41b8c1a25634653971a6855169b173ec6f5cb9309d23445b4a3c2",
+  "name": "hobotown #2902",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2902.png",
+  "imageHash": "fc45199de32eec4a90dcdccd11a799a42c08f82687e893de24159fb69820300e",
+  "edition": 2902,
+  "date": 1654148467609,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wonky"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "c0f29de24eb8d340d7aa8ee35fa63e4e8820849bacb551bd68719ed02f80f08a",
+  "name": "hobotown #149",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/149.png",
+  "imageHash": "f6bea3c0b1f040b1e81e636f2170f0187e19e3f4c9ead11c9dad20da97ca5ed9",
+  "edition": 149,
+  "date": 1654145917227,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,36 @@
+{
+  "dna": "f305c93034c4cb58d3044f9adf64c61c34bdcc4a793958e35aaa4041b2fa2f4f",
+  "name": "hobotown #1663",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1663.png",
+  "imageHash": "02fb9a728db9608ce6cd0e18236866e66c1086ca6a2aa14b9451add64dc7cee6",
+  "edition": 1663,
+  "date": 1654147304975,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

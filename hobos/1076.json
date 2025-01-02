@@ -1,0 +1,32 @@
+{
+  "dna": "764d7a1d2653b044556bbdb869dcc621ddb4726b9ee61c7dc69aa04cec97ebbe",
+  "name": "hobotown #1076",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1076.png",
+  "imageHash": "c05cfbcff9820d15a47cb36c7c923e87bb437a21ce91506b25afe75516ba3a14",
+  "edition": 1076,
+  "date": 1654146755770,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

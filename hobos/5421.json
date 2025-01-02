@@ -1,0 +1,32 @@
+{
+  "dna": "a79240e5b4f8e14964998a5efb198ab7765db979d00045cb12e6a9b8c008159b",
+  "name": "hobotown #5421",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5421.png",
+  "imageHash": "78a9d04da669a8b0b1f8fac3e8d527a7c6366c7f785bbae9b85dee06b9f20bb8",
+  "edition": 5421,
+  "date": 1654150024135,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Backpack"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "6699be5f26d1eb99971cea3cdda865f2a2ae60c231456df9ebfc341ae1841b68",
+  "name": "hobotown #6207",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6207.png",
+  "imageHash": "0b3ff591965e2bb98cd304db3165dcb9d724cd1d406e84b9927a874d847e4962",
+  "edition": 6207,
+  "date": 1654150429346,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

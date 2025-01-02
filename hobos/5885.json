@@ -1,0 +1,32 @@
+{
+  "dna": "e06e3960b67fa1d16e4ac8608b51dcbbd2d906e8569e3a7932d33fcd5eac909b",
+  "name": "hobotown #5885",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5885.png",
+  "imageHash": "1fddd9fa9129cdf85082b3e6f945897e0a6fb0749a3658c4eaf52f4f89ec0949",
+  "edition": 5885,
+  "date": 1654150249224,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

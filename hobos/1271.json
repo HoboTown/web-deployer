@@ -1,0 +1,32 @@
+{
+  "dna": "db07b40472d77d3866f9112f5d4d8f22af82f224580c7e5b0d93f055d4175e10",
+  "name": "hobotown #1271",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1271.png",
+  "imageHash": "fbbb38b06fc0e2d116a1dc87f80109ff7a1f35a9c1722613253184d2a7f43b5b",
+  "edition": 1271,
+  "date": 1654146951731,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

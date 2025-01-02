@@ -1,0 +1,32 @@
+{
+  "dna": "c4d98635f2677b6ca7eff7282d5d771a31aa74960fb24a827d6c0e43469764ff",
+  "name": "hobotown #261",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/261.png",
+  "imageHash": "8323035c52326049a2657f2fbea8ae6ed870e9c65144658d18615fca15e1d4e4",
+  "edition": 261,
+  "date": 1654146041777,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

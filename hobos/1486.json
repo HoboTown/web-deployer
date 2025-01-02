@@ -1,0 +1,32 @@
+{
+  "dna": "d2e43885a6df72b8fbea1be98ab585ca4dd2e228d3827d692ba2e744e7672eb6",
+  "name": "hobotown #1486",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1486.png",
+  "imageHash": "93fd26c427e57c45f0b6ff41a8567d06f6ca7a5e632d732a5d07575f5002b22f",
+  "edition": 1486,
+  "date": 1654147142838,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

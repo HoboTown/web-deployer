@@ -1,0 +1,32 @@
+{
+  "dna": "503a026294ea9fd052d0b19257db1818a1e1784d1642313e353a8afe8329574f",
+  "name": "hobotown #5055",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5055.png",
+  "imageHash": "ac808323e5c50fc1a5a5df6eb45464b48f95f0bccd418422c9afa55f5acac9e8",
+  "edition": 5055,
+  "date": 1654149824404,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Goatee"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

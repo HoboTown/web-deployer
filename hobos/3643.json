@@ -1,0 +1,36 @@
+{
+  "dna": "b4e5656793c7babeb9ab581cd28957ee75076c1deafe340b915a64117aafe919",
+  "name": "hobotown #3643",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3643.png",
+  "imageHash": "bc8a9a788dc41d51e8c8480d35da0823bd8aad9692603b13140c68da102d0ceb",
+  "edition": 3643,
+  "date": 1654148951175,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

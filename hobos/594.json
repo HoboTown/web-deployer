@@ -1,0 +1,36 @@
+{
+  "dna": "e6fe32d62e7146efc64bdd41c18d35124b5d16eb335d3fbd7f9ae02c035f15f0",
+  "name": "hobotown #594",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/594.png",
+  "imageHash": "1003363ddf5c745317016f867b675ac30ca18436ba45edc9707e6d58e0e38b39",
+  "edition": 594,
+  "date": 1654146364081,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Black Hoops"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

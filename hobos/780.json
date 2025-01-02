@@ -1,0 +1,32 @@
+{
+  "dna": "b9aecda6cc36e9084b96301d3035da937a2ab89a4229f5b494c583b47578c8f1",
+  "name": "hobotown #780",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/780.png",
+  "imageHash": "a5a6c4bcc94523481cad30b4207960dca7cd83aacf0fcccbbc9f63f3f1221221",
+  "edition": 780,
+  "date": 1654146527351,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Red Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

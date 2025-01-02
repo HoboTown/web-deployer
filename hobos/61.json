@@ -1,0 +1,32 @@
+{
+  "dna": "863785caef30ab096f48fdf15f9d10bb1cd02fe74f5fc163c5b400325c37f0e8",
+  "name": "hobotown #61",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/61.png",
+  "imageHash": "7522bd0d5e626a5a0fa101c4893104d7c4914e4594c0d158577f70e26de88421",
+  "edition": 61,
+  "date": 1654145837168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Tattooed Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

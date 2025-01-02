@@ -1,0 +1,32 @@
+{
+  "dna": "e7be4cf4bda3ad107582861638d853eb9294092be19199f5cf3c3a69069e2d4b",
+  "name": "hobotown #737",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/737.png",
+  "imageHash": "1e69546d2942463d3448f1f136bcfaa43944a78b27dbab5f8e3e84a0f3512a1a",
+  "edition": 737,
+  "date": 1654146500295,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

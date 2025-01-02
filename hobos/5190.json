@@ -1,0 +1,32 @@
+{
+  "dna": "f3c76bffc5b9ffb72acb840be398ac52f9afb8591c9325ac500fecce2f367aae",
+  "name": "hobotown #5190",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5190.png",
+  "imageHash": "861da298fb7cde95f73cc974c80943f8c4ceb7503cea767b46aec14e1491f4d4",
+  "edition": 5190,
+  "date": 1654149902089,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

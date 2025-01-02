@@ -1,0 +1,32 @@
+{
+  "dna": "9f8f6a5c5aad4ac6f6c5e0f36a9cc65700e59ffe7aeff57f5c30e884ff57789d",
+  "name": "hobotown #749",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/749.png",
+  "imageHash": "0c31a0b34059a9bc359be77f02058b3d376e6670878de3bae551fa972501e758",
+  "edition": 749,
+  "date": 1654146508287,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Let Down"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

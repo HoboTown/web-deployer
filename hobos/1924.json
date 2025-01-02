@@ -1,0 +1,32 @@
+{
+  "dna": "2a10f3aeada9c8cfe5f5dd68a95ed8d0e3ef10e54b87b6538fd119ae8a6e6cb0",
+  "name": "hobotown #1924",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1924.png",
+  "imageHash": "acd320817acd2e96d048b4c618ab977f29a69870c3aa59b11784ca736ce169e7",
+  "edition": 1924,
+  "date": 1654147562268,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

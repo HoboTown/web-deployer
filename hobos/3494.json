@@ -1,0 +1,36 @@
+{
+  "dna": "99338f36820bf66428b763ec9d37e107ff58a8a5a59b13db300208983072bcf1",
+  "name": "hobotown #3494",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3494.png",
+  "imageHash": "7277814ea2a800a040a31475223cb0beceeb42652213346269cae5fda2257f7d",
+  "edition": 3494,
+  "date": 1654148861899,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Fat Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Long Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

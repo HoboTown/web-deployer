@@ -1,0 +1,32 @@
+{
+  "dna": "2c050f57f582ec46ed2e9016ba205059b6b9644c8d64a88e39b1a2a04c7fde30",
+  "name": "hobotown #6887",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6887.png",
+  "imageHash": "49831950e3464f4387365e339d9123f28ebf0881b1de4f46bd707815d0676f96",
+  "edition": 6887,
+  "date": 1654150813630,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

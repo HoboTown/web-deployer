@@ -1,0 +1,36 @@
+{
+  "dna": "67805465723652c569b97f0533fe96af0c4eaa786e27ea5f52382b165af2e950",
+  "name": "hobotown #6230",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6230.png",
+  "imageHash": "dc7d285358a8b747690757506314a98a02276e59643fc8e9341f3184296fa2f9",
+  "edition": 6230,
+  "date": 1654150441535,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Gangsta Outfit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Cross"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Yellow Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

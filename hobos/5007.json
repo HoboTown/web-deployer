@@ -1,0 +1,32 @@
+{
+  "dna": "8f014b7147d579e5d56244d12fd5b7cebfec251bd74d61a8f54da0a3c1aab451",
+  "name": "hobotown #5007",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5007.png",
+  "imageHash": "fd01ad7ef0a8beafc63451cb3b9fe2cc26a8558f0191c036ac312a51c849b681",
+  "edition": 5007,
+  "date": 1654149792978,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Skinny"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

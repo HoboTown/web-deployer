@@ -1,0 +1,36 @@
+{
+  "dna": "fe3a49e21c3a657ec1cc03cac76d7c17509f04f042da526212c27db00208c0e3",
+  "name": "hobotown #334",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/334.png",
+  "imageHash": "41cc6987c39a6f6223f2e576efa956eeaf507eb3eca431045df466fce3806bc4",
+  "edition": 334,
+  "date": 1654146126401,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

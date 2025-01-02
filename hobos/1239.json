@@ -1,0 +1,36 @@
+{
+  "dna": "92d27eee0ad46397f2c56ac3f532613b849e04d9a909504f65048f52980b634f",
+  "name": "hobotown #1239",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1239.png",
+  "imageHash": "6f2bfb8617c6c90d5479b1d7b860ee06e6d6ec411031348a39c572c9c94e179b",
+  "edition": 1239,
+  "date": 1654146920326,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

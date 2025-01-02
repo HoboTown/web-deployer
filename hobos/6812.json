@@ -1,0 +1,32 @@
+{
+  "dna": "3b81418e0fd9b4947dcb97b0e86ba3e10c42e6a07d05599aa0486567fda0c91a",
+  "name": "hobotown #6812",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6812.png",
+  "imageHash": "e8b0984ca11b328b16d9fb722ef10f4876b4d9c6c9960553cff178b54ee13fae",
+  "edition": 6812,
+  "date": 1654150774416,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Grin"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

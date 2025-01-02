@@ -1,0 +1,32 @@
+{
+  "dna": "5624b9b9040d8ab60f797970b80d6ae457d5581e4861e3096fc5fb2cfe5c2225",
+  "name": "hobotown #5994",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5994.png",
+  "imageHash": "2ad9a39d95418bc3c1aa06c98429bf6ce23644b552f7bb98cf278cb0bf973463",
+  "edition": 5994,
+  "date": 1654150299977,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

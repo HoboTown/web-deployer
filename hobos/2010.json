@@ -1,0 +1,32 @@
+{
+  "dna": "de7f6bdfb675a136870100c5646d3c969e1acd6bb8dbc2887d5dce0b6c75f4f0",
+  "name": "hobotown #2010",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2010.png",
+  "imageHash": "4a7816e3464bf50fa4ed72c8d51fadf9a6cca86f85deb3ef43aa38ba682c5d12",
+  "edition": 2010,
+  "date": 1654147653178,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Stained Wifebeater"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Brown Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single White Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

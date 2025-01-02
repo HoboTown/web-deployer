@@ -1,0 +1,36 @@
+{
+  "dna": "342a99840d5d049d0b5dd40a2b9c787d14226447c89c7ca8b9033a75bdea7b6c",
+  "name": "hobotown #1600",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1600.png",
+  "imageHash": "6585e51b165f4ea01d142316e788238c25f5a5999827862e8338733b672e8eb8",
+  "edition": 1600,
+  "date": 1654147241943,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Blue Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

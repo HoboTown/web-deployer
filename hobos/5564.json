@@ -1,0 +1,32 @@
+{
+  "dna": "8c8ff7610b1ce15957567f21ea698eab630b6887828412eaa66ff5c7642b3a0d",
+  "name": "hobotown #5564",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5564.png",
+  "imageHash": "df916665cd4f260f34c902c891f7309ab420225ca7462f761b305190d5e0c012",
+  "edition": 5564,
+  "date": 1654150094937,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Denim Overalls"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Teal Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

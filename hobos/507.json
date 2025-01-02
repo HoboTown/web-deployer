@@ -1,0 +1,36 @@
+{
+  "dna": "190764fe28cf1f96dad7a33f4819818d3854f2675ab3502b8cb16465b1e5a990",
+  "name": "hobotown #507",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/507.png",
+  "imageHash": "3be3c4b0e02d13571fe9fd46805fd2f38dad1244c38503fead2fe2ba3f05ebb4",
+  "edition": 507,
+  "date": 1654146297823,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

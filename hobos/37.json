@@ -1,0 +1,32 @@
+{
+  "dna": "1fd85797ffad8d6b31a1eb4779860089177c9d7dfa034e7827b01516e5db677c",
+  "name": "hobotown #37",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/37.png",
+  "imageHash": "dec4d34d85f20b618ade9090ef6e618a840d76671e3176c4c29accaf1c7e4350",
+  "edition": 37,
+  "date": 1654145816406,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Skinny Tattooed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

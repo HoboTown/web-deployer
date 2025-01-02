@@ -1,0 +1,32 @@
+{
+  "dna": "1d2550029853c469873008cd759dc28d2ad9492817173ea271636c07e9e37d1a",
+  "name": "hobotown #3602",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3602.png",
+  "imageHash": "3406850da7216a9c44094351eaeae9e9967ba6782df1ec51164da66cc7a7e45c",
+  "edition": 3602,
+  "date": 1654148926430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

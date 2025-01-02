@@ -1,0 +1,36 @@
+{
+  "dna": "99619edc8a819e80fb1c30348246e2c66276a52a213d3fb866c2481250348ac5",
+  "name": "hobotown #1879",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1879.png",
+  "imageHash": "1950d2d2efcd3d991efa94ac89c65f947b11618d776ccea76c30a1484975955d",
+  "edition": 1879,
+  "date": 1654147518537,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Chart Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Craaayyy"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Blonde Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

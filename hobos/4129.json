@@ -1,0 +1,32 @@
+{
+  "dna": "3671917387816021bdef8ac47f0795dc895cc9a82ed9ed12dff607c9e4e56b0f",
+  "name": "hobotown #4129",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4129.png",
+  "imageHash": "d3e9e73b01ae050a64628310b4c1df89a9d78abd9b92f23e941e70bc427f6c48",
+  "edition": 4129,
+  "date": 1654149238798,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Potato Sack Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

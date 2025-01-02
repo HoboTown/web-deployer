@@ -1,0 +1,32 @@
+{
+  "dna": "edd02e682ee298cd41bf7c97f6f6f6f9db4d902be3c55ba6b124b2178353ae9a",
+  "name": "hobotown #5796",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5796.png",
+  "imageHash": "681c6172fe4657419a73c3b4b7a82ae497e5a72463c22b8d5e232bd0ab1b7175",
+  "edition": 5796,
+  "date": 1654150208858,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Repulsive Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Baby Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "bdd6afddc6248e93a25881bfc600090c9467b3afdec1c0058ca803bb2fbfe313",
+  "name": "hobotown #863",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/863.png",
+  "imageHash": "d552363cb9c7f5ebbd4b8edcc2290307a2b07f04c62da9fe9141340cfb653f5a",
+  "edition": 863,
+  "date": 1654146584482,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

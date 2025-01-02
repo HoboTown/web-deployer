@@ -1,0 +1,32 @@
+{
+  "dna": "ecdeb3cd8bb32c26e211eb1cf778bc3965818077152a6d949dcf09063b12a4b2",
+  "name": "hobotown #3671",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3671.png",
+  "imageHash": "2104db6cc9c00f39454ebfa783135babd87beb86eebca0981b889daff8c122d7",
+  "edition": 3671,
+  "date": 1654148968747,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

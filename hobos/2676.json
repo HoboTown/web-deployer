@@ -1,0 +1,32 @@
+{
+  "dna": "7fde478e863faa1b243e16fbc479d96dea7adcdd13bfa4a1b62c5fe51280b782",
+  "name": "hobotown #2676",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2676.png",
+  "imageHash": "e6aaf8095453252c7b19f48eb91288b7bdd96cd52773ceb26c5dbbd131a26e6b",
+  "edition": 2676,
+  "date": 1654148299930,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Distraught"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "654d8e9987cf21b4fb796b1ae4edc996a034b53863cdfde36d796db0c2d7cf18",
+  "name": "hobotown #1981",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1981.png",
+  "imageHash": "55c2a4f14e5f26af8db2b3a643e87c77dfb89e7ee0612a08d04281fbc8668c65",
+  "edition": 1981,
+  "date": 1654147626403,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Long White Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "7a011be589a71cfdc6dc97756441f483cf27027f68152172f859003c1ea19290",
+  "name": "hobotown #6531",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6531.png",
+  "imageHash": "fe3efb0e718a6aad37951754032793e3afaa2765ab2854cca988fd9876afce82",
+  "edition": 6531,
+  "date": 1654150623157,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Blue Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sun Hat"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

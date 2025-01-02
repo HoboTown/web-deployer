@@ -1,0 +1,32 @@
+{
+  "dna": "7118349b7a824d94d851d8664dcc255a0bf297ea21aa455881d5c917c0d64bb3",
+  "name": "hobotown #4205",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4205.png",
+  "imageHash": "0e1e7c4512d6481c87795a5c8616e1aea4d8ff87af729263c6124ba5e92e5552",
+  "edition": 4205,
+  "date": 1654149285967,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

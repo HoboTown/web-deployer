@@ -1,0 +1,32 @@
+{
+  "dna": "ce8e575a40c6a255900203a68018507073bd56acc03639b907666a96275f9f1f",
+  "name": "hobotown #1107",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1107.png",
+  "imageHash": "2eb28e22aa04f4d2af32841e77b271ceb3fabc1ed9ca037fb23fadad0a3760eb",
+  "edition": 1107,
+  "date": 1654146792252,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Blonde Mustache Braid"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Viking Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

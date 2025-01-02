@@ -1,0 +1,36 @@
+{
+  "dna": "67106c87729b33a59389940f79bd3d241b4bcc4ab3378a08c5314d1948c4f75b",
+  "name": "hobotown #1967",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1967.png",
+  "imageHash": "d426ce2c43315d24b2729cb1d39789270bf6fa6777d78af63d88cf1465b9a020",
+  "edition": 1967,
+  "date": 1654147609845,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

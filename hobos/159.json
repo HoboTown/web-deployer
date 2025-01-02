@@ -1,0 +1,32 @@
+{
+  "dna": "e06a6fbfb84d20cec6c37a4f38edcb09ffc533531ae387f2e6ccf75414691ea2",
+  "name": "hobotown #159",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/159.png",
+  "imageHash": "7b71fe3d3742ca25033f90d4e0780c4fd5271d4de13b9cc57a542d8f8ee8e6a1",
+  "edition": 159,
+  "date": 1654145930993,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Orange Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

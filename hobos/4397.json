@@ -1,0 +1,32 @@
+{
+  "dna": "03e9465356e5c1fe4242ee087cee0b3c1655a86796232870cf2b0621f0d2b5c0",
+  "name": "hobotown #4397",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4397.png",
+  "imageHash": "a7e8f9e4fa624febf89ab7fd026478173c28ee26781a52ce51f20656fb35b735",
+  "edition": 4397,
+  "date": 1654149411883,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grey Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

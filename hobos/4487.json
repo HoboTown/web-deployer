@@ -1,0 +1,32 @@
+{
+  "dna": "90e792152743219dc1cad62fbaaa400fad14c795c419407497d97c9b345dd5bc",
+  "name": "hobotown #4487",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4487.png",
+  "imageHash": "5bdda12079f67531ffae9263caea83f4b722579f8ccf82a88a69aca09da2db45",
+  "edition": 4487,
+  "date": 1654149469983,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Small Frown"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Knapsack"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

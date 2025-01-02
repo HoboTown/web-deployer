@@ -1,0 +1,32 @@
+{
+  "dna": "11e11d4e1efc9eb9936866bdcf54d19337d12961baa35ab02865efd448e6738c",
+  "name": "hobotown #6634",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6634.png",
+  "imageHash": "44d7f3f46302edc534c1a00d8cdd6f79a6022ebaa0196c5cc2d975793a9180af",
+  "edition": 6634,
+  "date": 1654150676644,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

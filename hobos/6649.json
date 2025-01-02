@@ -1,0 +1,32 @@
+{
+  "dna": "6a893487a43ab073534bbb194a922d6ccaa24bf6c198235c49c0f16acd4d6013",
+  "name": "hobotown #6649",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6649.png",
+  "imageHash": "46079753721c5ec5f7d933154389f47eaf1e88456677cdd85f7b42cb5eeea28d",
+  "edition": 6649,
+  "date": 1654150684566,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fu Manchu"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Ponytail"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

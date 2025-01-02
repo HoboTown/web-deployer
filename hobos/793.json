@@ -1,0 +1,32 @@
+{
+  "dna": "aff8f09943a363cedb84742561a04a1000d1a2f54987cdcd383b303fc1c7356d",
+  "name": "hobotown #793",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/793.png",
+  "imageHash": "f0bcd7e02700d96438dff0431963f8d6e71c52896cb0eb80af1f0c213bdd3d36",
+  "edition": 793,
+  "date": 1654146534695,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Armor"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lady Like"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Shaggy Beard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

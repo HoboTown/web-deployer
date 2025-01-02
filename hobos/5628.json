@@ -1,0 +1,32 @@
+{
+  "dna": "a978014d89562cfb66aead1ea87dc5c93ed711ee8b984a5f463441079c103d4f",
+  "name": "hobotown #5628",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/5628.png",
+  "imageHash": "2f7182f0d5a5abe92462f292f25e0ec84f0375fc156e87defbf53ccd85115c18",
+  "edition": 5628,
+  "date": 1654150124738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

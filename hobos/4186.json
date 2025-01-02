@@ -1,0 +1,32 @@
+{
+  "dna": "202ec53036a78ff5adf54da98f93cca0ba830b9f096e14fc3d59770a9a2310ec",
+  "name": "hobotown #4186",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4186.png",
+  "imageHash": "17b5e226d249aefe28fcb1df502b81ba284e591398223b2ebbdd3a111e52d968",
+  "edition": 4186,
+  "date": 1654149273553,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Woke"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Evil Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Arrow"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

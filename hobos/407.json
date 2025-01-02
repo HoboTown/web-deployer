@@ -1,0 +1,36 @@
+{
+  "dna": "8346433b93374dd724093de21a267d1b7a2813615475f90baaadb654ed70bad6",
+  "name": "hobotown #407",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/407.png",
+  "imageHash": "715365a2ac31e8ab8297362ce256e88410b8f11a6e9ebff6672366330bd3ec23",
+  "edition": 407,
+  "date": 1654146206450,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Hairy Chest"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shook"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

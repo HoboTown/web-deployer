@@ -1,0 +1,32 @@
+{
+  "dna": "28a47a819ab06fe82260fccff97a466d4bebc270e7dd9fb4cb43032f7cc8bda9",
+  "name": "hobotown #1929",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1929.png",
+  "imageHash": "91423f1b291e8745c644150e2806f4da008c0e1786a40e058a64be6e95ffa807",
+  "edition": 1929,
+  "date": 1654147566891,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dirty Water"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pink Bra"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cheeky"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

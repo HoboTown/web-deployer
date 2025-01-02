@@ -1,0 +1,32 @@
+{
+  "dna": "f7c89c73ff8b10c6d2f9685725fc1f05eab9b95f82a9fd2759ad12610aad2517",
+  "name": "hobotown #190",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/190.png",
+  "imageHash": "33a22ad1b111193524a6f75762ff41dc5e73712a31c816ba60885f4b381d65cb",
+  "edition": 190,
+  "date": 1654145959674,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Orphan Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "d91ef7fed1b6294c0029adc3b837fcc58b6f96c5314931a7f06cc54d3d4fef3b",
+  "name": "hobotown #1791",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1791.png",
+  "imageHash": "e5765433f530f44ad54ff410331c47fa0fc95dbd439ada00d1f0fd1b757849a0",
+  "edition": 1791,
+  "date": 1654147435170,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Big Toof"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Strainer"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

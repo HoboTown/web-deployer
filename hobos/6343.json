@@ -1,0 +1,36 @@
+{
+  "dna": "de89773cae46687a5f7ef19f3c2c6db58c9546494645ed958cffd3711b0d80a6",
+  "name": "hobotown #6343",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6343.png",
+  "imageHash": "37dcd50e78daf110db81393c23f676a24d1ecb40ad778079be7a677be9839dff",
+  "edition": 6343,
+  "date": 1654150506725,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Burn Barrel Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cringe"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Silver Stud"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Brown Nordic Mohawk"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

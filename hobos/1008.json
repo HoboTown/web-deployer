@@ -1,0 +1,32 @@
+{
+  "dna": "2c3ca6092a611ee1b1ed2e5adf39249a0342e6bd4bc5a0496645ef2cecacffab",
+  "name": "hobotown #1008",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1008.png",
+  "imageHash": "884f367fff7205060c5f217048bba946a6916b2ce1bdb265aa2fe2095904dedc",
+  "edition": 1008,
+  "date": 1654146690402,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Purple Tanktop"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Goofy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buzzing Flies"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

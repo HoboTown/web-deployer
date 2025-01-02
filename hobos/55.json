@@ -1,0 +1,32 @@
+{
+  "dna": "1a24a8ea67b7839617949d0931cbf5b40bf204d72d7a767dea65a92de4306c67",
+  "name": "hobotown #55",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/55.png",
+  "imageHash": "9f2336b4ed82a8a6ff14794be5cea6fedb8d3e2281b840eab0dee621f378be26",
+  "edition": 55,
+  "date": 1654145832256,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Grey Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pursed"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

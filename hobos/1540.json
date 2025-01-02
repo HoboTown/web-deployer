@@ -1,0 +1,32 @@
+{
+  "dna": "5d26e0eb2d54720de437d326d21a89e7d273ee02f8d7f2a825bc0492b62166fe",
+  "name": "hobotown #1540",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1540.png",
+  "imageHash": "c728636cf4ea237bea7ac32b2d6f35f69561b81da02b146ebfbfefc546cc312c",
+  "edition": 1540,
+  "date": 1654147187571,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Terrified"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "a744abd3136a76425d8fbf655ffd0bcf062747a3e66a5bfd6812b3bc0933f3df",
+  "name": "hobotown #2941",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2941.png",
+  "imageHash": "be3cca097097c2ae775b025c2168fe126fb943175b6e446dca3cb94cc8a0d1a0",
+  "edition": 2941,
+  "date": 1654148495382,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Stone Cold"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Frying Pan"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

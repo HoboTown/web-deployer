@@ -1,0 +1,32 @@
+{
+  "dna": "d9926d9e251c4094599f1546dad99183bcc26c59eec83902f4f5f72e7b63893c",
+  "name": "hobotown #3520",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3520.png",
+  "imageHash": "6eef63286f3d554e72a732937ae7301faf1875eac43886c5cb13113b5fe7e930",
+  "edition": 3520,
+  "date": 1654148877680,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Tired"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

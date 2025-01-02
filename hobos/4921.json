@@ -1,0 +1,32 @@
+{
+  "dna": "2ae5ef30f986b168dd4cc1db40b1ac940c7e2959c44ffe38b7aa6d9551ac22cb",
+  "name": "hobotown #4921",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4921.png",
+  "imageHash": "6078e14bd0619d289a2cd3db04a294be8de3e379d88f11865e92e662cd8e4fe4",
+  "edition": 4921,
+  "date": 1654149735190,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Eggplant"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Bear Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pukey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

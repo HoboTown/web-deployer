@@ -1,0 +1,32 @@
+{
+  "dna": "33869b335c10ee3b8a138a3cdb24d0de9a2ae2dd09705b861da2c3fa5b0c8d36",
+  "name": "hobotown #4244",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4244.png",
+  "imageHash": "37c95548dfb2c8c135398efbef2328a176b6eff71673464284e70783fa55b655",
+  "edition": 4244,
+  "date": 1654149309769,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly Tattooed with Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dispair"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crazy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

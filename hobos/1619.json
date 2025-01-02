@@ -1,0 +1,32 @@
+{
+  "dna": "f5cda627c190147387b3eeb24ebd1773f12345ecbc771a7414a803ec530f0e47",
+  "name": "hobotown #1619",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1619.png",
+  "imageHash": "e538f9ab17e46cca9a7d17f9a1330f470124c792d0007a3440a86024151a1989",
+  "edition": 1619,
+  "date": 1654147262150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dazed"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Disgusting Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "668b6543dcd9f9bc35ee76c051a3604a87033ae18a966c557f5039c5f5cb2916",
+  "name": "hobotown #6682",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6682.png",
+  "imageHash": "8c12d3765f0dc490a4e0baad1df48db32ecd0c28d32a5feacb5a155f38fa55fd",
+  "edition": 6682,
+  "date": 1654150704051,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pigskin"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Green Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Roung Pink Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Blonde Long Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

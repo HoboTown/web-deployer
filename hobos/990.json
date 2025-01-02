@@ -1,0 +1,32 @@
+{
+  "dna": "984ab5f1e91190ffc825de01258ffb28098cf6a06279730f208edb9fb2f3058a",
+  "name": "hobotown #990",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/990.png",
+  "imageHash": "ecb373c95a71b569802b0ae3587c219fd7e92bb44e81c12ab23f2167335da51b",
+  "edition": 990,
+  "date": 1654146677255,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Orange Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Souless"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Firm Stubble"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

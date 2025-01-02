@@ -1,0 +1,28 @@
+{
+  "dna": "7a479ac0d1784806125cae8a1cc2828b3d7bfe020adac4720a95b6bec0bdbcd0",
+  "name": "hobotown #6280",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6280.png",
+  "imageHash": "3792fc614d19a386d5fb34bf6e23345448012a80024b8cfe3f371cf4958c7616",
+  "edition": 6280,
+  "date": 1654150468182,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Underpass"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brown Fat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Kissy"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

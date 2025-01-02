@@ -1,0 +1,32 @@
+{
+  "dna": "fa91a8a6b9c1551e2f8e5a11fc667c83c25909c97b551b91d3ecc58d14dda76e",
+  "name": "hobotown #1226",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1226.png",
+  "imageHash": "ee05b6abaeda9cb2a0cbe1ddc06f11d1c52f6317e22075d0485298cff7933132",
+  "edition": 1226,
+  "date": 1654146908606,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Evergreen"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Patchwork Puffer Coat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Wrap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Beanie"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

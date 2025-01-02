@@ -1,0 +1,32 @@
+{
+  "dna": "64e5eb61c896f2c90f130e283cc6ef6f5b6f3ca30423edd1f95ea2e5690266c9",
+  "name": "hobotown #3715",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3715.png",
+  "imageHash": "d5b3f48be0f60889754bade7d18d10c3cc0c1adaa761b6bab6d78c4bf3f4de65",
+  "edition": 3715,
+  "date": 1654148999981,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sludge"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Goblin with Red Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Rectangle Glasses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Regurgitation"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

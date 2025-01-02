@@ -1,0 +1,36 @@
+{
+  "dna": "d0a82ae7c243b0a07d0e45e8782a9a28661f516a7b1bef81f12b32204dac6343",
+  "name": "hobotown #4780",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/4780.png",
+  "imageHash": "33662cd46db687749c9673c737bd35499b9c0e0b6ba0fc359944a81e0afcf5da",
+  "edition": 4780,
+  "date": 1654149641616,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Rekt Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peering"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Eghhhhhh"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink Cap"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

@@ -1,0 +1,32 @@
+{
+  "dna": "6eb3e2a8e0325162f04117f9bff8f92990b860bb6914b05075f6bad9eb0e542b",
+  "name": "hobotown #2771",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/2771.png",
+  "imageHash": "ea26aa99ba696e704a8941ea71be5023cc097e5dc6a3eec90097e63daf72c22b",
+  "edition": 2771,
+  "date": 1654148368080,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rust"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Peepin'"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Grey Mustache"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Paper Bag It"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

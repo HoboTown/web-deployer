@@ -1,0 +1,32 @@
+{
+  "dna": "1709fe9e9cdabfa6590ec48069ace9596182e7fc47babd6d21934780db02280c",
+  "name": "hobotown #3074",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3074.png",
+  "imageHash": "08b21ea3f30a5408ef43a3a7234b562a2d6a19f11a230b5dce21fe4ca7a5b2f0",
+  "edition": 3074,
+  "date": 1654148586144,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moss"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Tan with Pierced Nips"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

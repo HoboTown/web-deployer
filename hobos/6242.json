@@ -1,0 +1,32 @@
+{
+  "dna": "dae86247a551d1a3b36661a2a498c12d9c914b133483e874861522bebfd832da",
+  "name": "hobotown #6242",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/6242.png",
+  "imageHash": "abe20c064543e9117d4cc9821d8a38bd0852abdbb7f45735f93beca7ecf82419",
+  "edition": 6242,
+  "date": 1654150447924,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Black Longsleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fast AF"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ciggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Single Black Braid"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

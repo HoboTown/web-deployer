@@ -1,0 +1,32 @@
+{
+  "dna": "770a6643f8256fda9c732f2a5ae49eb9a7cb9e89ffbb7c78fb214c2f42b5ffae",
+  "name": "hobotown #1934",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/1934.png",
+  "imageHash": "066ec58d1504cfe3cc1d166707fff4d2c7f0235b524568303ac9f333c4cf445c",
+  "edition": 1934,
+  "date": 1654147571620,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Urine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "White with Black Baseball Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ded"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rotten Fish"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}

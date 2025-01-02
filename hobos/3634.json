@@ -1,0 +1,32 @@
+{
+  "dna": "3c7249e468c6eb239a1fc3d847e0bcbb5c18f4ae97be8c5232e6a6dc972548d9",
+  "name": "hobotown #3634",
+  "image": "ipfs://QmZ5rWsHDDHg6b1YAWekSqktNTXpUQH3LNrnA9VZa2LYZp/3634.png",
+  "imageHash": "c08967af329bdc0477bb9d8e31d0c13dbc9f396ec8335152803b16537bb7af88",
+  "edition": 3634,
+  "date": 1654148945791,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sewage"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Sickly with Wen Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Up"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Whistling"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Messy Hair"
+    }
+  ],
+  "compiler": "hobocompiler",
+  "description": "hobos on thay ...err blokchayn a-takin' bak what thay ...err goblins done took frawum us"
+}
